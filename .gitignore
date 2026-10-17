@@ -1,0 +1,19 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# renv: la biblioteca local se reconstruye con renv::restore()
+renv/library/
+renv/staging/
+renv/local/
+renv/cellar/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de LibreOffice / Office
+.~lock.*#
+~$*

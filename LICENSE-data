@@ -1,0 +1,52 @@
+Licencia de los datos y la documentación
+========================================
+
+Copyright (c) 2026 Mario Guillermo Guerrero
+
+Salvo las excepciones indicadas más abajo, los datos y la documentación de este
+repositorio se distribuyen bajo la licencia Creative Commons Atribución 4.0
+Internacional (CC BY 4.0):
+
+    https://creativecommons.org/licenses/by/4.0/
+    Texto legal completo: https://creativecommons.org/licenses/by/4.0/legalcode.es
+
+Se permite copiar, redistribuir, adaptar y usar el material para cualquier
+fin, incluso comercial, siempre que se dé el crédito correspondiente (ver
+CITATION.cff), se incluya un enlace a la licencia y se indique si se
+realizaron cambios.
+
+Alcance
+-------
+- data/raw/reuniones/        Base de reuniones del BRICS construida por el autor.
+- data/processed/reuniones/  Base procesada y registro de cambios.
+- data/processed/militar/    Indicadores derivados por el autor (versión corregida
+                             y verificación). Ver excepción 1 para los datos de origen.
+- data/processed/agnu/       Tabla resumida derivada. Ver excepción 2.
+- data/raw/militar/00_capabilities_militares.ods, gasto_militar_comparado.csv,
+  cinc_index_comparado.csv   Cálculos del autor (versión publicada en la tesis).
+- docs/, README.md           Documentación.
+- outputs/figuras/           Figuras.
+
+Excepciones (datos de terceros)
+-------------------------------
+1. data/raw/militar/NMC-60-abridged_extracto_G7_BRICS_1980-2015.csv es un
+   extracto sin modificar de National Material Capabilities v6.0 (Correlates of
+   War Project). Se rige por las condiciones de su productor, que piden citar la
+   versión y los artículos de referencia:
+     - Singer, J. D., Bremer, S. y Stuckey, J. (1972). Capability Distribution,
+       Uncertainty, and Major Power War, 1820-1965. En B. Russett (ed.), Peace,
+       War, and Numbers (pp. 19-48). Beverly Hills: Sage.
+     - Singer, J. D. (1987). Reconstructing the Correlates of War Dataset on
+       Material Capabilities of States, 1816-1985. International Interactions,
+       14(1), 115-132.
+   Los indicadores derivados de este extracto deben citar también esta fuente.
+
+2. Los datos de votaciones de la Asamblea General de la ONU no se redistribuyen.
+   Provienen de Voeten, Strezhnev y Bailey, United Nations General Assembly
+   Voting Data (Harvard Dataverse, https://doi.org/10.7910/DVN/LEJUQZ), y se
+   obtienen con el paquete de R unvotes (licencia MIT). La tabla resumida
+   derivada debe citar también esa fuente.
+
+3. La tesis doctoral, citada pero no incluida en este repositorio, se rige por
+   su propia licencia (CC BY-NC-ND 4.0) en el Repositorio Institucional UNSAM:
+   https://ri.unsam.edu.ar/handle/123456789/2535

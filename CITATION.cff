@@ -1,0 +1,120 @@
+cff-version: 1.2.0
+message: >-
+  Si usás estos datos o este código, citalos con los metadatos de este archivo
+  y citá también la tesis (preferred-citation). If you use these data or code,
+  please cite them using these metadata and also cite the thesis.
+type: dataset
+title: >-
+  Datos y código de la tesis "Cooperando entre emergentes: el BRICS como caso
+  de estudio"
+abstract: >-
+  Datos, código en R y documentación de los análisis empíricos de la tesis
+  doctoral "Cooperando entre emergentes: el BRICS como caso de estudio"
+  (Universidad Nacional de San Martín, 2024). Incluye tres conjuntos: (1) una
+  base propia de 1.321 reuniones del BRICS (2006-2022) codificadas por nivel,
+  tipo formal/informal, organización marco, área y subárea temática, formato y
+  presidencia pro tempore; (2) indicadores de capacidades militares (gasto
+  militar y CINC) de los países del BRICS y del G7 (1980-2015), a partir de
+  Correlates of War NMC v6.0, en versión publicada en la tesis y versión
+  corregida; y (3) proporciones de votos de los países del BRICS en la
+  Asamblea General de la ONU (1946-2019), a partir de los datos de Voeten
+  distribuidos en el paquete de R unvotes 0.3.0.
+authors:
+  - family-names: Guerrero
+    given-names: Mario Guillermo
+    orcid: "https://orcid.org/0000-0002-2821-6351"
+    affiliation: CONICET-UNSL-CERI/UNCUYO
+    email: marioguillermo.guerrero@fulbrightmail.org
+# Se completan al publicar la primera versión (Etapa 7):
+# version: 1.0.0
+# date-released: AAAA-MM-DD
+# doi: 10.5281/zenodo.XXXXXXX
+# repository-code: https://github.com/lewismgg1992/brics-tesis-datos
+# Licencia del depósito (datos y documentación). El código se distribuye bajo
+# MIT (ver LICENSE). CFF interpreta varias licencias como alternativas, y
+# Zenodo admite una sola por depósito; por eso aquí se declara sólo CC BY 4.0.
+license: CC-BY-4.0
+keywords:
+  - BRICS
+  - cooperación internacional
+  - institucionalización
+  - reuniones BRICS
+  - capacidades militares
+  - Correlates of War
+  - Asamblea General de las Naciones Unidas
+  - votaciones
+  - R
+  - reproducibilidad
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: Guerrero
+      given-names: Mario Guillermo
+      orcid: "https://orcid.org/0000-0002-2821-6351"
+  title: "Cooperando entre emergentes: el BRICS como caso de estudio"
+  thesis-type: Tesis de Doctorado en Ciencia Política
+  institution:
+    name: "Universidad Nacional de San Martín, Escuela de Política y Gobierno"
+    country: AR
+  year: 2024
+  url: "https://ri.unsam.edu.ar/handle/123456789/2535"
+  languages:
+    - es
+references:
+  - type: dataset
+    title: National Material Capabilities (NMC) Data, Version 6.0
+    authors:
+      - name: Correlates of War Project
+    url: "https://correlatesofwar.org/data-sets/national-material-capabilities"
+  - type: book
+    title: >-
+      Capability Distribution, Uncertainty, and Major Power War, 1820-1965
+    authors:
+      - family-names: Singer
+        given-names: J. David
+      - family-names: Bremer
+        given-names: Stuart
+      - family-names: Stuckey
+        given-names: John
+    collection-title: "Peace, War, and Numbers"
+    editors:
+      - family-names: Russett
+        given-names: Bruce
+    publisher:
+      name: Sage
+    year: 1972
+    start: 19
+    end: 48
+  - type: article
+    title: >-
+      Reconstructing the Correlates of War Dataset on Material Capabilities of
+      States, 1816-1985
+    authors:
+      - family-names: Singer
+        given-names: J. David
+    journal: International Interactions
+    volume: 14
+    issue: 1
+    year: 1987
+    start: 115
+    end: 132
+  - type: dataset
+    title: United Nations General Assembly Voting Data
+    authors:
+      - family-names: Voeten
+        given-names: Erik
+      - family-names: Strezhnev
+        given-names: Anton
+      - family-names: Bailey
+        given-names: Michael
+    publisher:
+      name: Harvard Dataverse
+    doi: 10.7910/DVN/LEJUQZ
+  - type: software
+    title: "unvotes: United Nations General Assembly Voting Data"
+    authors:
+      - family-names: Robinson
+        given-names: David
+    version: 0.3.0
+    year: 2021
+    url: "https://cran.r-project.org/package=unvotes"

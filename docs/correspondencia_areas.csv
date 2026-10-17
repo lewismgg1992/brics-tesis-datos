@@ -1,0 +1,137 @@
+area_base,subarea_base,n_reuniones,area_tesis,subarea_tesis_propuesta,estado
+agriculture,business,1,Agricultura,Negocios,Coincide con Tabla 9.1
+agriculture,food security,3,Agricultura,Seguridad Alimentaria,Coincide con Tabla 9.1
+agriculture,general,31,Agricultura,General,Coincide con Tabla 9.1
+communication,general,8,Comunicación,General,Coincide con Tabla 9.1
+communication,media,7,Comunicación,Medios de Comunicación,Coincide con Tabla 9.1
+communication,telecommunication,3,Comunicación,Telecomunicaciones,Coincide con Tabla 9.1
+culture,contest,1,Cultura,Concurso,Coincide con Tabla 9.1
+culture,general,17,Cultura,General,Coincide con Tabla 9.1
+culture,libraries,1,Cultura,Biblioteca,Coincide con Tabla 9.1
+culture,movies,11,Cultura,Cine,Coincide con Tabla 9.1
+culture,museums,1,Cultura,Museo,Coincide con Tabla 9.1
+culture,photography,1,Cultura,Fotografía,Coincide con Tabla 9.1
+culture,sport,10,Cultura,Deporte,Coincide con Tabla 9.1
+culture,theater,3,Cultura,Teatro,Coincide con Tabla 9.1
+culture,tourism,7,Cultura,Turismo,Coincide con Tabla 9.1
+disaster management,general,8,Manejo de desastres,General,Coincide con Tabla 9.1
+disaster management,task-force,4,Manejo de desastres,Task force,Coincide con Tabla 9.1
+disaster management,urban-search,1,Manejo de desastres,Búsqueda urbana,Coincide con Tabla 9.1
+economy,finance,201,Economía,Finanzas,Coincide con Tabla 9.1
+economy,general,42,Economía,General,Coincide con Tabla 9.1
+economy,trade,128,Economía,Comercio,Coincide con Tabla 9.1
+education,academia,31,Educación,Academia,Coincide con Tabla 9.1
+education,general,19,Educación,General,Coincide con Tabla 9.1
+education,math,2,Educación,Matemática,Coincide con Tabla 9.1
+education,schools,2,Educación,Escuela,Coincide con Tabla 9.1
+education,university,11,Educación,Universidad,Coincide con Tabla 9.1
+education,vocational-education,2,Educación,Educación vocacional,Coincide con Tabla 9.1
+energy,business,1,Energía,Negocios,Coincide con Tabla 9.1
+energy,climate-change,1,Energía,Cambio climático,Sin equivalente en Tabla 9.1
+energy,energy agency,1,Energía,Agencias energéticas,Coincide con Tabla 9.1
+energy,energy efficiency,13,Energía,Eficiencia energética,Coincide con Tabla 9.1
+energy,general,17,Energía,General,Coincide con Tabla 9.1
+energy,green-hydrogen,1,Energía,Hidrógeno verde,Coincide con Tabla 9.1
+energy,green-investment,1,Energía,Green investment,Coincide con Tabla 9.1
+energy,research cooperation,3,Energía,Investigación y Cooperación,Coincide con Tabla 9.1
+energy,technology,1,Energía,Tecnología,Coincide con Tabla 9.1
+energy,youth,2,Energía,Juventud,Coincide con Tabla 9.1
+environment,agua,1,Ambiente,Agua,Coincide con Tabla 9.1
+environment,climate-change,1,Ambiente,Cambio climático,Coincide con Tabla 9.1
+environment,general,18,Ambiente,General,Coincide con Tabla 9.1
+environment,polar and ocean science,4,Ambiente,Ciencia Polar y Oceánica,Coincide con Tabla 9.1
+environment,sustainable-development,3,Ambiente,Desarrollo Sostenible,Coincide con Tabla 9.1
+environment,water,6,Ambiente,Agua,Coincide con Tabla 9.1
+foreign,International-organizations,1,Exterior,Organismos internacionales,Coincide con Tabla 9.1
+foreign,academia,1,Exterior,Academia,Sin equivalente en Tabla 9.1
+foreign,general,28,Exterior,General,Coincide con Tabla 9.1
+foreign,middle east,6,Exterior,Medio Oriente,Coincide con Tabla 9.1
+foreign,policy-planning,7,Exterior,Policy planning,Coincide con Tabla 9.1
+foreign,social communication,1,Exterior,Comunicación Social,Coincide con Tabla 9.1
+foreign,youth,7,Exterior,Juventud,Coincide con Tabla 9.1
+government,audit,3,Gobierno,Auditoría,Coincide con Tabla 9.1
+government,corruption,20,Gobierno,Corrupción,Coincide con Tabla 9.1
+government,general,2,Gobierno,General,Coincide con Tabla 9.1
+government,governance,5,Gobierno,Gobernanza,Coincide con Tabla 9.1
+government,judicial,19,Gobierno,Judicial,Coincide con Tabla 9.1
+government,legislative,10,Gobierno,Legislativo,Coincide con Tabla 9.1
+government,local government,18,Gobierno,Gobierno Local,Coincide con Tabla 9.1
+government,police,1,Gobierno,Policía,Coincide con Tabla 9.1
+government,state owned enterprises,1,Gobierno,(state owned enterprises),Sin equivalente en Tabla 9.1
+government,statistics,22,Gobierno,Estadística,Coincide con Tabla 9.1
+government,youth,2,Gobierno,Juventud,Coincide con Tabla 9.1
+health,biomedicine,6,Salud,Biomedicina,Coincide con Tabla 9.1
+health,covid,2,Salud,COVID-19,Coincide con Tabla 9.1
+health,digital health,1,Salud,Salud digital,Coincide con Tabla 9.1
+health,general,32,Salud,General,Coincide con Tabla 9.1
+health,health surveillance system,1,Salud,Sistema de Vigilancia Sanitaria,Coincide con Tabla 9.1
+health,hiv,1,Salud,HIV,Coincide con Tabla 9.1
+health,human milk bank,1,Salud,(banco de leche humana),Sin equivalente en Tabla 9.1
+health,hypertension,1,Salud,Hipertensión,Coincide con Tabla 9.1
+health,infectious diseases,1,Salud,Enfermedades infecciosas,Coincide con Tabla 9.1
+health,medicines,7,Salud,Farmacéuticos,Coincide con Tabla 9.1
+health,oms,1,Salud,(OMS),Sin equivalente en Tabla 9.1
+health,oncological diseases,1,Salud,Oncología,Coincide con Tabla 9.1
+health,traditional-medicine,5,Salud,Medicina tradicional,Coincide con Tabla 9.1
+health,tuberculosis,11,Salud,Tuberculosis,Coincide con Tabla 9.1
+health,vaccine,1,Salud,Vacuna,Coincide con Tabla 9.1
+industry,cooperatives,4,Industria,Cooperativas,No figura en Tabla 9.1; sí en la lista de Industria del Anexo .odt
+industry,general,12,Industria,General,Coincide con Tabla 9.1
+industry,incubators,4,Industria,Incubadoras,No figura en Tabla 9.1; sí en la lista de Industria del Anexo .odt
+industry,industrial safety,1,Industria,Seguridad Industrial,No figura en Tabla 9.1; sí en la lista de Industria del Anexo .odt
+industry,innovation,1,Industria,Innovación,No figura en Tabla 9.1; sí en la lista de Industria del Anexo .odt
+industry,internet,1,Industria,Internet,No figura en Tabla 9.1; sí en la lista de Industria del Anexo .odt
+industry,investments,10,Industria,Inversiones,Coincide con Tabla 9.1
+industry,research cooperation,1,Industria,Investigación y Cooperación,Coincide con Tabla 9.1
+industry,sme,5,Industria,Pymes (sme),No figura en Tabla 9.1; sí en la lista de Industria del Anexo .odt
+industry,start-up,1,Industria,Start up,No figura en Tabla 9.1; sí en la lista de Industria del Anexo .odt
+infrastructure,general,1,Infraestructura,General,Área sin fila en Tabla 9.1 (sí en Anexo .odt)
+infrastructure,investments,9,Infraestructura,Inversiones,Área sin fila en Tabla 9.1 (sí en Anexo .odt)
+infrastructure,research cooperation,5,Infraestructura,Investigación y Cooperación,Área sin fila en Tabla 9.1
+infrastructure,trains,2,Infraestructura,Trenes,Área sin fila en Tabla 9.1 (sí en Anexo .odt)
+infrastructure,transport,3,Infraestructura,Transporte,Área sin fila en Tabla 9.1 (sí en Anexo .odt)
+labour,general,24,Trabajo y Empleo,General,Coincide con Tabla 9.1
+labour,research cooperation,1,Trabajo y Empleo,Investigación y Cooperación,Coincide con Tabla 9.1
+labour,women,1,Trabajo y Empleo,Mujeres,Coincide con Tabla 9.1
+organizational,general,19,Organización,General,Sin equivalente en Tabla 9.1
+organizational,sherpas,44,Organización,Sherpas,Coincide con Tabla 9.1
+organizational,sous-sherpa,1,Organización,Subsherpas,Coincide con Tabla 9.1
+organizational,summit,14,Organización,Summit,Coincide con Tabla 9.1
+security-defense,International-security,1,Seguridad y Defensa,Seguridad internacional,Coincide con Tabla 9.1
+security-defense,anti money laundering,8,Seguridad y Defensa,Antilavado de dinero,Coincide con Tabla 9.1
+security-defense,cit,1,Seguridad y Defensa,Combate al Tráfico Ilícito,Coincide con Tabla 9.1
+security-defense,drugs,11,Seguridad y Defensa,Drogas,Coincide con Tabla 9.1
+security-defense,general,17,Seguridad y Defensa,General,Coincide con Tabla 9.1
+security-defense,ict,8,Seguridad y Defensa,Information and communications technologies,Sin equivalente en Tabla 9.1
+security-defense,middle east,2,Seguridad y Defensa,Medio Oriente,Sin equivalente en Tabla 9.1
+security-defense,military pentathlon,1,Seguridad y Defensa,(pentatlón militar),Sin equivalente en Tabla 9.1
+security-defense,outer space,1,Seguridad y Defensa,Espacio Exterior,Sin equivalente en Tabla 9.1
+security-defense,peacekeeping,2,Seguridad y Defensa,Peacekeeping,Coincide con Tabla 9.1
+security-defense,terrorism,11,Seguridad y Defensa,Terrorismo,Coincide con Tabla 9.1
+social,civil society,8,Social,Sociedad Civil,Coincide con Tabla 9.1
+social,cultural diversity,1,Social,Diversidad Cultural,Coincide con Tabla 9.1
+social,development,5,Social,Desarrollo,Coincide con Tabla 9.1
+social,general,1,Social,General,Coincide con Tabla 9.1
+social,handicraft artisans,1,Social,Artesanos,Coincide con Tabla 9.1
+social,migration,2,Social,Migración,Coincide con Tabla 9.1
+social,political parties,2,Social,Partidos Políticos,Coincide con Tabla 9.1
+social,population,8,Social,Población,Coincide con Tabla 9.1
+social,rural-development,1,Social,Desarrollo rural,Coincide con Tabla 9.1
+social,think tank,17,Social,Think Tank,Coincide con Tabla 9.1
+social,union,9,Social,Sindicalismo,Coincide con Tabla 9.1
+social,urbanism,6,Social,Urbanismo,Coincide con Tabla 9.1
+social,women,1,Social,Mujeres,Coincide con Tabla 9.1
+social,youth,16,Social,Juventud,Coincide con Tabla 9.1
+sti,cooperation,4,"Ciencia, tecnología e innovación",Cooperación,Coincide con Tabla 9.1
+sti,general,48,"Ciencia, tecnología e innovación",General,Coincide con Tabla 9.1
+sti,ict,23,"Ciencia, tecnología e innovación",Information and communications technologies,Coincide con Tabla 9.1
+sti,innovation,2,"Ciencia, tecnología e innovación",Innovación,Coincide con Tabla 9.1
+sti,intellectual property,16,"Ciencia, tecnología e innovación",(propiedad intelectual),Sin equivalente en Tabla 9.1
+sti,investments,3,"Ciencia, tecnología e innovación",Inversiones,Coincide con Tabla 9.1
+sti,outer space,20,"Ciencia, tecnología e innovación",Espacio Exterior,Coincide con Tabla 9.1
+sti,physics,5,"Ciencia, tecnología e innovación",Física,Coincide con Tabla 9.1
+sti,promotion,1,"Ciencia, tecnología e innovación",Promoción,Coincide con Tabla 9.1
+sti,skills,3,"Ciencia, tecnología e innovación",Skills,Coincide con Tabla 9.1
+sti,technology,24,"Ciencia, tecnología e innovación",Tecnología,Coincide con Tabla 9.1
+sti,women,2,"Ciencia, tecnología e innovación",Mujeres,Coincide con Tabla 9.1
+sti,youth,9,"Ciencia, tecnología e innovación",Juventud,Coincide con Tabla 9.1

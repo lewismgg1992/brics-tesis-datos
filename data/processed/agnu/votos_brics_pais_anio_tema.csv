@@ -1,0 +1,1460 @@
+country,year,issue,votes,percent_yes,percent_no,percent_abstain
+Brazil,1948,Arms control and disarmament,9,0,1,0
+Brazil,1960,Arms control and disarmament,6,0.6666666666666666,0.16666666666666666,0.16666666666666666
+Brazil,1961,Arms control and disarmament,7,0.42857142857142855,0,0.5714285714285714
+Brazil,1962,Arms control and disarmament,6,1,0,0
+Brazil,1971,Arms control and disarmament,11,0.5454545454545454,0,0.45454545454545453
+Brazil,1972,Arms control and disarmament,10,0.8,0,0.2
+Brazil,1973,Arms control and disarmament,7,0.8571428571428571,0,0.14285714285714285
+Brazil,1974,Arms control and disarmament,14,0.5,0,0.5
+Brazil,1975,Arms control and disarmament,13,0.8461538461538461,0,0.15384615384615385
+Brazil,1976,Arms control and disarmament,10,0.7,0,0.3
+Brazil,1977,Arms control and disarmament,10,0.9,0,0.1
+Brazil,1978,Arms control and disarmament,13,0.7692307692307693,0,0.23076923076923078
+Brazil,1979,Arms control and disarmament,15,0.6,0,0.4
+Brazil,1980,Arms control and disarmament,18,0.6666666666666666,0.05555555555555555,0.2777777777777778
+Brazil,1981,Arms control and disarmament,28,0.6785714285714286,0.07142857142857142,0.25
+Brazil,1982,Arms control and disarmament,27,0.7037037037037037,0,0.2962962962962963
+Brazil,1983,Arms control and disarmament,37,0.7567567567567568,0.02702702702702703,0.21621621621621623
+Brazil,1984,Arms control and disarmament,34,0.6176470588235294,0,0.38235294117647056
+Brazil,1985,Arms control and disarmament,40,0.675,0,0.325
+Brazil,1986,Arms control and disarmament,36,0.6388888888888888,0,0.3611111111111111
+Brazil,1987,Arms control and disarmament,28,0.75,0,0.25
+Brazil,1988,Arms control and disarmament,30,0.7333333333333333,0,0.26666666666666666
+Brazil,1989,Arms control and disarmament,29,0.8275862068965517,0,0.1724137931034483
+Brazil,1990,Arms control and disarmament,16,0.875,0,0.125
+Brazil,1991,Arms control and disarmament,14,0.9285714285714286,0,0.07142857142857142
+Brazil,1992,Arms control and disarmament,12,0.9166666666666666,0,0.08333333333333333
+Brazil,1993,Arms control and disarmament,11,0.7272727272727273,0,0.2727272727272727
+Brazil,1994,Arms control and disarmament,15,0.7333333333333333,0,0.26666666666666666
+Brazil,1995,Arms control and disarmament,18,0.7777777777777778,0,0.2222222222222222
+Brazil,1996,Arms control and disarmament,20,0.85,0,0.15
+Brazil,1997,Arms control and disarmament,22,0.9545454545454546,0,0.045454545454545456
+Brazil,1998,Arms control and disarmament,24,0.9166666666666666,0,0.08333333333333333
+Brazil,1999,Arms control and disarmament,19,0.8947368421052632,0,0.10526315789473684
+Brazil,2000,Arms control and disarmament,16,0.875,0,0.125
+Brazil,2001,Arms control and disarmament,17,0.8823529411764706,0,0.11764705882352941
+Brazil,2002,Arms control and disarmament,23,0.8260869565217391,0,0.17391304347826086
+Brazil,2003,Arms control and disarmament,16,0.875,0,0.125
+Brazil,2004,Arms control and disarmament,20,0.85,0,0.15
+Brazil,2005,Arms control and disarmament,23,0.9130434782608695,0,0.08695652173913043
+Brazil,2006,Arms control and disarmament,27,0.9629629629629629,0,0.037037037037037035
+Brazil,2007,Arms control and disarmament,20,1,0,0
+Brazil,2008,Arms control and disarmament,25,1,0,0
+Brazil,2009,Arms control and disarmament,20,1,0,0
+Brazil,2010,Arms control and disarmament,23,0.9565217391304348,0,0.043478260869565216
+Brazil,2011,Arms control and disarmament,24,0.9583333333333334,0,0.041666666666666664
+Brazil,2012,Arms control and disarmament,23,0.9565217391304348,0,0.043478260869565216
+Brazil,2013,Arms control and disarmament,18,0.9444444444444444,0,0.05555555555555555
+Brazil,2014,Arms control and disarmament,22,0.9090909090909091,0,0.09090909090909091
+Brazil,2015,Arms control and disarmament,21,1,0,0
+Brazil,2016,Arms control and disarmament,35,1,0,0
+Brazil,2017,Arms control and disarmament,29,0.896551724137931,0,0.10344827586206896
+Brazil,2018,Arms control and disarmament,17,0.8823529411764706,0,0.11764705882352941
+Brazil,2019,Arms control and disarmament,16,0.875,0,0.125
+Brazil,1946,Colonialism,15,0.8666666666666667,0.06666666666666667,0.06666666666666667
+Brazil,1947,Colonialism,9,0.6666666666666666,0.3333333333333333,0
+Brazil,1948,Colonialism,12,0.8333333333333334,0.16666666666666666,0
+Brazil,1949,Colonialism,15,0.6,0.26666666666666666,0.13333333333333333
+Brazil,1950,Colonialism,12,0.9166666666666666,0,0.08333333333333333
+Brazil,1952,Colonialism,15,0.7333333333333333,0.06666666666666667,0.2
+Brazil,1953,Colonialism,9,0.6666666666666666,0,0.3333333333333333
+Brazil,1957,Colonialism,9,0.4444444444444444,0.3333333333333333,0.2222222222222222
+Brazil,1959,Colonialism,16,0.5,0.375,0.125
+Brazil,1960,Colonialism,11,0.2727272727272727,0.6363636363636364,0.09090909090909091
+Brazil,1961,Colonialism,15,0.6666666666666666,0.2,0.13333333333333333
+Brazil,1962,Colonialism,21,0.42857142857142855,0.2857142857142857,0.2857142857142857
+Brazil,1965,Colonialism,12,0.5,0.25,0.25
+Brazil,1966,Colonialism,17,0.5882352941176471,0.17647058823529413,0.23529411764705882
+Brazil,1967,Colonialism,14,0.5714285714285714,0.14285714285714285,0.2857142857142857
+Brazil,1968,Colonialism,11,0.2727272727272727,0.5454545454545454,0.18181818181818182
+Brazil,1969,Colonialism,14,0.21428571428571427,0,0.7857142857142857
+Brazil,1970,Colonialism,16,0.1875,0.0625,0.75
+Brazil,1971,Colonialism,22,0.36363636363636365,0.09090909090909091,0.5454545454545454
+Brazil,1972,Colonialism,8,0.25,0.125,0.625
+Brazil,1973,Colonialism,23,0.4782608695652174,0.13043478260869565,0.391304347826087
+Brazil,1974,Colonialism,12,0.9166666666666666,0,0.08333333333333333
+Brazil,1975,Colonialism,22,0.7727272727272727,0,0.22727272727272727
+Brazil,1976,Colonialism,18,0.8888888888888888,0,0.1111111111111111
+Brazil,1977,Colonialism,18,0.9444444444444444,0,0.05555555555555555
+Brazil,1978,Colonialism,15,0.8666666666666667,0,0.13333333333333333
+Brazil,1979,Colonialism,20,0.9,0,0.1
+Brazil,1980,Colonialism,16,0.875,0,0.125
+Brazil,1981,Colonialism,17,0.9411764705882353,0,0.058823529411764705
+Brazil,1982,Colonialism,23,0.9565217391304348,0,0.043478260869565216
+Brazil,1983,Colonialism,17,1,0,0
+Brazil,1984,Colonialism,23,0.9565217391304348,0,0.043478260869565216
+Brazil,1985,Colonialism,13,0.9230769230769231,0,0.07692307692307693
+Brazil,1986,Colonialism,16,0.9375,0,0.0625
+Brazil,1987,Colonialism,12,1,0,0
+Brazil,1988,Colonialism,14,1,0,0
+Brazil,1989,Colonialism,13,1,0,0
+Brazil,1990,Colonialism,14,1,0,0
+Brazil,1991,Colonialism,15,1,0,0
+Brazil,1992,Colonialism,14,0.9285714285714286,0,0.07142857142857142
+Brazil,1993,Colonialism,11,1,0,0
+Brazil,1994,Colonialism,13,1,0,0
+Brazil,1995,Colonialism,14,1,0,0
+Brazil,1996,Colonialism,12,1,0,0
+Brazil,1997,Colonialism,12,1,0,0
+Brazil,1998,Colonialism,13,1,0,0
+Brazil,1999,Colonialism,13,1,0,0
+Brazil,2000,Colonialism,13,1,0,0
+Brazil,2001,Colonialism,12,1,0,0
+Brazil,2002,Colonialism,11,1,0,0
+Brazil,2003,Colonialism,10,1,0,0
+Brazil,2004,Colonialism,9,1,0,0
+Brazil,2005,Colonialism,10,1,0,0
+Brazil,2006,Colonialism,17,0.9411764705882353,0,0.058823529411764705
+Brazil,2007,Colonialism,11,1,0,0
+Brazil,2008,Colonialism,15,0.9333333333333333,0,0.06666666666666667
+Brazil,2009,Colonialism,14,1,0,0
+Brazil,2010,Colonialism,13,1,0,0
+Brazil,2011,Colonialism,12,1,0,0
+Brazil,2012,Colonialism,13,1,0,0
+Brazil,2013,Colonialism,13,1,0,0
+Brazil,2014,Colonialism,9,1,0,0
+Brazil,2015,Colonialism,10,1,0,0
+Brazil,2016,Colonialism,11,1,0,0
+Brazil,2017,Colonialism,16,0.875,0,0.125
+Brazil,2019,Colonialism,16,0.875,0,0.125
+Brazil,1946,Economic development,10,0.6,0.3,0.1
+Brazil,1948,Economic development,8,0.625,0.375,0
+Brazil,1949,Economic development,8,0.375,0.125,0.5
+Brazil,1959,Economic development,6,0.8333333333333334,0.16666666666666666,0
+Brazil,1961,Economic development,11,0.45454545454545453,0.2727272727272727,0.2727272727272727
+Brazil,1962,Economic development,6,0.5,0.16666666666666666,0.3333333333333333
+Brazil,1966,Economic development,6,0.8333333333333334,0.16666666666666666,0
+Brazil,1967,Economic development,6,0.5,0,0.5
+Brazil,1968,Economic development,6,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Brazil,1970,Economic development,9,0.8888888888888888,0,0.1111111111111111
+Brazil,1971,Economic development,26,0.9615384615384616,0.038461538461538464,0
+Brazil,1972,Economic development,29,0.8275862068965517,0.10344827586206896,0.06896551724137931
+Brazil,1973,Economic development,20,0.7,0.1,0.2
+Brazil,1974,Economic development,6,0.8333333333333334,0.16666666666666666,0
+Brazil,1975,Economic development,11,1,0,0
+Brazil,1976,Economic development,27,1,0,0
+Brazil,1977,Economic development,22,1,0,0
+Brazil,1978,Economic development,23,0.9565217391304348,0.043478260869565216,0
+Brazil,1979,Economic development,25,0.92,0,0.08
+Brazil,1980,Economic development,15,0.9333333333333333,0.06666666666666667,0
+Brazil,1981,Economic development,21,0.9047619047619048,0,0.09523809523809523
+Brazil,1982,Economic development,27,0.7407407407407407,0.037037037037037035,0.2222222222222222
+Brazil,1983,Economic development,24,0.8333333333333334,0.041666666666666664,0.125
+Brazil,1984,Economic development,19,0.8947368421052632,0,0.10526315789473684
+Brazil,1985,Economic development,25,0.96,0,0.04
+Brazil,1986,Economic development,20,1,0,0
+Brazil,1987,Economic development,20,1,0,0
+Brazil,1988,Economic development,18,0.8888888888888888,0,0.1111111111111111
+Brazil,1989,Economic development,19,0.9473684210526315,0,0.05263157894736842
+Brazil,1990,Economic development,6,1,0,0
+Brazil,1991,Economic development,8,1,0,0
+Brazil,1992,Economic development,6,1,0,0
+Brazil,1993,Economic development,6,1,0,0
+Brazil,1998,Economic development,6,0.8333333333333334,0,0.16666666666666666
+Brazil,1999,Economic development,7,1,0,0
+Brazil,2002,Economic development,6,0.8333333333333334,0,0.16666666666666666
+Brazil,2003,Economic development,7,1,0,0
+Brazil,2004,Economic development,7,1,0,0
+Brazil,2005,Economic development,9,1,0,0
+Brazil,2006,Economic development,9,1,0,0
+Brazil,2007,Economic development,12,1,0,0
+Brazil,2008,Economic development,12,1,0,0
+Brazil,2009,Economic development,12,1,0,0
+Brazil,2010,Economic development,7,0.8571428571428571,0,0.14285714285714285
+Brazil,2011,Economic development,9,0.8888888888888888,0,0.1111111111111111
+Brazil,2012,Economic development,12,1,0,0
+Brazil,2013,Economic development,7,1,0,0
+Brazil,2014,Economic development,11,0.9090909090909091,0,0.09090909090909091
+Brazil,2015,Economic development,8,1,0,0
+Brazil,2016,Economic development,14,0.9285714285714286,0.07142857142857142,0
+Brazil,2017,Economic development,20,0.95,0,0.05
+Brazil,2018,Economic development,18,0.9444444444444444,0,0.05555555555555555
+Brazil,2019,Economic development,16,0.875,0,0.125
+Brazil,1948,Human rights,6,0.16666666666666666,0.8333333333333334,0
+Brazil,1949,Human rights,6,0.8333333333333334,0.16666666666666666,0
+Brazil,1952,Human rights,8,0.5,0.375,0.125
+Brazil,1953,Human rights,6,0.6666666666666666,0.16666666666666666,0.16666666666666666
+Brazil,1956,Human rights,6,1,0,0
+Brazil,1966,Human rights,9,1,0,0
+Brazil,1970,Human rights,13,0.46153846153846156,0,0.5384615384615384
+Brazil,1971,Human rights,9,0.5555555555555556,0,0.4444444444444444
+Brazil,1972,Human rights,17,0.6470588235294118,0.058823529411764705,0.29411764705882354
+Brazil,1973,Human rights,23,0.6086956521739131,0.08695652173913043,0.30434782608695654
+Brazil,1974,Human rights,19,0.7894736842105263,0.10526315789473684,0.10526315789473684
+Brazil,1975,Human rights,19,0.7368421052631579,0.05263157894736842,0.21052631578947367
+Brazil,1976,Human rights,15,0.7333333333333333,0.06666666666666667,0.2
+Brazil,1977,Human rights,19,0.7368421052631579,0.05263157894736842,0.21052631578947367
+Brazil,1978,Human rights,14,0.5714285714285714,0.21428571428571427,0.21428571428571427
+Brazil,1979,Human rights,15,0.7333333333333333,0.06666666666666667,0.2
+Brazil,1980,Human rights,17,0.8235294117647058,0.11764705882352941,0.058823529411764705
+Brazil,1981,Human rights,13,0.7692307692307693,0.07692307692307693,0.15384615384615385
+Brazil,1982,Human rights,21,0.8095238095238095,0.14285714285714285,0.047619047619047616
+Brazil,1983,Human rights,19,0.8421052631578947,0.15789473684210525,0
+Brazil,1984,Human rights,15,0.8,0.06666666666666667,0.13333333333333333
+Brazil,1985,Human rights,16,0.875,0,0.125
+Brazil,1986,Human rights,24,0.9166666666666666,0,0.08333333333333333
+Brazil,1987,Human rights,19,0.8947368421052632,0,0.10526315789473684
+Brazil,1988,Human rights,17,0.8235294117647058,0,0.17647058823529413
+Brazil,1989,Human rights,14,0.9285714285714286,0,0.07142857142857142
+Brazil,1990,Human rights,10,1,0,0
+Brazil,1991,Human rights,11,1,0,0
+Brazil,1992,Human rights,11,0.9090909090909091,0,0.09090909090909091
+Brazil,1993,Human rights,11,0.9090909090909091,0,0.09090909090909091
+Brazil,1994,Human rights,14,0.9285714285714286,0,0.07142857142857142
+Brazil,1995,Human rights,14,0.9285714285714286,0,0.07142857142857142
+Brazil,1996,Human rights,17,0.9411764705882353,0,0.058823529411764705
+Brazil,1997,Human rights,20,0.95,0,0.05
+Brazil,1998,Human rights,17,1,0,0
+Brazil,1999,Human rights,20,1,0,0
+Brazil,2000,Human rights,17,0.8823529411764706,0,0.11764705882352941
+Brazil,2001,Human rights,20,0.85,0,0.15
+Brazil,2002,Human rights,23,0.9130434782608695,0,0.08695652173913043
+Brazil,2003,Human rights,25,0.84,0,0.16
+Brazil,2004,Human rights,20,0.65,0,0.35
+Brazil,2005,Human rights,21,0.8095238095238095,0,0.19047619047619047
+Brazil,2006,Human rights,28,0.75,0,0.25
+Brazil,2007,Human rights,27,0.8148148148148148,0,0.18518518518518517
+Brazil,2008,Human rights,26,0.7692307692307693,0,0.23076923076923078
+Brazil,2009,Human rights,23,0.782608695652174,0,0.21739130434782608
+Brazil,2010,Human rights,25,0.92,0,0.08
+Brazil,2011,Human rights,25,0.88,0,0.12
+Brazil,2012,Human rights,23,0.9565217391304348,0,0.043478260869565216
+Brazil,2013,Human rights,21,0.9047619047619048,0,0.09523809523809523
+Brazil,2014,Human rights,18,0.9444444444444444,0,0.05555555555555555
+Brazil,2015,Human rights,20,0.95,0,0.05
+Brazil,2016,Human rights,19,0.8421052631578947,0.05263157894736842,0.10526315789473684
+Brazil,2017,Human rights,30,0.9,0,0.1
+Brazil,2018,Human rights,22,0.7272727272727273,0,0.2727272727272727
+Brazil,2019,Human rights,14,0.5,0.21428571428571427,0.2857142857142857
+Brazil,1959,Nuclear weapons and nuclear material,9,0.1111111111111111,0.7777777777777778,0.1111111111111111
+Brazil,1961,Nuclear weapons and nuclear material,8,0.5,0,0.5
+Brazil,1962,Nuclear weapons and nuclear material,9,1,0,0
+Brazil,1972,Nuclear weapons and nuclear material,8,0.75,0,0.25
+Brazil,1974,Nuclear weapons and nuclear material,12,0.75,0,0.25
+Brazil,1975,Nuclear weapons and nuclear material,12,0.8333333333333334,0,0.16666666666666666
+Brazil,1976,Nuclear weapons and nuclear material,10,0.7,0,0.3
+Brazil,1977,Nuclear weapons and nuclear material,8,1,0,0
+Brazil,1978,Nuclear weapons and nuclear material,14,0.8571428571428571,0,0.14285714285714285
+Brazil,1979,Nuclear weapons and nuclear material,18,0.6666666666666666,0,0.3333333333333333
+Brazil,1980,Nuclear weapons and nuclear material,17,0.7647058823529411,0,0.23529411764705882
+Brazil,1981,Nuclear weapons and nuclear material,19,0.7368421052631579,0.05263157894736842,0.21052631578947367
+Brazil,1982,Nuclear weapons and nuclear material,26,0.8461538461538461,0,0.15384615384615385
+Brazil,1983,Nuclear weapons and nuclear material,32,0.78125,0,0.21875
+Brazil,1984,Nuclear weapons and nuclear material,25,0.72,0,0.28
+Brazil,1985,Nuclear weapons and nuclear material,25,0.6,0,0.4
+Brazil,1986,Nuclear weapons and nuclear material,24,0.625,0,0.375
+Brazil,1987,Nuclear weapons and nuclear material,20,0.65,0,0.35
+Brazil,1988,Nuclear weapons and nuclear material,21,0.7142857142857143,0,0.2857142857142857
+Brazil,1989,Nuclear weapons and nuclear material,20,0.8,0,0.2
+Brazil,1990,Nuclear weapons and nuclear material,17,0.7647058823529411,0,0.23529411764705882
+Brazil,1991,Nuclear weapons and nuclear material,11,0.8181818181818182,0,0.18181818181818182
+Brazil,1992,Nuclear weapons and nuclear material,10,0.8,0,0.2
+Brazil,1994,Nuclear weapons and nuclear material,10,0.6,0,0.4
+Brazil,1995,Nuclear weapons and nuclear material,10,0.8,0,0.2
+Brazil,1996,Nuclear weapons and nuclear material,11,0.8181818181818182,0,0.18181818181818182
+Brazil,1997,Nuclear weapons and nuclear material,13,1,0,0
+Brazil,1998,Nuclear weapons and nuclear material,19,1,0,0
+Brazil,1999,Nuclear weapons and nuclear material,14,0.9285714285714286,0,0.07142857142857142
+Brazil,2000,Nuclear weapons and nuclear material,14,0.9285714285714286,0,0.07142857142857142
+Brazil,2001,Nuclear weapons and nuclear material,14,0.8571428571428571,0,0.14285714285714285
+Brazil,2002,Nuclear weapons and nuclear material,20,0.8,0,0.2
+Brazil,2003,Nuclear weapons and nuclear material,15,0.8666666666666667,0,0.13333333333333333
+Brazil,2004,Nuclear weapons and nuclear material,16,0.875,0,0.125
+Brazil,2005,Nuclear weapons and nuclear material,16,0.9375,0,0.0625
+Brazil,2006,Nuclear weapons and nuclear material,16,1,0,0
+Brazil,2007,Nuclear weapons and nuclear material,15,1,0,0
+Brazil,2008,Nuclear weapons and nuclear material,16,1,0,0
+Brazil,2009,Nuclear weapons and nuclear material,19,1,0,0
+Brazil,2010,Nuclear weapons and nuclear material,21,0.9523809523809523,0,0.047619047619047616
+Brazil,2011,Nuclear weapons and nuclear material,19,0.9473684210526315,0,0.05263157894736842
+Brazil,2012,Nuclear weapons and nuclear material,21,0.9523809523809523,0,0.047619047619047616
+Brazil,2013,Nuclear weapons and nuclear material,12,0.9166666666666666,0,0.08333333333333333
+Brazil,2014,Nuclear weapons and nuclear material,14,0.9285714285714286,0,0.07142857142857142
+Brazil,2015,Nuclear weapons and nuclear material,19,1,0,0
+Brazil,2016,Nuclear weapons and nuclear material,24,1,0,0
+Brazil,2017,Nuclear weapons and nuclear material,26,0.8461538461538461,0,0.15384615384615385
+Brazil,2018,Nuclear weapons and nuclear material,16,0.875,0,0.125
+Brazil,2019,Nuclear weapons and nuclear material,17,0.8823529411764706,0,0.11764705882352941
+Brazil,1947,Palestinian conflict,7,0.7142857142857143,0.2857142857142857,0
+Brazil,1948,Palestinian conflict,11,0.9090909090909091,0.09090909090909091,0
+Brazil,1949,Palestinian conflict,14,0.7857142857142857,0.14285714285714285,0.07142857142857142
+Brazil,1961,Palestinian conflict,8,0.625,0,0.375
+Brazil,1967,Palestinian conflict,13,0.3076923076923077,0.6923076923076923,0
+Brazil,1971,Palestinian conflict,6,0,0,1
+Brazil,1974,Palestinian conflict,8,0.75,0,0.25
+Brazil,1975,Palestinian conflict,7,1,0,0
+Brazil,1976,Palestinian conflict,11,0.8181818181818182,0,0.18181818181818182
+Brazil,1977,Palestinian conflict,13,0.7692307692307693,0,0.23076923076923078
+Brazil,1978,Palestinian conflict,13,0.7692307692307693,0,0.23076923076923078
+Brazil,1979,Palestinian conflict,24,0.875,0,0.125
+Brazil,1980,Palestinian conflict,22,0.9545454545454546,0,0.045454545454545456
+Brazil,1981,Palestinian conflict,33,0.9696969696969697,0,0.030303030303030304
+Brazil,1982,Palestinian conflict,35,0.9714285714285714,0,0.02857142857142857
+Brazil,1983,Palestinian conflict,36,0.9166666666666666,0,0.08333333333333333
+Brazil,1984,Palestinian conflict,33,0.9696969696969697,0,0.030303030303030304
+Brazil,1985,Palestinian conflict,31,0.967741935483871,0,0.03225806451612903
+Brazil,1986,Palestinian conflict,29,0.9655172413793104,0,0.034482758620689655
+Brazil,1987,Palestinian conflict,30,0.9666666666666667,0,0.03333333333333333
+Brazil,1988,Palestinian conflict,29,0.9655172413793104,0,0.034482758620689655
+Brazil,1989,Palestinian conflict,30,0.9666666666666667,0,0.03333333333333333
+Brazil,1990,Palestinian conflict,26,0.9615384615384616,0,0.038461538461538464
+Brazil,1991,Palestinian conflict,28,0.9642857142857143,0,0.03571428571428571
+Brazil,1992,Palestinian conflict,26,0.9230769230769231,0,0.07692307692307693
+Brazil,1993,Palestinian conflict,21,0.9047619047619048,0,0.09523809523809523
+Brazil,1994,Palestinian conflict,19,0.8947368421052632,0,0.10526315789473684
+Brazil,1995,Palestinian conflict,19,0.8947368421052632,0,0.10526315789473684
+Brazil,1996,Palestinian conflict,21,0.8571428571428571,0,0.14285714285714285
+Brazil,1997,Palestinian conflict,22,0.9545454545454546,0,0.045454545454545456
+Brazil,1998,Palestinian conflict,23,0.9565217391304348,0,0.043478260869565216
+Brazil,1999,Palestinian conflict,21,0.9523809523809523,0,0.047619047619047616
+Brazil,2000,Palestinian conflict,23,0.9565217391304348,0,0.043478260869565216
+Brazil,2001,Palestinian conflict,25,0.96,0,0.04
+Brazil,2002,Palestinian conflict,21,0.9523809523809523,0,0.047619047619047616
+Brazil,2003,Palestinian conflict,19,1,0,0
+Brazil,2004,Palestinian conflict,19,1,0,0
+Brazil,2005,Palestinian conflict,15,1,0,0
+Brazil,2006,Palestinian conflict,20,1,0,0
+Brazil,2007,Palestinian conflict,19,1,0,0
+Brazil,2008,Palestinian conflict,17,1,0,0
+Brazil,2009,Palestinian conflict,17,1,0,0
+Brazil,2010,Palestinian conflict,14,1,0,0
+Brazil,2011,Palestinian conflict,17,1,0,0
+Brazil,2012,Palestinian conflict,17,1,0,0
+Brazil,2013,Palestinian conflict,16,1,0,0
+Brazil,2014,Palestinian conflict,15,1,0,0
+Brazil,2015,Palestinian conflict,15,1,0,0
+Brazil,2016,Palestinian conflict,13,0.9230769230769231,0.07692307692307693,0
+Brazil,2017,Palestinian conflict,20,0.95,0,0.05
+Brazil,2018,Palestinian conflict,16,0.875,0,0.125
+Brazil,2019,Palestinian conflict,14,0.35714285714285715,0.2857142857142857,0.35714285714285715
+China,1971,Arms control and disarmament,7,0.2857142857142857,0.7142857142857143,0
+China,1972,Arms control and disarmament,8,0.375,0.5,0.125
+China,1974,Arms control and disarmament,7,0.7142857142857143,0.2857142857142857,0
+China,1975,Arms control and disarmament,7,0.5714285714285714,0.42857142857142855,0
+China,1976,Arms control and disarmament,7,0.5714285714285714,0.42857142857142855,0
+China,1977,Arms control and disarmament,7,0.42857142857142855,0.5714285714285714,0
+China,1979,Arms control and disarmament,9,1,0,0
+China,1980,Arms control and disarmament,12,1,0,0
+China,1981,Arms control and disarmament,16,0.8125,0,0.1875
+China,1982,Arms control and disarmament,17,0.7647058823529411,0,0.23529411764705882
+China,1983,Arms control and disarmament,25,0.64,0,0.36
+China,1984,Arms control and disarmament,32,0.59375,0,0.40625
+China,1985,Arms control and disarmament,39,0.6923076923076923,0,0.3076923076923077
+China,1986,Arms control and disarmament,35,0.7428571428571429,0,0.2571428571428571
+China,1987,Arms control and disarmament,26,0.8076923076923077,0,0.19230769230769232
+China,1988,Arms control and disarmament,25,0.84,0,0.16
+China,1989,Arms control and disarmament,27,0.9259259259259259,0,0.07407407407407407
+China,1990,Arms control and disarmament,16,0.875,0,0.125
+China,1991,Arms control and disarmament,13,0.8461538461538461,0,0.15384615384615385
+China,1992,Arms control and disarmament,11,0.9090909090909091,0,0.09090909090909091
+China,1993,Arms control and disarmament,10,1,0,0
+China,1994,Arms control and disarmament,14,1,0,0
+China,1995,Arms control and disarmament,18,0.8888888888888888,0.05555555555555555,0.05555555555555555
+China,1996,Arms control and disarmament,21,0.9047619047619048,0,0.09523809523809523
+China,1997,Arms control and disarmament,21,0.9047619047619048,0,0.09523809523809523
+China,1998,Arms control and disarmament,22,0.8181818181818182,0,0.18181818181818182
+China,1999,Arms control and disarmament,18,0.7222222222222222,0,0.2777777777777778
+China,2000,Arms control and disarmament,15,0.7333333333333333,0,0.26666666666666666
+China,2001,Arms control and disarmament,17,0.7647058823529411,0,0.23529411764705882
+China,2002,Arms control and disarmament,21,0.7619047619047619,0,0.23809523809523808
+China,2003,Arms control and disarmament,15,0.8666666666666667,0,0.13333333333333333
+China,2004,Arms control and disarmament,20,0.9,0,0.1
+China,2005,Arms control and disarmament,21,0.9047619047619048,0,0.09523809523809523
+China,2006,Arms control and disarmament,27,0.8888888888888888,0,0.1111111111111111
+China,2007,Arms control and disarmament,19,0.8947368421052632,0,0.10526315789473684
+China,2008,Arms control and disarmament,24,0.7916666666666666,0,0.20833333333333334
+China,2009,Arms control and disarmament,19,0.7894736842105263,0,0.21052631578947367
+China,2010,Arms control and disarmament,23,0.8695652173913043,0,0.13043478260869565
+China,2011,Arms control and disarmament,22,0.7727272727272727,0,0.22727272727272727
+China,2012,Arms control and disarmament,22,0.6818181818181818,0,0.3181818181818182
+China,2013,Arms control and disarmament,18,0.7222222222222222,0,0.2777777777777778
+China,2014,Arms control and disarmament,22,0.8181818181818182,0,0.18181818181818182
+China,2015,Arms control and disarmament,21,0.6666666666666666,0.09523809523809523,0.23809523809523808
+China,2016,Arms control and disarmament,35,0.6571428571428571,0.05714285714285714,0.2857142857142857
+China,2017,Arms control and disarmament,27,0.6666666666666666,0.18518518518518517,0.14814814814814814
+China,2018,Arms control and disarmament,17,0.7058823529411765,0.17647058823529413,0.11764705882352941
+China,2019,Arms control and disarmament,16,0.6875,0.1875,0.125
+China,1971,Colonialism,9,0.7777777777777778,0.1111111111111111,0.1111111111111111
+China,1972,Colonialism,8,1,0,0
+China,1973,Colonialism,24,1,0,0
+China,1974,Colonialism,12,1,0,0
+China,1975,Colonialism,18,1,0,0
+China,1976,Colonialism,18,1,0,0
+China,1977,Colonialism,16,1,0,0
+China,1978,Colonialism,11,1,0,0
+China,1979,Colonialism,19,1,0,0
+China,1980,Colonialism,14,1,0,0
+China,1981,Colonialism,16,1,0,0
+China,1982,Colonialism,21,1,0,0
+China,1983,Colonialism,17,1,0,0
+China,1984,Colonialism,23,0.9565217391304348,0,0.043478260869565216
+China,1985,Colonialism,13,1,0,0
+China,1986,Colonialism,16,1,0,0
+China,1987,Colonialism,12,1,0,0
+China,1988,Colonialism,14,1,0,0
+China,1989,Colonialism,13,1,0,0
+China,1990,Colonialism,15,1,0,0
+China,1991,Colonialism,13,1,0,0
+China,1992,Colonialism,14,1,0,0
+China,1993,Colonialism,11,1,0,0
+China,1994,Colonialism,13,0.9230769230769231,0,0.07692307692307693
+China,1995,Colonialism,14,1,0,0
+China,1996,Colonialism,12,1,0,0
+China,1997,Colonialism,12,0.9166666666666666,0,0.08333333333333333
+China,1998,Colonialism,13,0.9230769230769231,0,0.07692307692307693
+China,1999,Colonialism,13,0.8461538461538461,0,0.15384615384615385
+China,2000,Colonialism,13,0.9230769230769231,0,0.07692307692307693
+China,2001,Colonialism,12,0.9166666666666666,0,0.08333333333333333
+China,2002,Colonialism,11,0.9090909090909091,0,0.09090909090909091
+China,2003,Colonialism,10,1,0,0
+China,2004,Colonialism,9,1,0,0
+China,2005,Colonialism,10,0.9,0,0.1
+China,2006,Colonialism,15,0.9333333333333333,0,0.06666666666666667
+China,2007,Colonialism,11,1,0,0
+China,2008,Colonialism,15,0.8666666666666667,0,0.13333333333333333
+China,2009,Colonialism,14,0.9285714285714286,0,0.07142857142857142
+China,2010,Colonialism,13,1,0,0
+China,2011,Colonialism,12,1,0,0
+China,2012,Colonialism,13,1,0,0
+China,2013,Colonialism,13,1,0,0
+China,2014,Colonialism,9,1,0,0
+China,2015,Colonialism,9,0.8888888888888888,0.1111111111111111,0
+China,2016,Colonialism,11,0.9090909090909091,0.09090909090909091,0
+China,2017,Colonialism,15,0.9333333333333333,0.06666666666666667,0
+China,2019,Colonialism,16,0.6875,0.1875,0.125
+China,1972,Economic development,17,0.7058823529411765,0,0.29411764705882354
+China,1973,Economic development,14,0.6428571428571429,0.14285714285714285,0.21428571428571427
+China,1975,Economic development,7,0.5714285714285714,0.2857142857142857,0.14285714285714285
+China,1976,Economic development,23,0.8260869565217391,0.043478260869565216,0.13043478260869565
+China,1977,Economic development,12,0.9166666666666666,0.08333333333333333,0
+China,1978,Economic development,16,1,0,0
+China,1979,Economic development,20,0.9,0,0.1
+China,1980,Economic development,11,0.9090909090909091,0,0.09090909090909091
+China,1981,Economic development,20,0.95,0,0.05
+China,1982,Economic development,26,0.8461538461538461,0,0.15384615384615385
+China,1983,Economic development,23,0.9130434782608695,0,0.08695652173913043
+China,1984,Economic development,19,0.8421052631578947,0,0.15789473684210525
+China,1985,Economic development,25,0.88,0,0.12
+China,1986,Economic development,20,0.9,0,0.1
+China,1987,Economic development,20,0.95,0,0.05
+China,1988,Economic development,18,0.9444444444444444,0,0.05555555555555555
+China,1989,Economic development,18,1,0,0
+China,1990,Economic development,6,1,0,0
+China,1991,Economic development,8,1,0,0
+China,1992,Economic development,6,1,0,0
+China,1993,Economic development,6,0.8333333333333334,0,0.16666666666666666
+China,1998,Economic development,6,1,0,0
+China,1999,Economic development,7,0.8571428571428571,0,0.14285714285714285
+China,2002,Economic development,6,0.8333333333333334,0,0.16666666666666666
+China,2003,Economic development,7,1,0,0
+China,2004,Economic development,7,1,0,0
+China,2005,Economic development,9,1,0,0
+China,2006,Economic development,9,0.8888888888888888,0,0.1111111111111111
+China,2007,Economic development,12,1,0,0
+China,2008,Economic development,13,0.7692307692307693,0,0.23076923076923078
+China,2009,Economic development,12,0.9166666666666666,0,0.08333333333333333
+China,2010,Economic development,7,0.8571428571428571,0,0.14285714285714285
+China,2011,Economic development,9,0.8888888888888888,0,0.1111111111111111
+China,2012,Economic development,12,0.75,0,0.25
+China,2013,Economic development,7,1,0,0
+China,2014,Economic development,11,0.8181818181818182,0,0.18181818181818182
+China,2015,Economic development,8,0.875,0,0.125
+China,2016,Economic development,14,0.7142857142857143,0.14285714285714285,0.14285714285714285
+China,2017,Economic development,20,0.8,0.1,0.1
+China,2018,Economic development,18,0.8333333333333334,0.1111111111111111,0.05555555555555555
+China,2019,Economic development,16,0.6875,0.1875,0.125
+China,1972,Human rights,14,0.9285714285714286,0,0.07142857142857142
+China,1973,Human rights,22,0.9090909090909091,0,0.09090909090909091
+China,1974,Human rights,18,0.9444444444444444,0,0.05555555555555555
+China,1975,Human rights,15,1,0,0
+China,1976,Human rights,14,0.9285714285714286,0.07142857142857142,0
+China,1977,Human rights,14,1,0,0
+China,1978,Human rights,11,1,0,0
+China,1979,Human rights,13,1,0,0
+China,1980,Human rights,15,0.9333333333333333,0,0.06666666666666667
+China,1981,Human rights,13,0.8461538461538461,0,0.15384615384615385
+China,1982,Human rights,20,0.75,0,0.25
+China,1983,Human rights,19,0.8421052631578947,0,0.15789473684210525
+China,1984,Human rights,15,0.7333333333333333,0,0.26666666666666666
+China,1985,Human rights,15,0.8,0,0.2
+China,1986,Human rights,23,0.8695652173913043,0,0.13043478260869565
+China,1987,Human rights,18,0.9444444444444444,0,0.05555555555555555
+China,1988,Human rights,16,0.9375,0,0.0625
+China,1989,Human rights,14,0.8571428571428571,0.07142857142857142,0.07142857142857142
+China,1990,Human rights,10,1,0,0
+China,1991,Human rights,10,0.9,0,0.1
+China,1992,Human rights,11,0.6363636363636364,0.2727272727272727,0.09090909090909091
+China,1993,Human rights,11,0.6363636363636364,0.2727272727272727,0.09090909090909091
+China,1994,Human rights,14,0.5714285714285714,0.21428571428571427,0.21428571428571427
+China,1995,Human rights,14,0.5,0.2857142857142857,0.21428571428571427
+China,1996,Human rights,17,0.5882352941176471,0.23529411764705882,0.17647058823529413
+China,1997,Human rights,20,0.6,0.2,0.2
+China,1998,Human rights,16,0.625,0.0625,0.3125
+China,1999,Human rights,20,0.7,0.15,0.15
+China,2000,Human rights,17,0.7647058823529411,0.11764705882352941,0.11764705882352941
+China,2001,Human rights,20,0.8,0.1,0.1
+China,2002,Human rights,22,0.8181818181818182,0.09090909090909091,0.09090909090909091
+China,2003,Human rights,25,0.8,0.08,0.12
+China,2004,Human rights,20,0.8,0.1,0.1
+China,2005,Human rights,21,0.7142857142857143,0.19047619047619047,0.09523809523809523
+China,2006,Human rights,28,0.7857142857142857,0.17857142857142858,0.03571428571428571
+China,2007,Human rights,27,0.8148148148148148,0.18518518518518517,0
+China,2008,Human rights,26,0.8076923076923077,0.15384615384615385,0.038461538461538464
+China,2009,Human rights,23,0.8695652173913043,0.13043478260869565,0
+China,2010,Human rights,25,0.76,0.2,0.04
+China,2011,Human rights,25,0.84,0.12,0.04
+China,2012,Human rights,23,0.782608695652174,0.13043478260869565,0.08695652173913043
+China,2013,Human rights,21,0.9047619047619048,0.09523809523809523,0
+China,2014,Human rights,18,0.7777777777777778,0.2222222222222222,0
+China,2015,Human rights,20,0.8,0.2,0
+China,2016,Human rights,19,0.6842105263157895,0.2631578947368421,0.05263157894736842
+China,2017,Human rights,30,0.8,0.13333333333333333,0.06666666666666667
+China,2018,Human rights,21,0.6666666666666666,0.23809523809523808,0.09523809523809523
+China,2019,Human rights,14,0.7142857142857143,0.2857142857142857,0
+China,1974,Nuclear weapons and nuclear material,9,0.6666666666666666,0.2222222222222222,0.1111111111111111
+China,1975,Nuclear weapons and nuclear material,9,0.6666666666666666,0.3333333333333333,0
+China,1976,Nuclear weapons and nuclear material,8,0.5,0.5,0
+China,1977,Nuclear weapons and nuclear material,8,0.75,0.25,0
+China,1978,Nuclear weapons and nuclear material,8,0.625,0.375,0
+China,1979,Nuclear weapons and nuclear material,12,0.9166666666666666,0,0.08333333333333333
+China,1980,Nuclear weapons and nuclear material,13,0.8461538461538461,0,0.15384615384615385
+China,1981,Nuclear weapons and nuclear material,12,0.9166666666666666,0,0.08333333333333333
+China,1982,Nuclear weapons and nuclear material,18,0.7222222222222222,0.05555555555555555,0.2222222222222222
+China,1983,Nuclear weapons and nuclear material,25,0.64,0.04,0.32
+China,1984,Nuclear weapons and nuclear material,24,0.625,0,0.375
+China,1985,Nuclear weapons and nuclear material,23,0.6086956521739131,0,0.391304347826087
+China,1986,Nuclear weapons and nuclear material,23,0.6521739130434783,0,0.34782608695652173
+China,1987,Nuclear weapons and nuclear material,19,0.631578947368421,0,0.3684210526315789
+China,1988,Nuclear weapons and nuclear material,17,0.7647058823529411,0,0.23529411764705882
+China,1989,Nuclear weapons and nuclear material,19,0.8421052631578947,0,0.15789473684210525
+China,1990,Nuclear weapons and nuclear material,16,0.8125,0,0.1875
+China,1991,Nuclear weapons and nuclear material,10,0.8,0,0.2
+China,1992,Nuclear weapons and nuclear material,9,0.7777777777777778,0,0.2222222222222222
+China,1994,Nuclear weapons and nuclear material,8,1,0,0
+China,1995,Nuclear weapons and nuclear material,10,0.8,0.1,0.1
+China,1996,Nuclear weapons and nuclear material,12,0.9166666666666666,0,0.08333333333333333
+China,1997,Nuclear weapons and nuclear material,13,1,0,0
+China,1998,Nuclear weapons and nuclear material,17,0.8235294117647058,0,0.17647058823529413
+China,1999,Nuclear weapons and nuclear material,14,0.7142857142857143,0,0.2857142857142857
+China,2000,Nuclear weapons and nuclear material,13,0.7692307692307693,0,0.23076923076923078
+China,2001,Nuclear weapons and nuclear material,14,0.7857142857142857,0,0.21428571428571427
+China,2002,Nuclear weapons and nuclear material,18,0.7777777777777778,0,0.2222222222222222
+China,2003,Nuclear weapons and nuclear material,14,0.8571428571428571,0,0.14285714285714285
+China,2004,Nuclear weapons and nuclear material,16,0.875,0,0.125
+China,2005,Nuclear weapons and nuclear material,15,0.8,0,0.2
+China,2006,Nuclear weapons and nuclear material,16,0.875,0,0.125
+China,2007,Nuclear weapons and nuclear material,15,0.8,0,0.2
+China,2008,Nuclear weapons and nuclear material,16,0.75,0,0.25
+China,2009,Nuclear weapons and nuclear material,18,0.8333333333333334,0,0.16666666666666666
+China,2010,Nuclear weapons and nuclear material,21,0.9047619047619048,0,0.09523809523809523
+China,2011,Nuclear weapons and nuclear material,17,0.6470588235294118,0,0.35294117647058826
+China,2012,Nuclear weapons and nuclear material,20,0.7,0,0.3
+China,2013,Nuclear weapons and nuclear material,12,0.5833333333333334,0,0.4166666666666667
+China,2014,Nuclear weapons and nuclear material,14,0.7142857142857143,0,0.2857142857142857
+China,2015,Nuclear weapons and nuclear material,19,0.5263157894736842,0.10526315789473684,0.3684210526315789
+China,2016,Nuclear weapons and nuclear material,24,0.625,0.041666666666666664,0.3333333333333333
+China,2017,Nuclear weapons and nuclear material,24,0.4583333333333333,0.375,0.16666666666666666
+China,2018,Nuclear weapons and nuclear material,16,0.625,0.1875,0.1875
+China,2019,Nuclear weapons and nuclear material,17,0.5294117647058824,0.17647058823529413,0.29411764705882354
+China,1974,Palestinian conflict,9,1,0,0
+China,1975,Palestinian conflict,6,1,0,0
+China,1976,Palestinian conflict,11,1,0,0
+China,1977,Palestinian conflict,11,1,0,0
+China,1978,Palestinian conflict,11,1,0,0
+China,1979,Palestinian conflict,19,1,0,0
+China,1980,Palestinian conflict,20,1,0,0
+China,1981,Palestinian conflict,33,1,0,0
+China,1982,Palestinian conflict,35,1,0,0
+China,1983,Palestinian conflict,36,1,0,0
+China,1984,Palestinian conflict,33,1,0,0
+China,1985,Palestinian conflict,31,1,0,0
+China,1986,Palestinian conflict,29,1,0,0
+China,1987,Palestinian conflict,30,1,0,0
+China,1988,Palestinian conflict,29,1,0,0
+China,1989,Palestinian conflict,30,1,0,0
+China,1990,Palestinian conflict,27,1,0,0
+China,1991,Palestinian conflict,28,1,0,0
+China,1992,Palestinian conflict,26,1,0,0
+China,1993,Palestinian conflict,21,1,0,0
+China,1994,Palestinian conflict,19,1,0,0
+China,1995,Palestinian conflict,19,1,0,0
+China,1996,Palestinian conflict,21,1,0,0
+China,1997,Palestinian conflict,22,1,0,0
+China,1998,Palestinian conflict,22,1,0,0
+China,1999,Palestinian conflict,21,1,0,0
+China,2000,Palestinian conflict,23,1,0,0
+China,2001,Palestinian conflict,25,1,0,0
+China,2002,Palestinian conflict,21,1,0,0
+China,2003,Palestinian conflict,19,0.9473684210526315,0,0.05263157894736842
+China,2004,Palestinian conflict,19,1,0,0
+China,2005,Palestinian conflict,15,1,0,0
+China,2006,Palestinian conflict,20,1,0,0
+China,2007,Palestinian conflict,19,1,0,0
+China,2008,Palestinian conflict,17,1,0,0
+China,2009,Palestinian conflict,17,1,0,0
+China,2010,Palestinian conflict,16,1,0,0
+China,2011,Palestinian conflict,17,1,0,0
+China,2012,Palestinian conflict,17,1,0,0
+China,2013,Palestinian conflict,16,1,0,0
+China,2014,Palestinian conflict,14,1,0,0
+China,2015,Palestinian conflict,15,1,0,0
+China,2016,Palestinian conflict,13,0.9230769230769231,0.07692307692307693,0
+China,2017,Palestinian conflict,20,0.95,0.05,0
+China,2018,Palestinian conflict,16,1,0,0
+China,2019,Palestinian conflict,14,1,0,0
+India,1948,Arms control and disarmament,9,0.1111111111111111,0.5555555555555556,0.3333333333333333
+India,1960,Arms control and disarmament,6,0.6666666666666666,0,0.3333333333333333
+India,1961,Arms control and disarmament,7,1,0,0
+India,1962,Arms control and disarmament,6,1,0,0
+India,1971,Arms control and disarmament,12,0.6666666666666666,0,0.3333333333333333
+India,1972,Arms control and disarmament,9,0.7777777777777778,0,0.2222222222222222
+India,1973,Arms control and disarmament,7,0.8571428571428571,0,0.14285714285714285
+India,1974,Arms control and disarmament,14,0.42857142857142855,0.5,0.07142857142857142
+India,1975,Arms control and disarmament,13,0.9230769230769231,0.07692307692307693,0
+India,1976,Arms control and disarmament,10,0.7,0,0.3
+India,1977,Arms control and disarmament,11,0.9090909090909091,0,0.09090909090909091
+India,1978,Arms control and disarmament,15,0.7333333333333333,0,0.26666666666666666
+India,1979,Arms control and disarmament,15,0.7333333333333333,0,0.26666666666666666
+India,1980,Arms control and disarmament,18,0.7222222222222222,0.05555555555555555,0.2222222222222222
+India,1981,Arms control and disarmament,28,0.75,0,0.25
+India,1982,Arms control and disarmament,27,0.7407407407407407,0.037037037037037035,0.2222222222222222
+India,1983,Arms control and disarmament,37,0.6756756756756757,0.02702702702702703,0.2972972972972973
+India,1984,Arms control and disarmament,34,0.7352941176470589,0.029411764705882353,0.23529411764705882
+India,1985,Arms control and disarmament,40,0.625,0,0.375
+India,1986,Arms control and disarmament,35,0.7142857142857143,0,0.2857142857142857
+India,1987,Arms control and disarmament,28,0.7857142857142857,0,0.21428571428571427
+India,1988,Arms control and disarmament,30,0.7333333333333333,0,0.26666666666666666
+India,1989,Arms control and disarmament,29,0.7241379310344828,0,0.27586206896551724
+India,1990,Arms control and disarmament,16,0.8125,0,0.1875
+India,1991,Arms control and disarmament,14,0.8571428571428571,0,0.14285714285714285
+India,1992,Arms control and disarmament,12,0.75,0,0.25
+India,1993,Arms control and disarmament,11,0.7272727272727273,0,0.2727272727272727
+India,1994,Arms control and disarmament,15,0.5333333333333333,0,0.4666666666666667
+India,1995,Arms control and disarmament,19,0.5263157894736842,0,0.47368421052631576
+India,1996,Arms control and disarmament,21,0.6190476190476191,0.047619047619047616,0.3333333333333333
+India,1997,Arms control and disarmament,22,0.5909090909090909,0.13636363636363635,0.2727272727272727
+India,1998,Arms control and disarmament,24,0.5,0.20833333333333334,0.2916666666666667
+India,1999,Arms control and disarmament,19,0.631578947368421,0.10526315789473684,0.2631578947368421
+India,2000,Arms control and disarmament,16,0.5625,0.1875,0.25
+India,2001,Arms control and disarmament,17,0.5882352941176471,0.23529411764705882,0.17647058823529413
+India,2002,Arms control and disarmament,23,0.6086956521739131,0.17391304347826086,0.21739130434782608
+India,2003,Arms control and disarmament,16,0.5,0.25,0.25
+India,2004,Arms control and disarmament,20,0.55,0.2,0.25
+India,2005,Arms control and disarmament,23,0.5217391304347826,0.21739130434782608,0.2608695652173913
+India,2006,Arms control and disarmament,27,0.6296296296296297,0.18518518518518517,0.18518518518518517
+India,2007,Arms control and disarmament,20,0.65,0.2,0.15
+India,2008,Arms control and disarmament,25,0.56,0.2,0.24
+India,2009,Arms control and disarmament,20,0.5,0.2,0.3
+India,2010,Arms control and disarmament,23,0.4782608695652174,0.2608695652173913,0.2608695652173913
+India,2011,Arms control and disarmament,25,0.44,0.2,0.36
+India,2012,Arms control and disarmament,23,0.5217391304347826,0.17391304347826086,0.30434782608695654
+India,2013,Arms control and disarmament,18,0.5555555555555556,0.1111111111111111,0.3333333333333333
+India,2014,Arms control and disarmament,21,0.6190476190476191,0.09523809523809523,0.2857142857142857
+India,2015,Arms control and disarmament,21,0.47619047619047616,0.09523809523809523,0.42857142857142855
+India,2016,Arms control and disarmament,35,0.5428571428571428,0.14285714285714285,0.3142857142857143
+India,2017,Arms control and disarmament,29,0.5172413793103449,0.20689655172413793,0.27586206896551724
+India,2018,Arms control and disarmament,17,0.7058823529411765,0.11764705882352941,0.17647058823529413
+India,2019,Arms control and disarmament,16,0.625,0.125,0.25
+India,1946,Colonialism,15,0.26666666666666666,0.13333333333333333,0.6
+India,1947,Colonialism,9,0.5555555555555556,0.4444444444444444,0
+India,1948,Colonialism,12,0.9166666666666666,0.08333333333333333,0
+India,1949,Colonialism,15,0.6666666666666666,0.26666666666666666,0.06666666666666667
+India,1950,Colonialism,12,0.75,0.08333333333333333,0.16666666666666666
+India,1952,Colonialism,15,0.8,0,0.2
+India,1953,Colonialism,9,0.7777777777777778,0.1111111111111111,0.1111111111111111
+India,1957,Colonialism,9,0.5555555555555556,0.1111111111111111,0.3333333333333333
+India,1959,Colonialism,16,0.5,0.375,0.125
+India,1960,Colonialism,11,0.8181818181818182,0,0.18181818181818182
+India,1961,Colonialism,15,0.5333333333333333,0.3333333333333333,0.13333333333333333
+India,1962,Colonialism,21,0.7619047619047619,0.047619047619047616,0.19047619047619047
+India,1965,Colonialism,12,0.8333333333333334,0,0.16666666666666666
+India,1966,Colonialism,17,0.8823529411764706,0.058823529411764705,0.058823529411764705
+India,1967,Colonialism,14,0.7857142857142857,0.07142857142857142,0.14285714285714285
+India,1968,Colonialism,10,0.9,0,0.1
+India,1969,Colonialism,14,0.7857142857142857,0.07142857142857142,0.14285714285714285
+India,1970,Colonialism,17,0.8823529411764706,0,0.11764705882352941
+India,1971,Colonialism,21,0.9047619047619048,0.047619047619047616,0.047619047619047616
+India,1972,Colonialism,8,1,0,0
+India,1973,Colonialism,24,1,0,0
+India,1974,Colonialism,11,1,0,0
+India,1975,Colonialism,22,0.9090909090909091,0.045454545454545456,0.045454545454545456
+India,1976,Colonialism,19,0.9473684210526315,0.05263157894736842,0
+India,1977,Colonialism,18,0.9444444444444444,0.05555555555555555,0
+India,1978,Colonialism,16,0.8125,0.0625,0.125
+India,1979,Colonialism,21,0.9523809523809523,0.047619047619047616,0
+India,1980,Colonialism,16,0.75,0.0625,0.1875
+India,1981,Colonialism,17,0.8823529411764706,0.058823529411764705,0.058823529411764705
+India,1982,Colonialism,23,0.9565217391304348,0.043478260869565216,0
+India,1983,Colonialism,17,1,0,0
+India,1984,Colonialism,23,1,0,0
+India,1985,Colonialism,13,1,0,0
+India,1986,Colonialism,16,1,0,0
+India,1987,Colonialism,12,1,0,0
+India,1988,Colonialism,14,1,0,0
+India,1989,Colonialism,13,1,0,0
+India,1990,Colonialism,15,1,0,0
+India,1991,Colonialism,15,1,0,0
+India,1992,Colonialism,14,1,0,0
+India,1993,Colonialism,11,1,0,0
+India,1994,Colonialism,13,0.8461538461538461,0,0.15384615384615385
+India,1995,Colonialism,14,0.9285714285714286,0,0.07142857142857142
+India,1996,Colonialism,12,0.9166666666666666,0,0.08333333333333333
+India,1997,Colonialism,12,0.9166666666666666,0,0.08333333333333333
+India,1998,Colonialism,13,0.9230769230769231,0,0.07692307692307693
+India,1999,Colonialism,13,0.9230769230769231,0,0.07692307692307693
+India,2000,Colonialism,13,1,0,0
+India,2001,Colonialism,12,1,0,0
+India,2002,Colonialism,11,1,0,0
+India,2003,Colonialism,10,0.9,0.1,0
+India,2004,Colonialism,9,1,0,0
+India,2005,Colonialism,10,0.9,0.1,0
+India,2006,Colonialism,16,0.875,0.0625,0.0625
+India,2007,Colonialism,11,1,0,0
+India,2008,Colonialism,15,0.8666666666666667,0.13333333333333333,0
+India,2009,Colonialism,14,0.9285714285714286,0.07142857142857142,0
+India,2010,Colonialism,13,1,0,0
+India,2011,Colonialism,12,1,0,0
+India,2012,Colonialism,13,1,0,0
+India,2013,Colonialism,13,1,0,0
+India,2014,Colonialism,9,1,0,0
+India,2015,Colonialism,10,0.9,0,0.1
+India,2016,Colonialism,11,0.8181818181818182,0.09090909090909091,0.09090909090909091
+India,2017,Colonialism,16,0.9375,0,0.0625
+India,2019,Colonialism,16,0.625,0.125,0.25
+India,1946,Economic development,10,0.4,0.3,0.3
+India,1948,Economic development,8,0.375,0.125,0.5
+India,1949,Economic development,8,0.375,0.125,0.5
+India,1959,Economic development,6,0.5,0.3333333333333333,0.16666666666666666
+India,1961,Economic development,11,0.45454545454545453,0,0.5454545454545454
+India,1962,Economic development,6,0.8333333333333334,0,0.16666666666666666
+India,1966,Economic development,6,0.8333333333333334,0.16666666666666666,0
+India,1967,Economic development,6,0.8333333333333334,0.16666666666666666,0
+India,1968,Economic development,6,0.6666666666666666,0,0.3333333333333333
+India,1970,Economic development,9,1,0,0
+India,1971,Economic development,27,0.9259259259259259,0,0.07407407407407407
+India,1972,Economic development,29,0.896551724137931,0.034482758620689655,0.06896551724137931
+India,1973,Economic development,20,1,0,0
+India,1974,Economic development,6,0.8333333333333334,0,0.16666666666666666
+India,1975,Economic development,11,1,0,0
+India,1976,Economic development,27,0.9629629629629629,0,0.037037037037037035
+India,1977,Economic development,23,1,0,0
+India,1978,Economic development,23,0.9565217391304348,0,0.043478260869565216
+India,1979,Economic development,25,0.96,0,0.04
+India,1980,Economic development,16,0.75,0.0625,0.1875
+India,1981,Economic development,21,0.8571428571428571,0,0.14285714285714285
+India,1982,Economic development,28,0.9285714285714286,0,0.07142857142857142
+India,1983,Economic development,25,0.96,0,0.04
+India,1984,Economic development,20,0.9,0,0.1
+India,1985,Economic development,25,0.96,0,0.04
+India,1986,Economic development,20,0.95,0,0.05
+India,1987,Economic development,20,1,0,0
+India,1988,Economic development,18,0.9444444444444444,0,0.05555555555555555
+India,1989,Economic development,18,0.8888888888888888,0,0.1111111111111111
+India,1990,Economic development,6,1,0,0
+India,1991,Economic development,7,1,0,0
+India,1992,Economic development,6,1,0,0
+India,1993,Economic development,6,0.8333333333333334,0,0.16666666666666666
+India,1998,Economic development,6,0.8333333333333334,0.16666666666666666,0
+India,1999,Economic development,7,1,0,0
+India,2002,Economic development,6,1,0,0
+India,2003,Economic development,7,0.8571428571428571,0,0.14285714285714285
+India,2004,Economic development,7,0.8571428571428571,0.14285714285714285,0
+India,2005,Economic development,9,1,0,0
+India,2006,Economic development,9,0.7777777777777778,0.1111111111111111,0.1111111111111111
+India,2007,Economic development,12,1,0,0
+India,2008,Economic development,13,0.7692307692307693,0.07692307692307693,0.15384615384615385
+India,2009,Economic development,12,0.8333333333333334,0,0.16666666666666666
+India,2010,Economic development,7,0.7142857142857143,0.14285714285714285,0.14285714285714285
+India,2011,Economic development,9,0.7777777777777778,0.1111111111111111,0.1111111111111111
+India,2012,Economic development,12,0.8333333333333334,0.08333333333333333,0.08333333333333333
+India,2013,Economic development,7,0.8571428571428571,0,0.14285714285714285
+India,2014,Economic development,11,0.8181818181818182,0,0.18181818181818182
+India,2015,Economic development,8,0.875,0,0.125
+India,2016,Economic development,14,0.7857142857142857,0.14285714285714285,0.07142857142857142
+India,2017,Economic development,20,0.85,0,0.15
+India,2018,Economic development,18,0.9444444444444444,0,0.05555555555555555
+India,2019,Economic development,16,0.625,0.125,0.25
+India,1948,Human rights,6,0.3333333333333333,0.6666666666666666,0
+India,1949,Human rights,6,0,0,1
+India,1952,Human rights,8,0.75,0.125,0.125
+India,1953,Human rights,6,1,0,0
+India,1956,Human rights,6,0.3333333333333333,0,0.6666666666666666
+India,1966,Human rights,9,0.7777777777777778,0.1111111111111111,0.1111111111111111
+India,1970,Human rights,14,0.8571428571428571,0.07142857142857142,0.07142857142857142
+India,1971,Human rights,8,1,0,0
+India,1972,Human rights,17,0.9411764705882353,0.058823529411764705,0
+India,1973,Human rights,23,1,0,0
+India,1974,Human rights,20,0.9,0,0.1
+India,1975,Human rights,21,0.9047619047619048,0.047619047619047616,0.047619047619047616
+India,1976,Human rights,17,0.8823529411764706,0.058823529411764705,0.058823529411764705
+India,1977,Human rights,19,0.8947368421052632,0.05263157894736842,0.05263157894736842
+India,1978,Human rights,16,0.875,0.0625,0.0625
+India,1979,Human rights,16,0.875,0,0.125
+India,1980,Human rights,18,0.7222222222222222,0.1111111111111111,0.16666666666666666
+India,1981,Human rights,13,0.8461538461538461,0,0.15384615384615385
+India,1982,Human rights,21,0.9047619047619048,0.047619047619047616,0.047619047619047616
+India,1983,Human rights,19,0.8947368421052632,0,0.10526315789473684
+India,1984,Human rights,15,0.9333333333333333,0,0.06666666666666667
+India,1985,Human rights,16,0.875,0.0625,0.0625
+India,1986,Human rights,24,0.875,0.041666666666666664,0.08333333333333333
+India,1987,Human rights,19,0.8947368421052632,0.05263157894736842,0.05263157894736842
+India,1988,Human rights,17,0.9411764705882353,0,0.058823529411764705
+India,1989,Human rights,14,0.8571428571428571,0,0.14285714285714285
+India,1990,Human rights,10,1,0,0
+India,1991,Human rights,11,1,0,0
+India,1992,Human rights,11,0.7272727272727273,0,0.2727272727272727
+India,1993,Human rights,11,0.6363636363636364,0.2727272727272727,0.09090909090909091
+India,1994,Human rights,14,0.5714285714285714,0.2857142857142857,0.14285714285714285
+India,1995,Human rights,14,0.5,0.2857142857142857,0.21428571428571427
+India,1996,Human rights,17,0.5882352941176471,0.23529411764705882,0.17647058823529413
+India,1997,Human rights,20,0.6,0.2,0.2
+India,1998,Human rights,17,0.6470588235294118,0.17647058823529413,0.17647058823529413
+India,1999,Human rights,20,0.7,0.15,0.15
+India,2000,Human rights,17,0.7058823529411765,0.11764705882352941,0.17647058823529413
+India,2001,Human rights,20,0.8,0.1,0.1
+India,2002,Human rights,23,0.7391304347826086,0.043478260869565216,0.21739130434782608
+India,2003,Human rights,25,0.64,0.16,0.2
+India,2004,Human rights,20,0.75,0.1,0.15
+India,2005,Human rights,21,0.6190476190476191,0.09523809523809523,0.2857142857142857
+India,2006,Human rights,27,0.7777777777777778,0.1111111111111111,0.1111111111111111
+India,2007,Human rights,27,0.7777777777777778,0.14814814814814814,0.07407407407407407
+India,2008,Human rights,26,0.8076923076923077,0.11538461538461539,0.07692307692307693
+India,2009,Human rights,23,0.8260869565217391,0.08695652173913043,0.08695652173913043
+India,2010,Human rights,25,0.8,0.08,0.12
+India,2011,Human rights,25,0.88,0.04,0.08
+India,2012,Human rights,23,0.8260869565217391,0.08695652173913043,0.08695652173913043
+India,2013,Human rights,21,0.9047619047619048,0.047619047619047616,0.047619047619047616
+India,2014,Human rights,18,0.7777777777777778,0.1111111111111111,0.1111111111111111
+India,2015,Human rights,20,0.85,0.05,0.1
+India,2016,Human rights,19,0.7368421052631579,0.21052631578947367,0.05263157894736842
+India,2017,Human rights,30,0.8666666666666667,0.06666666666666667,0.06666666666666667
+India,2018,Human rights,22,0.7727272727272727,0.13636363636363635,0.09090909090909091
+India,2019,Human rights,14,0.7142857142857143,0.14285714285714285,0.14285714285714285
+India,1959,Nuclear weapons and nuclear material,9,1,0,0
+India,1961,Nuclear weapons and nuclear material,8,1,0,0
+India,1962,Nuclear weapons and nuclear material,9,1,0,0
+India,1972,Nuclear weapons and nuclear material,7,0.42857142857142855,0,0.5714285714285714
+India,1974,Nuclear weapons and nuclear material,12,0.5833333333333334,0.16666666666666666,0.25
+India,1975,Nuclear weapons and nuclear material,12,0.8333333333333334,0.08333333333333333,0.08333333333333333
+India,1976,Nuclear weapons and nuclear material,10,0.6,0.1,0.3
+India,1977,Nuclear weapons and nuclear material,9,0.7777777777777778,0,0.2222222222222222
+India,1978,Nuclear weapons and nuclear material,15,0.7333333333333333,0.06666666666666667,0.2
+India,1979,Nuclear weapons and nuclear material,18,0.7222222222222222,0.05555555555555555,0.2222222222222222
+India,1980,Nuclear weapons and nuclear material,17,0.7647058823529411,0.058823529411764705,0.17647058823529413
+India,1981,Nuclear weapons and nuclear material,19,0.7368421052631579,0.05263157894736842,0.21052631578947367
+India,1982,Nuclear weapons and nuclear material,26,0.7307692307692307,0.07692307692307693,0.19230769230769232
+India,1983,Nuclear weapons and nuclear material,32,0.6875,0.03125,0.28125
+India,1984,Nuclear weapons and nuclear material,25,0.72,0.04,0.24
+India,1985,Nuclear weapons and nuclear material,25,0.76,0.04,0.2
+India,1986,Nuclear weapons and nuclear material,24,0.8333333333333334,0.041666666666666664,0.125
+India,1987,Nuclear weapons and nuclear material,20,0.8,0.05,0.15
+India,1988,Nuclear weapons and nuclear material,21,0.7619047619047619,0.047619047619047616,0.19047619047619047
+India,1989,Nuclear weapons and nuclear material,20,0.85,0.05,0.1
+India,1990,Nuclear weapons and nuclear material,17,0.7647058823529411,0.058823529411764705,0.17647058823529413
+India,1991,Nuclear weapons and nuclear material,11,0.9090909090909091,0.09090909090909091,0
+India,1992,Nuclear weapons and nuclear material,10,0.8,0.1,0.1
+India,1994,Nuclear weapons and nuclear material,10,0.5,0.1,0.4
+India,1995,Nuclear weapons and nuclear material,11,0.5454545454545454,0.09090909090909091,0.36363636363636365
+India,1996,Nuclear weapons and nuclear material,12,0.4166666666666667,0.16666666666666666,0.4166666666666667
+India,1997,Nuclear weapons and nuclear material,13,0.38461538461538464,0.3076923076923077,0.3076923076923077
+India,1998,Nuclear weapons and nuclear material,19,0.42105263157894735,0.3157894736842105,0.2631578947368421
+India,1999,Nuclear weapons and nuclear material,14,0.42857142857142855,0.2857142857142857,0.2857142857142857
+India,2000,Nuclear weapons and nuclear material,14,0.2857142857142857,0.35714285714285715,0.35714285714285715
+India,2001,Nuclear weapons and nuclear material,14,0.35714285714285715,0.35714285714285715,0.2857142857142857
+India,2002,Nuclear weapons and nuclear material,20,0.35,0.35,0.3
+India,2003,Nuclear weapons and nuclear material,15,0.3333333333333333,0.26666666666666666,0.4
+India,2004,Nuclear weapons and nuclear material,16,0.4375,0.25,0.3125
+India,2005,Nuclear weapons and nuclear material,16,0.3125,0.375,0.3125
+India,2006,Nuclear weapons and nuclear material,16,0.4375,0.25,0.3125
+India,2007,Nuclear weapons and nuclear material,15,0.4,0.26666666666666666,0.3333333333333333
+India,2008,Nuclear weapons and nuclear material,15,0.4,0.3333333333333333,0.26666666666666666
+India,2009,Nuclear weapons and nuclear material,19,0.3684210526315789,0.2631578947368421,0.3684210526315789
+India,2010,Nuclear weapons and nuclear material,21,0.42857142857142855,0.23809523809523808,0.3333333333333333
+India,2011,Nuclear weapons and nuclear material,19,0.3157894736842105,0.10526315789473684,0.5789473684210527
+India,2012,Nuclear weapons and nuclear material,21,0.5238095238095238,0.14285714285714285,0.3333333333333333
+India,2013,Nuclear weapons and nuclear material,12,0.5,0.08333333333333333,0.4166666666666667
+India,2014,Nuclear weapons and nuclear material,14,0.6428571428571429,0.07142857142857142,0.2857142857142857
+India,2015,Nuclear weapons and nuclear material,19,0.42105263157894735,0.05263157894736842,0.5263157894736842
+India,2016,Nuclear weapons and nuclear material,24,0.5,0.16666666666666666,0.3333333333333333
+India,2017,Nuclear weapons and nuclear material,26,0.34615384615384615,0.15384615384615385,0.5
+India,2018,Nuclear weapons and nuclear material,16,0.5625,0.125,0.3125
+India,2019,Nuclear weapons and nuclear material,17,0.47058823529411764,0.11764705882352941,0.4117647058823529
+India,1947,Palestinian conflict,7,0.5714285714285714,0.2857142857142857,0.14285714285714285
+India,1948,Palestinian conflict,9,0.1111111111111111,0,0.8888888888888888
+India,1949,Palestinian conflict,14,0.7857142857142857,0.07142857142857142,0.14285714285714285
+India,1961,Palestinian conflict,8,0.875,0.125,0
+India,1967,Palestinian conflict,13,0.6923076923076923,0.23076923076923078,0.07692307692307693
+India,1971,Palestinian conflict,6,1,0,0
+India,1974,Palestinian conflict,9,1,0,0
+India,1975,Palestinian conflict,9,1,0,0
+India,1976,Palestinian conflict,12,1,0,0
+India,1977,Palestinian conflict,13,1,0,0
+India,1978,Palestinian conflict,15,1,0,0
+India,1979,Palestinian conflict,24,1,0,0
+India,1980,Palestinian conflict,22,1,0,0
+India,1981,Palestinian conflict,33,0.9696969696969697,0,0.030303030303030304
+India,1982,Palestinian conflict,35,1,0,0
+India,1983,Palestinian conflict,36,1,0,0
+India,1984,Palestinian conflict,33,1,0,0
+India,1985,Palestinian conflict,31,1,0,0
+India,1986,Palestinian conflict,29,1,0,0
+India,1987,Palestinian conflict,30,1,0,0
+India,1988,Palestinian conflict,29,1,0,0
+India,1989,Palestinian conflict,30,1,0,0
+India,1990,Palestinian conflict,27,1,0,0
+India,1991,Palestinian conflict,27,1,0,0
+India,1992,Palestinian conflict,26,0.9615384615384616,0,0.038461538461538464
+India,1993,Palestinian conflict,21,0.9523809523809523,0,0.047619047619047616
+India,1994,Palestinian conflict,19,0.9473684210526315,0,0.05263157894736842
+India,1995,Palestinian conflict,19,0.9473684210526315,0,0.05263157894736842
+India,1996,Palestinian conflict,21,0.9523809523809523,0,0.047619047619047616
+India,1997,Palestinian conflict,22,0.9545454545454546,0,0.045454545454545456
+India,1998,Palestinian conflict,23,0.9565217391304348,0,0.043478260869565216
+India,1999,Palestinian conflict,21,0.9523809523809523,0,0.047619047619047616
+India,2000,Palestinian conflict,23,0.9565217391304348,0,0.043478260869565216
+India,2001,Palestinian conflict,25,0.96,0,0.04
+India,2002,Palestinian conflict,21,0.9523809523809523,0,0.047619047619047616
+India,2003,Palestinian conflict,19,0.9473684210526315,0,0.05263157894736842
+India,2004,Palestinian conflict,19,1,0,0
+India,2005,Palestinian conflict,15,1,0,0
+India,2006,Palestinian conflict,19,1,0,0
+India,2007,Palestinian conflict,19,1,0,0
+India,2008,Palestinian conflict,17,1,0,0
+India,2009,Palestinian conflict,17,1,0,0
+India,2010,Palestinian conflict,16,1,0,0
+India,2011,Palestinian conflict,17,1,0,0
+India,2012,Palestinian conflict,17,1,0,0
+India,2013,Palestinian conflict,16,1,0,0
+India,2014,Palestinian conflict,15,1,0,0
+India,2015,Palestinian conflict,15,1,0,0
+India,2016,Palestinian conflict,13,0.9230769230769231,0.07692307692307693,0
+India,2017,Palestinian conflict,19,1,0,0
+India,2018,Palestinian conflict,16,1,0,0
+India,2019,Palestinian conflict,14,1,0,0
+Russia,1948,Arms control and disarmament,9,1,0,0
+Russia,1960,Arms control and disarmament,6,0.8333333333333334,0.16666666666666666,0
+Russia,1961,Arms control and disarmament,7,0.5714285714285714,0.42857142857142855,0
+Russia,1962,Arms control and disarmament,6,0.5,0.3333333333333333,0.16666666666666666
+Russia,1971,Arms control and disarmament,12,0.8333333333333334,0,0.16666666666666666
+Russia,1972,Arms control and disarmament,10,0.7,0,0.3
+Russia,1973,Arms control and disarmament,7,0.42857142857142855,0,0.5714285714285714
+Russia,1974,Arms control and disarmament,14,0.5714285714285714,0,0.42857142857142855
+Russia,1975,Arms control and disarmament,13,0.5384615384615384,0.15384615384615385,0.3076923076923077
+Russia,1976,Arms control and disarmament,10,0.7,0.1,0.2
+Russia,1977,Arms control and disarmament,12,0.5833333333333334,0,0.4166666666666667
+Russia,1978,Arms control and disarmament,15,0.4,0.2,0.4
+Russia,1979,Arms control and disarmament,15,0.6,0.2,0.2
+Russia,1980,Arms control and disarmament,18,0.6111111111111112,0.16666666666666666,0.2222222222222222
+Russia,1981,Arms control and disarmament,28,0.8214285714285714,0.07142857142857142,0.10714285714285714
+Russia,1982,Arms control and disarmament,27,0.7037037037037037,0.18518518518518517,0.1111111111111111
+Russia,1983,Arms control and disarmament,37,0.8378378378378378,0.05405405405405406,0.10810810810810811
+Russia,1984,Arms control and disarmament,34,0.8823529411764706,0.08823529411764706,0.029411764705882353
+Russia,1985,Arms control and disarmament,41,0.8780487804878049,0.07317073170731707,0.04878048780487805
+Russia,1986,Arms control and disarmament,36,0.8333333333333334,0,0.16666666666666666
+Russia,1987,Arms control and disarmament,28,1,0,0
+Russia,1988,Arms control and disarmament,30,1,0,0
+Russia,1989,Arms control and disarmament,29,1,0,0
+Russia,1990,Arms control and disarmament,16,0.9375,0,0.0625
+Russia,1991,Arms control and disarmament,14,0.6428571428571429,0,0.35714285714285715
+Russia,1992,Arms control and disarmament,12,0.6666666666666666,0,0.3333333333333333
+Russia,1993,Arms control and disarmament,11,0.6363636363636364,0.09090909090909091,0.2727272727272727
+Russia,1994,Arms control and disarmament,15,0.6666666666666666,0.13333333333333333,0.2
+Russia,1995,Arms control and disarmament,19,0.5263157894736842,0.05263157894736842,0.42105263157894735
+Russia,1996,Arms control and disarmament,21,0.5714285714285714,0.09523809523809523,0.3333333333333333
+Russia,1997,Arms control and disarmament,22,0.5454545454545454,0.13636363636363635,0.3181818181818182
+Russia,1998,Arms control and disarmament,24,0.5833333333333334,0.08333333333333333,0.3333333333333333
+Russia,1999,Arms control and disarmament,19,0.42105263157894735,0.21052631578947367,0.3684210526315789
+Russia,2000,Arms control and disarmament,16,0.5625,0.0625,0.375
+Russia,2001,Arms control and disarmament,17,0.5294117647058824,0.11764705882352941,0.35294117647058826
+Russia,2002,Arms control and disarmament,23,0.5652173913043478,0.13043478260869565,0.30434782608695654
+Russia,2003,Arms control and disarmament,16,0.4375,0.1875,0.375
+Russia,2004,Arms control and disarmament,20,0.6,0.1,0.3
+Russia,2005,Arms control and disarmament,22,0.45454545454545453,0.13636363636363635,0.4090909090909091
+Russia,2006,Arms control and disarmament,27,0.5925925925925926,0.07407407407407407,0.3333333333333333
+Russia,2007,Arms control and disarmament,19,0.5263157894736842,0.10526315789473684,0.3684210526315789
+Russia,2008,Arms control and disarmament,25,0.48,0,0.52
+Russia,2009,Arms control and disarmament,20,0.45,0.1,0.45
+Russia,2010,Arms control and disarmament,23,0.5652173913043478,0.043478260869565216,0.391304347826087
+Russia,2011,Arms control and disarmament,24,0.625,0.08333333333333333,0.2916666666666667
+Russia,2012,Arms control and disarmament,23,0.4782608695652174,0.21739130434782608,0.30434782608695654
+Russia,2013,Arms control and disarmament,18,0.2222222222222222,0.2777777777777778,0.5
+Russia,2014,Arms control and disarmament,22,0.4090909090909091,0.22727272727272727,0.36363636363636365
+Russia,2015,Arms control and disarmament,21,0.2857142857142857,0.42857142857142855,0.2857142857142857
+Russia,2016,Arms control and disarmament,35,0.34285714285714286,0.3142857142857143,0.34285714285714286
+Russia,2017,Arms control and disarmament,29,0.3103448275862069,0.41379310344827586,0.27586206896551724
+Russia,2018,Arms control and disarmament,17,0.35294117647058826,0.4117647058823529,0.23529411764705882
+Russia,2019,Arms control and disarmament,16,0.375,0.4375,0.1875
+Russia,1946,Colonialism,15,0.26666666666666666,0.6666666666666666,0.06666666666666667
+Russia,1947,Colonialism,9,0.6666666666666666,0.3333333333333333,0
+Russia,1948,Colonialism,12,0.6666666666666666,0.16666666666666666,0.16666666666666666
+Russia,1949,Colonialism,15,0.6666666666666666,0.3333333333333333,0
+Russia,1950,Colonialism,12,0.8333333333333334,0,0.16666666666666666
+Russia,1952,Colonialism,15,0.7333333333333333,0.06666666666666667,0.2
+Russia,1953,Colonialism,9,0.8888888888888888,0.1111111111111111,0
+Russia,1957,Colonialism,9,0.5555555555555556,0.2222222222222222,0.2222222222222222
+Russia,1959,Colonialism,16,0.8125,0.125,0.0625
+Russia,1960,Colonialism,11,0.9090909090909091,0,0.09090909090909091
+Russia,1961,Colonialism,15,0.5333333333333333,0.4,0.06666666666666667
+Russia,1962,Colonialism,21,0.7619047619047619,0.19047619047619047,0.047619047619047616
+Russia,1965,Colonialism,12,0.6666666666666666,0.16666666666666666,0.16666666666666666
+Russia,1966,Colonialism,17,0.7647058823529411,0.058823529411764705,0.17647058823529413
+Russia,1967,Colonialism,14,0.9285714285714286,0.07142857142857142,0
+Russia,1968,Colonialism,11,1,0,0
+Russia,1969,Colonialism,14,0.9285714285714286,0,0.07142857142857142
+Russia,1970,Colonialism,17,0.9411764705882353,0.058823529411764705,0
+Russia,1971,Colonialism,22,0.9090909090909091,0.09090909090909091,0
+Russia,1972,Colonialism,8,1,0,0
+Russia,1973,Colonialism,24,0.9583333333333334,0,0.041666666666666664
+Russia,1974,Colonialism,12,1,0,0
+Russia,1975,Colonialism,22,0.9090909090909091,0.09090909090909091,0
+Russia,1976,Colonialism,19,1,0,0
+Russia,1977,Colonialism,18,1,0,0
+Russia,1978,Colonialism,16,0.9375,0,0.0625
+Russia,1979,Colonialism,21,1,0,0
+Russia,1980,Colonialism,16,0.875,0.125,0
+Russia,1981,Colonialism,17,0.9411764705882353,0.058823529411764705,0
+Russia,1982,Colonialism,23,1,0,0
+Russia,1983,Colonialism,17,1,0,0
+Russia,1984,Colonialism,23,1,0,0
+Russia,1985,Colonialism,13,1,0,0
+Russia,1986,Colonialism,16,1,0,0
+Russia,1987,Colonialism,12,1,0,0
+Russia,1988,Colonialism,13,1,0,0
+Russia,1989,Colonialism,13,1,0,0
+Russia,1990,Colonialism,15,0.9333333333333333,0,0.06666666666666667
+Russia,1991,Colonialism,15,0.4,0,0.6
+Russia,1992,Colonialism,14,0.14285714285714285,0.21428571428571427,0.6428571428571429
+Russia,1993,Colonialism,11,0.2727272727272727,0.2727272727272727,0.45454545454545453
+Russia,1994,Colonialism,13,0.5384615384615384,0,0.46153846153846156
+Russia,1995,Colonialism,14,0.42857142857142855,0.14285714285714285,0.42857142857142855
+Russia,1996,Colonialism,11,0.5454545454545454,0.09090909090909091,0.36363636363636365
+Russia,1997,Colonialism,12,0.5833333333333334,0.08333333333333333,0.3333333333333333
+Russia,1998,Colonialism,13,0.6923076923076923,0,0.3076923076923077
+Russia,1999,Colonialism,13,0.7692307692307693,0.07692307692307693,0.15384615384615385
+Russia,2000,Colonialism,13,0.8461538461538461,0,0.15384615384615385
+Russia,2001,Colonialism,12,0.8333333333333334,0,0.16666666666666666
+Russia,2002,Colonialism,10,0.9,0,0.1
+Russia,2003,Colonialism,10,0.7,0,0.3
+Russia,2004,Colonialism,9,0.7777777777777778,0,0.2222222222222222
+Russia,2005,Colonialism,9,0.7777777777777778,0,0.2222222222222222
+Russia,2006,Colonialism,17,0.8823529411764706,0,0.11764705882352941
+Russia,2007,Colonialism,11,0.8181818181818182,0,0.18181818181818182
+Russia,2008,Colonialism,15,0.8,0.06666666666666667,0.13333333333333333
+Russia,2009,Colonialism,14,0.8571428571428571,0,0.14285714285714285
+Russia,2010,Colonialism,13,0.8461538461538461,0,0.15384615384615385
+Russia,2011,Colonialism,12,0.8333333333333334,0,0.16666666666666666
+Russia,2012,Colonialism,13,0.8461538461538461,0,0.15384615384615385
+Russia,2013,Colonialism,13,0.8461538461538461,0,0.15384615384615385
+Russia,2014,Colonialism,9,0.7777777777777778,0,0.2222222222222222
+Russia,2015,Colonialism,10,0.7,0.1,0.2
+Russia,2016,Colonialism,11,0.7272727272727273,0.09090909090909091,0.18181818181818182
+Russia,2017,Colonialism,16,0.75,0.125,0.125
+Russia,2019,Colonialism,16,0.375,0.4375,0.1875
+Russia,1946,Economic development,10,0.5,0.4,0.1
+Russia,1948,Economic development,8,0.375,0.125,0.5
+Russia,1949,Economic development,8,0.875,0.125,0
+Russia,1959,Economic development,6,0.3333333333333333,0.5,0.16666666666666666
+Russia,1961,Economic development,11,0.36363636363636365,0.45454545454545453,0.18181818181818182
+Russia,1962,Economic development,6,0.16666666666666666,0.5,0.3333333333333333
+Russia,1966,Economic development,6,0.6666666666666666,0.3333333333333333,0
+Russia,1967,Economic development,6,0.6666666666666666,0.16666666666666666,0.16666666666666666
+Russia,1968,Economic development,6,0.8333333333333334,0.16666666666666666,0
+Russia,1970,Economic development,9,0.3333333333333333,0.1111111111111111,0.5555555555555556
+Russia,1971,Economic development,27,0.37037037037037035,0.2222222222222222,0.4074074074074074
+Russia,1972,Economic development,28,0.5,0.21428571428571427,0.2857142857142857
+Russia,1973,Economic development,20,0.5,0.25,0.25
+Russia,1974,Economic development,7,0.7142857142857143,0.14285714285714285,0.14285714285714285
+Russia,1975,Economic development,11,0.45454545454545453,0.2727272727272727,0.2727272727272727
+Russia,1976,Economic development,27,0.5555555555555556,0.2222222222222222,0.2222222222222222
+Russia,1977,Economic development,23,0.43478260869565216,0.21739130434782608,0.34782608695652173
+Russia,1978,Economic development,23,0.6086956521739131,0.2608695652173913,0.13043478260869565
+Russia,1979,Economic development,25,0.56,0.36,0.08
+Russia,1980,Economic development,16,0.625,0.3125,0.0625
+Russia,1981,Economic development,21,0.5238095238095238,0.42857142857142855,0.047619047619047616
+Russia,1982,Economic development,28,0.5714285714285714,0.32142857142857145,0.10714285714285714
+Russia,1983,Economic development,25,0.6,0.28,0.12
+Russia,1984,Economic development,20,0.75,0.15,0.1
+Russia,1985,Economic development,25,0.68,0.28,0.04
+Russia,1986,Economic development,20,0.75,0.1,0.15
+Russia,1987,Economic development,20,1,0,0
+Russia,1988,Economic development,18,0.9444444444444444,0,0.05555555555555555
+Russia,1989,Economic development,19,1,0,0
+Russia,1990,Economic development,6,1,0,0
+Russia,1991,Economic development,8,0.5,0,0.5
+Russia,1992,Economic development,6,0.3333333333333333,0.3333333333333333,0.3333333333333333
+Russia,1993,Economic development,6,0,0.16666666666666666,0.8333333333333334
+Russia,1998,Economic development,6,1,0,0
+Russia,1999,Economic development,7,1,0,0
+Russia,2002,Economic development,6,0.8333333333333334,0.16666666666666666,0
+Russia,2003,Economic development,7,1,0,0
+Russia,2004,Economic development,7,1,0,0
+Russia,2005,Economic development,9,0.8888888888888888,0,0.1111111111111111
+Russia,2006,Economic development,9,0.6666666666666666,0,0.3333333333333333
+Russia,2007,Economic development,12,0.9166666666666666,0,0.08333333333333333
+Russia,2008,Economic development,13,0.6923076923076923,0.07692307692307693,0.23076923076923078
+Russia,2009,Economic development,12,0.8333333333333334,0,0.16666666666666666
+Russia,2010,Economic development,7,0.7142857142857143,0.14285714285714285,0.14285714285714285
+Russia,2011,Economic development,9,0.8888888888888888,0.1111111111111111,0
+Russia,2012,Economic development,12,0.8333333333333334,0,0.16666666666666666
+Russia,2013,Economic development,7,0.8571428571428571,0,0.14285714285714285
+Russia,2014,Economic development,10,0.7,0.1,0.2
+Russia,2015,Economic development,8,0.625,0,0.375
+Russia,2016,Economic development,14,0.7142857142857143,0.21428571428571427,0.07142857142857142
+Russia,2017,Economic development,20,0.75,0.2,0.05
+Russia,2018,Economic development,18,0.8333333333333334,0.1111111111111111,0.05555555555555555
+Russia,2019,Economic development,16,0.375,0.4375,0.1875
+Russia,1948,Human rights,6,0.8333333333333334,0,0.16666666666666666
+Russia,1949,Human rights,6,0.16666666666666666,0.6666666666666666,0.16666666666666666
+Russia,1952,Human rights,8,0.75,0.25,0
+Russia,1953,Human rights,6,1,0,0
+Russia,1956,Human rights,6,0.16666666666666666,0.8333333333333334,0
+Russia,1966,Human rights,9,0.7777777777777778,0.1111111111111111,0.1111111111111111
+Russia,1970,Human rights,14,0.5714285714285714,0.42857142857142855,0
+Russia,1971,Human rights,9,1,0,0
+Russia,1972,Human rights,16,0.9375,0,0.0625
+Russia,1973,Human rights,24,0.875,0.041666666666666664,0.08333333333333333
+Russia,1974,Human rights,20,1,0,0
+Russia,1975,Human rights,21,0.9523809523809523,0.047619047619047616,0
+Russia,1976,Human rights,17,1,0,0
+Russia,1977,Human rights,19,0.9473684210526315,0.05263157894736842,0
+Russia,1978,Human rights,16,0.8125,0.0625,0.125
+Russia,1979,Human rights,16,0.875,0.0625,0.0625
+Russia,1980,Human rights,18,0.7777777777777778,0.16666666666666666,0.05555555555555555
+Russia,1981,Human rights,13,0.9230769230769231,0.07692307692307693,0
+Russia,1982,Human rights,21,0.9523809523809523,0.047619047619047616,0
+Russia,1983,Human rights,19,0.9473684210526315,0.05263157894736842,0
+Russia,1984,Human rights,15,0.9333333333333333,0,0.06666666666666667
+Russia,1985,Human rights,15,0.9333333333333333,0.06666666666666667,0
+Russia,1986,Human rights,23,0.9130434782608695,0.043478260869565216,0.043478260869565216
+Russia,1987,Human rights,17,0.9411764705882353,0.058823529411764705,0
+Russia,1988,Human rights,16,1,0,0
+Russia,1989,Human rights,14,1,0,0
+Russia,1990,Human rights,10,0.9,0,0.1
+Russia,1991,Human rights,11,0.6363636363636364,0,0.36363636363636365
+Russia,1992,Human rights,11,0.5454545454545454,0.09090909090909091,0.36363636363636365
+Russia,1993,Human rights,11,0.36363636363636365,0.09090909090909091,0.5454545454545454
+Russia,1994,Human rights,14,0.42857142857142855,0.07142857142857142,0.5
+Russia,1995,Human rights,14,0.42857142857142855,0.14285714285714285,0.42857142857142855
+Russia,1996,Human rights,17,0.5882352941176471,0.11764705882352941,0.29411764705882354
+Russia,1997,Human rights,20,0.7,0.1,0.2
+Russia,1998,Human rights,17,0.7058823529411765,0.058823529411764705,0.23529411764705882
+Russia,1999,Human rights,20,0.65,0.1,0.25
+Russia,2000,Human rights,17,0.6470588235294118,0.058823529411764705,0.29411764705882354
+Russia,2001,Human rights,20,0.65,0.05,0.3
+Russia,2002,Human rights,23,0.6521739130434783,0.13043478260869565,0.21739130434782608
+Russia,2003,Human rights,25,0.72,0.04,0.24
+Russia,2004,Human rights,20,0.65,0.05,0.3
+Russia,2005,Human rights,21,0.5714285714285714,0.14285714285714285,0.2857142857142857
+Russia,2006,Human rights,28,0.7142857142857143,0.14285714285714285,0.14285714285714285
+Russia,2007,Human rights,27,0.7037037037037037,0.14814814814814814,0.14814814814814814
+Russia,2008,Human rights,26,0.7307692307692307,0.11538461538461539,0.15384615384615385
+Russia,2009,Human rights,23,0.6956521739130435,0.13043478260869565,0.17391304347826086
+Russia,2010,Human rights,25,0.68,0.12,0.2
+Russia,2011,Human rights,25,0.72,0.12,0.16
+Russia,2012,Human rights,23,0.6956521739130435,0.08695652173913043,0.21739130434782608
+Russia,2013,Human rights,21,0.7619047619047619,0.09523809523809523,0.14285714285714285
+Russia,2014,Human rights,18,0.6666666666666666,0.16666666666666666,0.16666666666666666
+Russia,2015,Human rights,20,0.65,0.2,0.15
+Russia,2016,Human rights,19,0.5263157894736842,0.21052631578947367,0.2631578947368421
+Russia,2017,Human rights,30,0.7,0.13333333333333333,0.16666666666666666
+Russia,2018,Human rights,22,0.6363636363636364,0.18181818181818182,0.18181818181818182
+Russia,2019,Human rights,14,0.6428571428571429,0.2857142857142857,0.07142857142857142
+Russia,1959,Nuclear weapons and nuclear material,9,0.8888888888888888,0,0.1111111111111111
+Russia,1961,Nuclear weapons and nuclear material,8,0.625,0.375,0
+Russia,1962,Nuclear weapons and nuclear material,9,0.6666666666666666,0.2222222222222222,0.1111111111111111
+Russia,1972,Nuclear weapons and nuclear material,8,0.25,0,0.75
+Russia,1974,Nuclear weapons and nuclear material,12,0.5833333333333334,0,0.4166666666666667
+Russia,1975,Nuclear weapons and nuclear material,12,0.4166666666666667,0.08333333333333333,0.5
+Russia,1976,Nuclear weapons and nuclear material,10,0.5,0.1,0.4
+Russia,1977,Nuclear weapons and nuclear material,10,0.5,0,0.5
+Russia,1978,Nuclear weapons and nuclear material,15,0.6,0.06666666666666667,0.3333333333333333
+Russia,1979,Nuclear weapons and nuclear material,18,0.7222222222222222,0.1111111111111111,0.16666666666666666
+Russia,1980,Nuclear weapons and nuclear material,17,0.7058823529411765,0.058823529411764705,0.23529411764705882
+Russia,1981,Nuclear weapons and nuclear material,19,0.9473684210526315,0,0.05263157894736842
+Russia,1982,Nuclear weapons and nuclear material,26,0.8076923076923077,0.038461538461538464,0.15384615384615385
+Russia,1983,Nuclear weapons and nuclear material,32,0.84375,0,0.15625
+Russia,1984,Nuclear weapons and nuclear material,25,0.84,0.04,0.12
+Russia,1985,Nuclear weapons and nuclear material,25,0.88,0,0.12
+Russia,1986,Nuclear weapons and nuclear material,24,0.875,0,0.125
+Russia,1987,Nuclear weapons and nuclear material,20,0.95,0,0.05
+Russia,1988,Nuclear weapons and nuclear material,21,0.9523809523809523,0,0.047619047619047616
+Russia,1989,Nuclear weapons and nuclear material,20,0.95,0,0.05
+Russia,1990,Nuclear weapons and nuclear material,17,0.9411764705882353,0,0.058823529411764705
+Russia,1991,Nuclear weapons and nuclear material,11,0.5454545454545454,0,0.45454545454545453
+Russia,1992,Nuclear weapons and nuclear material,10,0.6,0.1,0.3
+Russia,1994,Nuclear weapons and nuclear material,10,0.4,0.3,0.3
+Russia,1995,Nuclear weapons and nuclear material,11,0.36363636363636365,0.18181818181818182,0.45454545454545453
+Russia,1996,Nuclear weapons and nuclear material,12,0.5,0.16666666666666666,0.3333333333333333
+Russia,1997,Nuclear weapons and nuclear material,13,0.5384615384615384,0.15384615384615385,0.3076923076923077
+Russia,1998,Nuclear weapons and nuclear material,18,0.3888888888888889,0.2222222222222222,0.3888888888888889
+Russia,1999,Nuclear weapons and nuclear material,13,0.3076923076923077,0.3076923076923077,0.38461538461538464
+Russia,2000,Nuclear weapons and nuclear material,14,0.35714285714285715,0.14285714285714285,0.5
+Russia,2001,Nuclear weapons and nuclear material,14,0.35714285714285715,0.21428571428571427,0.42857142857142855
+Russia,2002,Nuclear weapons and nuclear material,20,0.3,0.2,0.5
+Russia,2003,Nuclear weapons and nuclear material,15,0.3333333333333333,0.26666666666666666,0.4
+Russia,2004,Nuclear weapons and nuclear material,16,0.4375,0.125,0.4375
+Russia,2005,Nuclear weapons and nuclear material,15,0.26666666666666666,0.2,0.5333333333333333
+Russia,2006,Nuclear weapons and nuclear material,16,0.4375,0.125,0.4375
+Russia,2007,Nuclear weapons and nuclear material,14,0.35714285714285715,0.14285714285714285,0.5
+Russia,2008,Nuclear weapons and nuclear material,16,0.375,0,0.625
+Russia,2009,Nuclear weapons and nuclear material,19,0.5789473684210527,0.10526315789473684,0.3157894736842105
+Russia,2010,Nuclear weapons and nuclear material,21,0.6190476190476191,0.047619047619047616,0.3333333333333333
+Russia,2011,Nuclear weapons and nuclear material,19,0.631578947368421,0.10526315789473684,0.2631578947368421
+Russia,2012,Nuclear weapons and nuclear material,21,0.38095238095238093,0.2857142857142857,0.3333333333333333
+Russia,2013,Nuclear weapons and nuclear material,12,0.16666666666666666,0.4166666666666667,0.4166666666666667
+Russia,2014,Nuclear weapons and nuclear material,14,0.21428571428571427,0.42857142857142855,0.35714285714285715
+Russia,2015,Nuclear weapons and nuclear material,19,0.21052631578947367,0.5789473684210527,0.21052631578947367
+Russia,2016,Nuclear weapons and nuclear material,24,0.25,0.5,0.25
+Russia,2017,Nuclear weapons and nuclear material,26,0.19230769230769232,0.6538461538461539,0.15384615384615385
+Russia,2018,Nuclear weapons and nuclear material,16,0.1875,0.5,0.3125
+Russia,2019,Nuclear weapons and nuclear material,17,0.17647058823529413,0.6470588235294118,0.17647058823529413
+Russia,1947,Palestinian conflict,7,0.8571428571428571,0,0.14285714285714285
+Russia,1948,Palestinian conflict,11,0.09090909090909091,0.36363636363636365,0.5454545454545454
+Russia,1949,Palestinian conflict,14,0.7857142857142857,0.21428571428571427,0
+Russia,1961,Palestinian conflict,8,0.625,0.125,0.25
+Russia,1967,Palestinian conflict,13,0.9230769230769231,0.07692307692307693,0
+Russia,1971,Palestinian conflict,6,1,0,0
+Russia,1974,Palestinian conflict,9,1,0,0
+Russia,1975,Palestinian conflict,9,1,0,0
+Russia,1976,Palestinian conflict,12,0.9166666666666666,0,0.08333333333333333
+Russia,1977,Palestinian conflict,13,1,0,0
+Russia,1978,Palestinian conflict,15,0.9333333333333333,0.06666666666666667,0
+Russia,1979,Palestinian conflict,24,0.8333333333333334,0.16666666666666666,0
+Russia,1980,Palestinian conflict,22,0.9090909090909091,0.09090909090909091,0
+Russia,1981,Palestinian conflict,33,0.9696969696969697,0.030303030303030304,0
+Russia,1982,Palestinian conflict,35,0.9714285714285714,0.02857142857142857,0
+Russia,1983,Palestinian conflict,36,0.9722222222222222,0.027777777777777776,0
+Russia,1984,Palestinian conflict,33,0.9393939393939394,0.06060606060606061,0
+Russia,1985,Palestinian conflict,31,0.9354838709677419,0.06451612903225806,0
+Russia,1986,Palestinian conflict,28,0.9642857142857143,0,0.03571428571428571
+Russia,1987,Palestinian conflict,29,1,0,0
+Russia,1988,Palestinian conflict,28,1,0,0
+Russia,1989,Palestinian conflict,30,1,0,0
+Russia,1990,Palestinian conflict,27,1,0,0
+Russia,1991,Palestinian conflict,27,0.37037037037037035,0,0.6296296296296297
+Russia,1992,Palestinian conflict,26,0.34615384615384615,0.038461538461538464,0.6153846153846154
+Russia,1993,Palestinian conflict,21,0.2857142857142857,0,0.7142857142857143
+Russia,1994,Palestinian conflict,19,0.21052631578947367,0,0.7894736842105263
+Russia,1995,Palestinian conflict,19,0.21052631578947367,0,0.7894736842105263
+Russia,1996,Palestinian conflict,21,0.8571428571428571,0,0.14285714285714285
+Russia,1997,Palestinian conflict,22,0.8181818181818182,0,0.18181818181818182
+Russia,1998,Palestinian conflict,23,0.8695652173913043,0,0.13043478260869565
+Russia,1999,Palestinian conflict,21,0.8571428571428571,0,0.14285714285714285
+Russia,2000,Palestinian conflict,23,0.8695652173913043,0,0.13043478260869565
+Russia,2001,Palestinian conflict,25,0.88,0,0.12
+Russia,2002,Palestinian conflict,20,0.85,0,0.15
+Russia,2003,Palestinian conflict,19,0.8421052631578947,0,0.15789473684210525
+Russia,2004,Palestinian conflict,19,0.7894736842105263,0,0.21052631578947367
+Russia,2005,Palestinian conflict,15,0.8,0,0.2
+Russia,2006,Palestinian conflict,20,0.85,0,0.15
+Russia,2007,Palestinian conflict,19,0.8421052631578947,0,0.15789473684210525
+Russia,2008,Palestinian conflict,17,0.8235294117647058,0,0.17647058823529413
+Russia,2009,Palestinian conflict,17,0.8235294117647058,0,0.17647058823529413
+Russia,2010,Palestinian conflict,16,0.8125,0,0.1875
+Russia,2011,Palestinian conflict,17,0.8235294117647058,0,0.17647058823529413
+Russia,2012,Palestinian conflict,17,0.8235294117647058,0,0.17647058823529413
+Russia,2013,Palestinian conflict,16,0.8125,0,0.1875
+Russia,2014,Palestinian conflict,15,0.8,0,0.2
+Russia,2015,Palestinian conflict,15,0.8,0,0.2
+Russia,2016,Palestinian conflict,13,0.6923076923076923,0.07692307692307693,0.23076923076923078
+Russia,2017,Palestinian conflict,20,0.8,0.05,0.15
+Russia,2018,Palestinian conflict,16,0.8125,0,0.1875
+Russia,2019,Palestinian conflict,14,0.7857142857142857,0,0.21428571428571427
+South Africa,1948,Arms control and disarmament,9,0,1,0
+South Africa,1960,Arms control and disarmament,6,0.3333333333333333,0.16666666666666666,0.5
+South Africa,1961,Arms control and disarmament,7,0.2857142857142857,0.7142857142857143,0
+South Africa,1962,Arms control and disarmament,6,0.5,0.16666666666666666,0.3333333333333333
+South Africa,1971,Arms control and disarmament,11,0.5454545454545454,0.09090909090909091,0.36363636363636365
+South Africa,1972,Arms control and disarmament,10,0.4,0.3,0.3
+South Africa,1973,Arms control and disarmament,7,0.2857142857142857,0,0.7142857142857143
+South Africa,1994,Arms control and disarmament,14,0.9285714285714286,0,0.07142857142857142
+South Africa,1995,Arms control and disarmament,19,0.8947368421052632,0,0.10526315789473684
+South Africa,1996,Arms control and disarmament,21,0.9047619047619048,0,0.09523809523809523
+South Africa,1997,Arms control and disarmament,22,0.7727272727272727,0.045454545454545456,0.18181818181818182
+South Africa,1998,Arms control and disarmament,24,0.875,0,0.125
+South Africa,1999,Arms control and disarmament,19,0.8421052631578947,0,0.15789473684210525
+South Africa,2000,Arms control and disarmament,16,0.875,0,0.125
+South Africa,2001,Arms control and disarmament,16,0.8125,0,0.1875
+South Africa,2002,Arms control and disarmament,23,0.8260869565217391,0,0.17391304347826086
+South Africa,2003,Arms control and disarmament,16,0.8125,0,0.1875
+South Africa,2004,Arms control and disarmament,20,0.9,0,0.1
+South Africa,2005,Arms control and disarmament,23,0.8695652173913043,0,0.13043478260869565
+South Africa,2006,Arms control and disarmament,26,0.9230769230769231,0,0.07692307692307693
+South Africa,2007,Arms control and disarmament,20,0.95,0,0.05
+South Africa,2008,Arms control and disarmament,24,0.9583333333333334,0,0.041666666666666664
+South Africa,2009,Arms control and disarmament,20,0.95,0,0.05
+South Africa,2010,Arms control and disarmament,23,0.9130434782608695,0,0.08695652173913043
+South Africa,2011,Arms control and disarmament,22,0.9090909090909091,0,0.09090909090909091
+South Africa,2012,Arms control and disarmament,23,0.9130434782608695,0,0.08695652173913043
+South Africa,2013,Arms control and disarmament,18,0.8888888888888888,0,0.1111111111111111
+South Africa,2014,Arms control and disarmament,22,0.9090909090909091,0,0.09090909090909091
+South Africa,2015,Arms control and disarmament,21,0.9523809523809523,0,0.047619047619047616
+South Africa,2016,Arms control and disarmament,35,0.8857142857142857,0,0.11428571428571428
+South Africa,2017,Arms control and disarmament,29,0.8275862068965517,0.034482758620689655,0.13793103448275862
+South Africa,2018,Arms control and disarmament,17,0.8823529411764706,0,0.11764705882352941
+South Africa,2019,Arms control and disarmament,16,0.875,0,0.125
+South Africa,1946,Colonialism,15,0.6666666666666666,0.2,0.13333333333333333
+South Africa,1947,Colonialism,9,0.3333333333333333,0.6666666666666666,0
+South Africa,1948,Colonialism,8,0.125,0.75,0.125
+South Africa,1949,Colonialism,13,0.3076923076923077,0.6923076923076923,0
+South Africa,1950,Colonialism,12,0.3333333333333333,0.5,0.16666666666666666
+South Africa,1952,Colonialism,9,0.3333333333333333,0.6666666666666666,0
+South Africa,1953,Colonialism,8,0.125,0.875,0
+South Africa,1959,Colonialism,16,0.375,0.3125,0.3125
+South Africa,1960,Colonialism,6,0,0.8333333333333334,0.16666666666666666
+South Africa,1961,Colonialism,14,0.2857142857142857,0.21428571428571427,0.5
+South Africa,1962,Colonialism,21,0.2857142857142857,0.6190476190476191,0.09523809523809523
+South Africa,1965,Colonialism,12,0.08333333333333333,0.4166666666666667,0.5
+South Africa,1966,Colonialism,17,0.058823529411764705,0.5882352941176471,0.35294117647058826
+South Africa,1967,Colonialism,10,0,0.8,0.2
+South Africa,1968,Colonialism,10,0,1,0
+South Africa,1969,Colonialism,10,0,0.8,0.2
+South Africa,1970,Colonialism,9,0,0.8888888888888888,0.1111111111111111
+South Africa,1971,Colonialism,8,0.125,0.875,0
+South Africa,1972,Colonialism,6,0,1,0
+South Africa,1973,Colonialism,13,0,0.7692307692307693,0.23076923076923078
+South Africa,1994,Colonialism,13,0.9230769230769231,0,0.07692307692307693
+South Africa,1995,Colonialism,14,1,0,0
+South Africa,1996,Colonialism,12,1,0,0
+South Africa,1997,Colonialism,12,1,0,0
+South Africa,1998,Colonialism,13,1,0,0
+South Africa,1999,Colonialism,12,1,0,0
+South Africa,2000,Colonialism,13,1,0,0
+South Africa,2001,Colonialism,11,1,0,0
+South Africa,2002,Colonialism,11,1,0,0
+South Africa,2003,Colonialism,10,1,0,0
+South Africa,2004,Colonialism,9,1,0,0
+South Africa,2005,Colonialism,10,1,0,0
+South Africa,2006,Colonialism,17,1,0,0
+South Africa,2007,Colonialism,11,1,0,0
+South Africa,2008,Colonialism,15,0.9333333333333333,0,0.06666666666666667
+South Africa,2009,Colonialism,14,1,0,0
+South Africa,2010,Colonialism,13,1,0,0
+South Africa,2011,Colonialism,12,1,0,0
+South Africa,2012,Colonialism,13,1,0,0
+South Africa,2013,Colonialism,13,1,0,0
+South Africa,2014,Colonialism,9,1,0,0
+South Africa,2015,Colonialism,10,0.9,0,0.1
+South Africa,2016,Colonialism,11,1,0,0
+South Africa,2017,Colonialism,16,0.875,0.0625,0.0625
+South Africa,2019,Colonialism,16,0.875,0,0.125
+South Africa,1946,Economic development,10,0.6,0.4,0
+South Africa,1948,Economic development,8,0.625,0.375,0
+South Africa,1959,Economic development,6,0.5,0.16666666666666666,0.3333333333333333
+South Africa,1961,Economic development,10,0.4,0,0.6
+South Africa,1968,Economic development,6,0.16666666666666666,0.8333333333333334,0
+South Africa,1970,Economic development,6,0,0.6666666666666666,0.3333333333333333
+South Africa,1971,Economic development,25,0.64,0.2,0.16
+South Africa,1972,Economic development,26,0.4230769230769231,0.23076923076923078,0.34615384615384615
+South Africa,1973,Economic development,16,0.4375,0.25,0.3125
+South Africa,1998,Economic development,6,1,0,0
+South Africa,1999,Economic development,7,1,0,0
+South Africa,2002,Economic development,6,1,0,0
+South Africa,2003,Economic development,7,1,0,0
+South Africa,2004,Economic development,7,1,0,0
+South Africa,2005,Economic development,9,1,0,0
+South Africa,2006,Economic development,9,1,0,0
+South Africa,2007,Economic development,12,0.9166666666666666,0,0.08333333333333333
+South Africa,2008,Economic development,12,0.9166666666666666,0,0.08333333333333333
+South Africa,2009,Economic development,12,0.9166666666666666,0,0.08333333333333333
+South Africa,2010,Economic development,7,0.8571428571428571,0,0.14285714285714285
+South Africa,2011,Economic development,8,0.875,0.125,0
+South Africa,2012,Economic development,12,0.9166666666666666,0,0.08333333333333333
+South Africa,2013,Economic development,7,0.8571428571428571,0,0.14285714285714285
+South Africa,2014,Economic development,11,0.8181818181818182,0,0.18181818181818182
+South Africa,2015,Economic development,8,0.875,0,0.125
+South Africa,2016,Economic development,14,0.7142857142857143,0.07142857142857142,0.21428571428571427
+South Africa,2017,Economic development,19,0.9473684210526315,0,0.05263157894736842
+South Africa,2018,Economic development,18,0.9444444444444444,0,0.05555555555555555
+South Africa,2019,Economic development,16,0.875,0,0.125
+South Africa,1948,Human rights,6,0,0,1
+South Africa,1956,Human rights,6,0.6666666666666666,0,0.3333333333333333
+South Africa,1972,Human rights,11,0.2727272727272727,0.45454545454545453,0.2727272727272727
+South Africa,1973,Human rights,12,0.16666666666666666,0.5,0.3333333333333333
+South Africa,1994,Human rights,14,0.9285714285714286,0.07142857142857142,0
+South Africa,1995,Human rights,14,0.8571428571428571,0.07142857142857142,0.07142857142857142
+South Africa,1996,Human rights,17,0.8235294117647058,0.058823529411764705,0.11764705882352941
+South Africa,1997,Human rights,20,0.9,0.05,0.05
+South Africa,1998,Human rights,17,0.8823529411764706,0,0.11764705882352941
+South Africa,1999,Human rights,19,0.8421052631578947,0,0.15789473684210525
+South Africa,2000,Human rights,17,0.8235294117647058,0,0.17647058823529413
+South Africa,2001,Human rights,19,0.5263157894736842,0,0.47368421052631576
+South Africa,2002,Human rights,23,0.8260869565217391,0.043478260869565216,0.13043478260869565
+South Africa,2003,Human rights,24,0.8333333333333334,0.041666666666666664,0.125
+South Africa,2004,Human rights,20,0.8,0.05,0.15
+South Africa,2005,Human rights,21,0.6666666666666666,0.047619047619047616,0.2857142857142857
+South Africa,2006,Human rights,28,0.8571428571428571,0.07142857142857142,0.07142857142857142
+South Africa,2007,Human rights,27,0.8888888888888888,0.037037037037037035,0.07407407407407407
+South Africa,2008,Human rights,26,0.8846153846153846,0.038461538461538464,0.07692307692307693
+South Africa,2009,Human rights,23,0.9130434782608695,0,0.08695652173913043
+South Africa,2010,Human rights,25,0.92,0,0.08
+South Africa,2011,Human rights,24,0.7916666666666666,0.041666666666666664,0.16666666666666666
+South Africa,2012,Human rights,22,0.9090909090909091,0,0.09090909090909091
+South Africa,2013,Human rights,20,0.9,0,0.1
+South Africa,2014,Human rights,18,0.7777777777777778,0,0.2222222222222222
+South Africa,2015,Human rights,20,0.85,0.05,0.1
+South Africa,2016,Human rights,19,0.7894736842105263,0.15789473684210525,0.05263157894736842
+South Africa,2017,Human rights,30,0.8,0.1,0.1
+South Africa,2018,Human rights,22,0.8636363636363636,0.09090909090909091,0.045454545454545456
+South Africa,2019,Human rights,14,0.7857142857142857,0,0.21428571428571427
+South Africa,1959,Nuclear weapons and nuclear material,9,0.1111111111111111,0.7777777777777778,0.1111111111111111
+South Africa,1961,Nuclear weapons and nuclear material,8,0.25,0.625,0.125
+South Africa,1962,Nuclear weapons and nuclear material,9,0.6666666666666666,0.1111111111111111,0.2222222222222222
+South Africa,1972,Nuclear weapons and nuclear material,8,0.5,0.125,0.375
+South Africa,1994,Nuclear weapons and nuclear material,9,0.8888888888888888,0,0.1111111111111111
+South Africa,1995,Nuclear weapons and nuclear material,11,0.9090909090909091,0,0.09090909090909091
+South Africa,1996,Nuclear weapons and nuclear material,12,0.9166666666666666,0,0.08333333333333333
+South Africa,1997,Nuclear weapons and nuclear material,13,0.8461538461538461,0,0.15384615384615385
+South Africa,1998,Nuclear weapons and nuclear material,19,0.8947368421052632,0,0.10526315789473684
+South Africa,1999,Nuclear weapons and nuclear material,14,0.8571428571428571,0,0.14285714285714285
+South Africa,2000,Nuclear weapons and nuclear material,14,0.9285714285714286,0,0.07142857142857142
+South Africa,2001,Nuclear weapons and nuclear material,14,0.8571428571428571,0,0.14285714285714285
+South Africa,2002,Nuclear weapons and nuclear material,20,0.85,0,0.15
+South Africa,2003,Nuclear weapons and nuclear material,15,0.8666666666666667,0,0.13333333333333333
+South Africa,2004,Nuclear weapons and nuclear material,15,0.9333333333333333,0,0.06666666666666667
+South Africa,2005,Nuclear weapons and nuclear material,16,0.9375,0,0.0625
+South Africa,2006,Nuclear weapons and nuclear material,16,0.9375,0,0.0625
+South Africa,2007,Nuclear weapons and nuclear material,15,0.9333333333333333,0,0.06666666666666667
+South Africa,2008,Nuclear weapons and nuclear material,16,0.9375,0,0.0625
+South Africa,2009,Nuclear weapons and nuclear material,19,0.9473684210526315,0,0.05263157894736842
+South Africa,2010,Nuclear weapons and nuclear material,21,0.9047619047619048,0,0.09523809523809523
+South Africa,2011,Nuclear weapons and nuclear material,18,0.8888888888888888,0,0.1111111111111111
+South Africa,2012,Nuclear weapons and nuclear material,21,0.9047619047619048,0,0.09523809523809523
+South Africa,2013,Nuclear weapons and nuclear material,12,0.8333333333333334,0,0.16666666666666666
+South Africa,2014,Nuclear weapons and nuclear material,14,0.8571428571428571,0,0.14285714285714285
+South Africa,2015,Nuclear weapons and nuclear material,19,0.9473684210526315,0,0.05263157894736842
+South Africa,2016,Nuclear weapons and nuclear material,24,0.9166666666666666,0,0.08333333333333333
+South Africa,2017,Nuclear weapons and nuclear material,26,0.8461538461538461,0.038461538461538464,0.11538461538461539
+South Africa,2018,Nuclear weapons and nuclear material,16,0.8125,0,0.1875
+South Africa,2019,Nuclear weapons and nuclear material,17,0.8235294117647058,0,0.17647058823529413
+South Africa,1947,Palestinian conflict,7,0.8571428571428571,0.14285714285714285,0
+South Africa,1948,Palestinian conflict,11,0.6363636363636364,0.18181818181818182,0.18181818181818182
+South Africa,1949,Palestinian conflict,14,0.2857142857142857,0.7142857142857143,0
+South Africa,1967,Palestinian conflict,13,0.07692307692307693,0,0.9230769230769231
+South Africa,1994,Palestinian conflict,19,0.9473684210526315,0,0.05263157894736842
+South Africa,1995,Palestinian conflict,19,0.9473684210526315,0,0.05263157894736842
+South Africa,1996,Palestinian conflict,21,1,0,0
+South Africa,1997,Palestinian conflict,22,1,0,0
+South Africa,1998,Palestinian conflict,23,1,0,0
+South Africa,1999,Palestinian conflict,21,1,0,0
+South Africa,2000,Palestinian conflict,23,1,0,0
+South Africa,2001,Palestinian conflict,24,0.875,0,0.125
+South Africa,2002,Palestinian conflict,21,1,0,0
+South Africa,2003,Palestinian conflict,18,0.9444444444444444,0,0.05555555555555555
+South Africa,2004,Palestinian conflict,19,1,0,0
+South Africa,2005,Palestinian conflict,15,1,0,0
+South Africa,2006,Palestinian conflict,20,1,0,0
+South Africa,2007,Palestinian conflict,19,1,0,0
+South Africa,2008,Palestinian conflict,17,1,0,0
+South Africa,2009,Palestinian conflict,17,1,0,0
+South Africa,2010,Palestinian conflict,16,1,0,0
+South Africa,2011,Palestinian conflict,17,1,0,0
+South Africa,2012,Palestinian conflict,17,1,0,0
+South Africa,2013,Palestinian conflict,16,1,0,0
+South Africa,2014,Palestinian conflict,15,1,0,0
+South Africa,2015,Palestinian conflict,15,1,0,0
+South Africa,2016,Palestinian conflict,13,0.9230769230769231,0.07692307692307693,0
+South Africa,2017,Palestinian conflict,19,1,0,0
+South Africa,2018,Palestinian conflict,16,1,0,0
+South Africa,2019,Palestinian conflict,13,1,0,0

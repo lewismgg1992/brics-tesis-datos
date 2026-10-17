@@ -1,0 +1,1322 @@
+id_reunion,orgYear,nivel,mes,dia,year,ciudad,pais,nombre,tipo,margenOrg,area,subarea,subarea_economica,formato,presidencia
+1,BRICS2019,2,septiembre,26,2019,Bonito,Brasil,9th BRICS meeting,formal,BRICS,agriculture,general,,presencial,brasil
+2,BRICS2018,2,junio,22,2018,Mpumalanga,Sudáfrica,8th BRICS meeting,formal,BRICS,agriculture,general,,presencial,sudafrica
+3,BRICS2017,2,junio,16,2017,Nanjing,China,7th BRICS meeting,formal,BRICS,agriculture,general,,presencial,china
+4,BRICS2016,2,septiembre,23,2016,Delhi,India,6th BRICS meeting,formal,BRICS,agriculture,general,,presencial,india
+5,BRICS2015,2,octubre,9,2015,Moscú,Rusia,5th BRICS meeting,formal,BRICS,agriculture,general,,presencial,rusia
+6,BRICS2015,2,marzo,11,2015,Brasilia,Brasil,4th BRICS meeting,formal,BRICS,agriculture,general,,presencial,rusia
+7,BRICS2013,2,octubre,29,2013,Pretoria,Sudáfrica,3rd BRICS meeting,formal,BRICS,agriculture,general,,presencial,sudafrica
+8,BRICS2011,2,octubre,30,2011,Chengdu,China,2nd BRICS meeting,formal,BRICS,agriculture,general,,presencial,china
+9,BRICS2010,2,marzo,26,2010,Moscú,Rusia,1st BRICS meeting,formal,BRICS,agriculture,general,,presencial,brasil
+10,BRICS2019,2,agosto,14,2019,Brasilia,Brasil,5th BRICS meeting,formal,BRICS,communication,general,,presencial,brasil
+11,BRICS2018,2,septiembre,15,2018,Durban,Sudáfrica,4th BRICS meeting,formal,BRICS,communication,general,,presencial,sudafrica
+12,BRICS2017,2,julio,27,2017,Hangzhou,China,3rd BRICS meeting,formal,BRICS,communication,general,,presencial,china
+13,BRICS2016,2,noviembre,10,2016,Bangalore,India,2nd BRICS meeting,formal,BRICS,communication,general,,presencial,india
+14,BRICS2015,2,octubre,22,2015,Moscú,Rusia,1st BRICS meeting,formal,BRICS,communication,general,,presencial,rusia
+15,BRICS2019,2,octubre,11,2019,Curitiba,Brasil,4th BRICS meeting,formal,BRICS,culture,general,,presencial,brasil
+16,BRICS2018,2,octubre,31,2018,Maropeng,Sudáfrica,3rd BRICS meeting,formal,BRICS,culture,general,,presencial,sudafrica
+17,BRICS2017,2,julio,6,2017,Tianjin,China,2nd BRICS meeting,formal,BRICS,culture,general,,presencial,china
+18,BRICS2015,2,junio,17,2015,Moscú,Rusia,1st BRICS meeting,formal,BRICS,culture,general,,presencial,rusia
+19,BRICS2018,2,junio,29,2018,Buffalo,Sudáfrica,3rd BRICS meeting,formal,BRICS,disaster management,general,,presencial,sudafrica
+20,BRICS2016,2,agosto,22,2016,Udaipur,India,2nd BRICS meeting,formal,BRICS,disaster management,general,,presencial,india
+21,BRICS2015,2,abril,19,2015,San Petersburgo,Rusia,1st BRICS meeting,formal,BRICS,disaster management,general,,presencial,rusia
+22,BRICS2018,2,julio,10,2018,Cape Town,Sudáfrica,6th BRICS meeting,formal,BRICS,education,general,,presencial,sudafrica
+23,BRICS2017,2,julio,5,2017,Beijing,China,5th BRICS meeting,formal,BRICS,education,general,,presencial,china
+24,BRICS2016,2,septiembre,30,2016,Delhi,India,4th BRICS meeting,formal,BRICS,education,general,,presencial,india
+25,BRICS2015,2,noviembre,18,2015,Moscú,Rusia,3rd BRICS meeting,formal,BRICS,education,general,,presencial,rusia
+26,BRICS2015,2,marzo,2,2015,Brasilia,Brasil,2nd BRICS meeting,formal,BRICS,education,general,,presencial,rusia
+27,BRICS2013,2,noviembre,7,2013,París,Francia,1st BRICS-UNESCO meeting,informal,UNESCO,education,general,,presencial,sudafrica
+28,BRICS2013,2,noviembre,5,2013,París,Francia,1st BRICS meeting,informal,UNESCO,education,general,,presencial,sudafrica
+29,BRICS2019,2,noviembre,11,2019,Brasilia,Brasil,4th BRICS meeting,formal,BRICS,energy,general,,presencial,brasil
+30,BRICS2018,2,junio,28,2018,Johannesburg,Sudáfrica,3rd BRICS meeting,formal,BRICS,energy,general,,presencial,sudafrica
+31,BRICS2017,2,junio,7,2017,Beijing,China,2nd BRICS meeting,formal,BRICS,energy,general,,presencial,china
+32,BRICS2016,2,diciembre,,2016,,,1st BRICS meeting,formal,BRICS,energy,general,,presencial,india
+33,BRICS2015,2,noviembre,20,2015,Moscú,Rusia,Informal meeting of energy ministers,informal,ENES,energy,general,,presencial,rusia
+34,BRICS2019,2,agosto,15,2019,Sao Paulo,Brasil,5th BRICS meeting,formal,BRICS,environment,general,,presencial,brasil
+35,BRICS2018,2,mayo,18,2018,Durban,Sudáfrica,4th BRICS meeting,formal,BRICS,environment,general,,presencial,sudafrica
+36,BRICS2017,2,junio,22,2017,Tiajin,China,3rd BRICS meeting,formal,BRICS,environment,general,,presencial,china
+37,BRICS2016,2,septiembre,15,2016,Goa,India,2nd BRICS meeting,formal,BRICS,environment,general,,presencial,india
+38,BRICS2015,2,abril,21,2015,Moscú,Rusia,1st BRICS meeting,formal,BRICS,environment,general,,presencial,rusia
+39,BRICS2019,2,octubre,18,2019,Washington,EEUU,IMF/WB annual meeting,informal,IMF-WB,economy,finance,general,presencial,brasil
+40,BRICS2019,2,junio,8,2019,Fukuoka,Japón,BRICS deputy finance ministers,informal,G20,economy,finance,general,presencial,brasil
+41,BRICS2019,2,abril,12,2019,Washington,EEUU,IMF/WB spring meeting,informal,IMF-WB,economy,finance,general,presencial,brasil
+42,BRICS2018,2,octubre,11,2018,Balí,Indonesia,IMF/WB annual meeting,informal,IMF-WB,economy,finance,general,presencial,sudafrica
+43,BRICS2018,2,julio,19,2018,Buenos Aires,Argentina,G20 finance ministers,informal,G20,economy,finance,general,presencial,sudafrica
+44,BRICS2018,2,abril,19,2018,Washington,EEUU,IMF/WB spring meeting,informal,IMF-WB,economy,finance,general,presencial,sudafrica
+45,BRICS2018,2,marzo,17,2018,Buenos Aires,Argentina,G20 finance ministers,informal,G20,economy,finance,general,presencial,sudafrica
+46,BRICS2017,2,junio,19,2017,Shanghai,China,BRICS finance ministers meeting,formal,BRICS,economy,finance,general,presencial,china
+47,BRICS2017,2,marzo,17,2017,Baden-Baden,Alemania,G20 finance ministers,informal,G20,economy,finance,general,presencial,china
+48,BRICS2017,2,abril,21,2017,Washington,EEUU,IMF/WB spring meeting,informal,IMF-WB,economy,finance,general,presencial,china
+49,BRICS2016,2,octubre,14,2016,Goa,India,BRICS finance ministers meeting,formal,BRICS,economy,finance,general,presencial,india
+50,BRICS2016,2,octubre,7,2016,Washington,EEUU,IMF/WB annual meeting,informal,IMF-WB,economy,finance,general,presencial,india
+51,BRICS2016,2,julio,23,2016,Chengdu,China,G20 finance ministers,informal,G20,economy,finance,general,presencial,india
+52,BRICS2016,2,abril,14,2016,Washington,EEUU,IMF/WB spring meeting,informal,IMF-WB,economy,finance,general,presencial,india
+53,BRICS2016,2,febrero,26,2016,Shanghai,China,G20 finance ministers,informal,G20,economy,finance,general,presencial,india
+54,BRICS2016,2,febrero,25,2016,Shanghai,China,G20 finance ministers,informal,G20,economy,finance,general,presencial,india
+55,BRICS2015,2,septiembre,4,2015,Ankara,Turquía,G20 finance ministers,informal,G20,economy,finance,general,presencial,rusia
+56,BRICS2015,2,julio,5,2015,Moscú,Rusia,BRICS finance ministers meeting,formal,BRICS,economy,finance,general,presencial,rusia
+57,BRICS2015,2,abril,16,2015,Washington,EEUU,IMF/WB spring meeting,informal,IMF-WB,economy,finance,general,presencial,rusia
+58,BRICS2015,2,febrero,9,2015,Estambúl,Turquía,BRICS deputy finance ministers,informal,G20,economy,finance,general,presencial,rusia
+59,BRICS2014,2,septiembre,9,2014,Cairns,Australia,BRICS finance ministers meeting,informal,G20,economy,finance,general,presencial,brasil
+60,BRICS2014,2,julio,15,2014,Fortaleza,Brasil,BRICS finance ministers meeting,formal,BRICS,economy,finance,general,presencial,brasil
+61,BRICS2014,2,abril,11,2014,Washington,EEUU,IMF/WB spring meeting,informal,IMF-WB,economy,finance,general,presencial,brasil
+62,BRICS2014,2,febrero,,2014,Sydney,Australia,BRICS finance ministers meeting,informal,G20,economy,finance,general,presencial,brasil
+63,BRICS2013,2,octubre,10,2013,Washington,EEUU,IMF/WB annual meeting,informal,IMF-WB,economy,finance,general,presencial,sudafrica
+64,BRICS2013,2,septiembre,3,2013,San Petersburgo,Rusia,BRICS finance ministers meeting,informal,G20,economy,finance,general,presencial,sudafrica
+65,BRICS2013,2,julio,19,2013,Moscú,Rusia,BRICS finance ministers meeting,informal,G20,economy,finance,general,presencial,sudafrica
+66,BRICS2013,2,abril,18,2013,Washington,EEUU,IMF/WB spring meeting,informal,IMF-WB,economy,finance,general,presencial,sudafrica
+67,BRICS2013,2,marzo,26,2013,Durban,Sudáfrica,BRICS finance ministers meeting,formal,BRICS,economy,finance,general,presencial,sudafrica
+68,BRICS2013,2,febrero,15,2013,Moscú,Rusia,G20 finance ministers,informal,G20,economy,finance,general,presencial,sudafrica
+69,BRICS2012,2,octubre,9,2012,Tokyo,Japón,IMF/WB annual meeting,informal,IMF-WB,economy,finance,general,presencial,india
+70,BRICS2012,2,abril,19,2012,Washington,EEUU,IMF/WB spring meeting,informal,IMF-WB,economy,finance,general,presencial,india
+71,BRICS2012,2,febrero,25,2012,México City,México,G20 finance ministers,informal,G20,economy,finance,general,presencial,india
+72,BRICS2011,2,septiembre,22,2011,Washington,EEUU,IMF/WB annual meeting,informal,IMF-WB,economy,finance,general,presencial,china
+73,BRICS2011,2,abril,14,2011,Washington,EEUU,IMF/WB spring meeting,informal,IMF-WB,economy,finance,general,presencial,china
+74,BRICS2011,2,febrero,19,2011,París,Francia,G20 finance ministers,informal,G20,economy,finance,general,presencial,china
+75,BRICS2010,2,noviembre,11,2010,Seúl,Corea del Sur,G20 finance ministers,informal,G20,economy,finance,general,presencial,brasil
+76,BRICS2010,2,junio,26,2010,Toronto,Canadá,G20 finance ministers,informal,G20,economy,finance,general,presencial,brasil
+77,BRICS2010,2,abril,24,2010,Washington,EEUU,IMF/WB spring meeting,informal,IMF-WB,economy,finance,general,presencial,brasil
+78,BRICS2010,2,febrero,27,2010,Incheon,Corea del Sur,G20 finance ministers,informal,G20,economy,finance,general,presencial,brasil
+79,BRICS2009,2,octubre,6,2009,Estambúl,Turquía,IMF/WB annual meeting,informal,IMF-WB,economy,finance,general,presencial,rusia
+80,BRICS2009,2,septiembre,24,2009,Pittsburgh,EEUU,G20 finance ministers,informal,G20,economy,finance,general,presencial,rusia
+81,BRICS2009,2,septiembre,4,2009,Londres,Gran Bretaña,G20 finance ministers,informal,G20,economy,finance,general,presencial,rusia
+82,BRICS2009,2,abril,2,2009,Londres,Gran Bretaña,G20 finance ministers,informal,G20,economy,finance,general,presencial,rusia
+83,BRICS2009,2,marzo,13,2009,Horsham,Gran Bretaña,G20 finance ministers,informal,G20,economy,finance,general,presencial,rusia
+84,BRICS2008,2,noviembre,14,2008,Washington,EEUU,G20 finance ministers,informal,G20,economy,finance,general,presencial,
+85,BRICS2008,2,noviembre,7,2008,Sao Paulo,Brasil,1st BRICS meeting,informal,BRICS,economy,finance,general,presencial,
+86,BRICS2019,2,septiembre,26,2019,New York,EEUU,XIV BRICS foreign ministers meeting,informal,ONU,foreign,general,,presencial,brasil
+87,BRICS2019,2,julio,26,2019,Rio de Janeiro,Brasil,BRICS foreign affairs ministers,formal,BRICS,foreign,general,,presencial,brasil
+88,BRICS2018,2,septiembre,20,2018,New York,EEUU,XIII BRICS foreign ministers meeting,informal,ONU,foreign,general,,presencial,sudafrica
+89,BRICS2018,2,junio,4,2018,Pretoria,Sudáfrica,BRICS foreign affairs ministers,formal,BRICS,foreign,general,,presencial,sudafrica
+90,BRICS2017,2,septiembre,20,2017,New York,EEUU,XII BRICS foreign ministers meeting,informal,ONU,foreign,general,,presencial,china
+91,BRICS2017,2,junio,18,2017,Beijing,China,BRICS foreign affairs ministers,formal,BRICS,foreign,general,,presencial,china
+92,BRICS2016,2,septiembre,20,2016,New York,EEUU,XI BRICS foreign ministers meeting,informal,ONU,foreign,general,,presencial,india
+93,BRICS2015,2,septiembre,29,2015,New York,EEUU,X BRICS foreign ministers meeting,informal,ONU,foreign,general,,presencial,rusia
+94,BRICS2014,2,septiembre,25,2014,New York,EEUU,IX BRICS foreign ministers meeting,informal,ONU,foreign,general,,presencial,brasil
+95,BRICS2014,2,marzo,24,2014,La Haya,Países Bajos,BRICS foreign affairs ministers,informal,NSS,foreign,general,,presencial,brasil
+96,BRICS2013,2,septiembre,26,2013,New York,EEUU,VIII BRICS foreign ministers meeting,informal,ONU,foreign,general,,presencial,sudafrica
+97,BRICS2012,2,septiembre,26,2012,New York,EEUU,VII BRICS foreign ministers meeting,informal,ONU,foreign,general,,presencial,india
+98,BRICS2011,2,septiembre,23,2011,New York,EEUU,VI BRICS foreign ministers meeting,informal,ONU,foreign,general,,presencial,china
+99,BRICS2010,2,septiembre,21,2010,New York,EEUU,V BRICS foreign ministers meeting,informal,ONU,foreign,general,,presencial,brasil
+100,BRICS2009,2,septiembre,24,2009,New York,EEUU,IV BRICS foreign ministers meeting,informal,ONU,foreign,general,,presencial,rusia
+101,BRICS2008,2,septiembre,25,2008,New York,EEUU,III BRICS foreign ministers meeting,informal,ONU,foreign,general,,presencial,
+102,BRICS2008,2,mayo,16,2008,Yekaterinburg,Rusia,BRICS foreign affairs ministers,formal,BRICS,foreign,general,,presencial,
+103,BRICS2008,2,marzo,10,2008,Rio de Janeiro,Brasil,Reunión viceministros relación exterior,informal,,foreign,general,,presencial,
+104,BRICS2007,2,septiembre,24,2007,New York,EEUU,II RIC+Brazil foreign ministers,informal,ONU,foreign,general,,presencial,
+105,BRICS2006,2,septiembre,20,2006,New York,EEUU,I RIC+Brazil foreign ministers,informal,ONU,foreign,general,,presencial,
+106,BRICS2019,2,octubre,25,2019,Curitiba,Brasil,IX BRICS health ministers meeting,formal,BRICS,health,general,,presencial,brasil
+107,BRICS2019,2,mayo,20,2019,Ginebra,Suiza,BRICS ministerial meeting,informal,OMS,health,general,,presencial,brasil
+108,BRICS2018,2,julio,20,2018,Durban,Sudáfrica,VIII BRICS health ministers meeting,formal,BRICS,health,general,,presencial,sudafrica
+109,BRICS2018,2,mayo,,2018,Ginebra,Suiza,BRICS ministerial meeting,informal,OMS,health,general,,presencial,sudafrica
+110,BRICS2017,2,julio,6,2017,Tiajin,China,VII BRICS health ministers meeting,formal,BRICS,health,general,,presencial,china
+111,BRICS2017,2,mayo,24,2017,Ginebra,Suiza,BRICS ministerial meeting,informal,OMS,health,general,,presencial,china
+112,BRICS2016,2,diciembre,15,2016,Delhi,India,VI BRICS health ministers meeting,formal,BRICS,health,general,,presencial,india
+113,BRICS2016,2,mayo,24,2016,Ginebra,Suiza,BRICS ministerial meeting,informal,OMS,health,general,,presencial,india
+114,BRICS2015,2,octubre,30,2015,Moscú,Rusia,V BRICS health ministers meeting,formal,BRICS,health,general,,presencial,rusia
+115,BRICS2015,2,mayo,19,2015,Ginebra,Suiza,BRICS ministerial meeting,informal,OMS,health,general,,presencial,rusia
+116,BRICS2014,2,diciembre,5,2014,Brasilia,Brasil,IV BRICS health ministers meeting,formal,BRICS,health,general,,presencial,brasil
+117,BRICS2014,2,mayo,19,2014,Ginebra,Suiza,BRICS ministerial meeting,informal,OMS,health,general,,presencial,brasil
+118,BRICS2013,2,noviembre,7,2013,Cape Town,Sudáfrica,III BRICS health ministers meeting,formal,BRICS,health,general,,presencial,sudafrica
+119,BRICS2013,2,mayo,20,2013,Ginebra,Suiza,BRICS ministerial meeting,informal,OMS,health,general,,presencial,sudafrica
+120,BRICS2013,2,enero,11,2013,Delhi,India,II BRICS health ministers meeting,formal,BRICS,health,general,,presencial,sudafrica
+121,BRICS2012,2,mayo,22,2012,Ginebra,Suiza,BRICS ministerial meeting,informal,OMS,health,general,,presencial,india
+122,BRICS2012,2,enero,19,2012,Ginebra,Suiza,BRICS ministerial meeting,informal,OMS,health,general,,presencial,india
+123,BRICS2011,2,septiembre,20,2011,New York,EEUU,BRICS ministerial meeting,informal,ONU,health,general,,presencial,china
+124,BRICS2011,2,julio,11,2011,Beijing,China,I BRICS health ministers meeting,formal,BRICS,health,general,,presencial,china
+125,BRICS2011,2,mayo,17,2011,Ginebra,Suiza,BRICS ministerial meeting,informal,OMS,health,general,,presencial,china
+126,BRICS2019,2,septiembre,16,2019,Brasilia,Brasil,2nd BRICS PartNIR advisory group meeting,formal,BRICS,industry,investments,,presencial,brasil
+127,BRICS2018,2,diciembre,,2018,Johannesburg,Sudáfrica,1ST BRICS PartNIR advisory group meeting,formal,BRICS,industry,investments,,presencial,sudafrica
+128,BRICS2018,2,julio,4,2018,Gauteng,Sudáfrica,3rd BRICS industry meeting,formal,BRICS,industry,general,,presencial,sudafrica
+129,BRICS2017,2,julio,29,2017,Hangzhou,China,2nd BRICS industry meeting,formal,BRICS,industry,general,,presencial,china
+130,BRICS2015,2,octubre,20,2015,Moscú,Rusia,1st BRICS industry meeting,formal,BRICS,industry,general,,presencial,rusia
+131,BRICS2019,2,septiembre,19,2019,Brasilia,Brasil,5th BRICS Labour and Employment ministers meeting,formal,BRICS,labour,general,,presencial,brasil
+132,BRICS2018,2,agosto,2,2018,Durban,Sudáfrica,4th BRICS Labour and Employment ministers meeting,formal,BRICS,labour,general,,presencial,sudafrica
+133,BRICS2017,2,julio,27,2017,Chongqing,China,3rd BRICS Labour and Employment ministers meeting,formal,BRICS,labour,general,,presencial,china
+134,BRICS2016,2,septiembre,27,2016,Agra,India,2nd BRICS Labour and Employment ministers meeting,formal,BRICS,labour,general,,presencial,india
+135,BRICS2016,2,junio,9,2016,Ginebra,Suiza,BRICS Labour and Employment ministers meeting,informal,ILC,labour,general,,presencial,india
+136,BRICS2016,2,enero,25,2016,Ufa,Rusia,1st BRICS Labour and Employment ministers meeting,formal,BRICS,labour,general,,presencial,india
+137,BRICS2019,2,septiembre,20,2019,Campinas,Brasil,7th BRICS Science Technology and Innovation Ministers meeting,formal,BRICS,sti,general,,presencial,brasil
+138,BRICS2018,2,julio,3,2018,Durban,Sudáfrica,6th BRICS Science Technology and Innovation Ministers meeting,formal,BRICS,sti,general,,presencial,sudafrica
+139,BRICS2017,2,julio,18,2017,Hangzhou,China,5th BRICS Science Technology and Innovation Ministers meeting,formal,BRICS,sti,general,,presencial,china
+140,BRICS2016,2,octubre,8,2016,Jaipur,India,4th BRICS Science Technology and Innovation Ministers meeting,formal,BRICS,sti,general,,presencial,india
+141,BRICS2015,2,octubre,28,2015,Moscú,Rusia,3rd BRICS Science Technology and Innovation Ministers meeting,formal,BRICS,sti,general,,presencial,rusia
+142,BRICS2015,2,marzo,18,2015,Brasilia,Brasil,2nd BRICS Science Technology and Innovation Ministers meeting,formal,BRICS,sti,general,,presencial,rusia
+143,BRICS2014,2,febrero,10,2014,Cape Town,Sudáfrica,1st BRICS Science Technology and Innovation Ministers meeting,formal,BRICS,sti,general,,presencial,brasil
+144,BRICS2019,2,noviembre,11,2019,Brasilia,Brasil,9th BRICS Trade Ministers meeting,formal,BRICS,economy,trade,general,presencial,brasil
+145,BRICS2018,2,julio,5,2018,Megaliesburg,Sudáfrica,8th BRICS Trade Ministers meeting,formal,BRICS,economy,trade,general,presencial,sudafrica
+146,BRICS2017,2,agosto,2,2017,Shanghai,China,7th BRICS Trade Ministers meeting,formal,BRICS,economy,trade,general,presencial,china
+147,BRICS2016,2,octubre,13,2016,Delhi,India,6th BRICS Trade Ministers meeting,formal,BRICS,economy,trade,general,presencial,india
+148,BRICS2015,2,diciembre,15,2015,Nairobi,Kenya,BRICS trade ministers meeting – WTO,informal,WTO,economy,trade,general,presencial,rusia
+149,BRICS2015,2,julio,7,2015,Moscú,Rusia,5th BRICS Trade Ministers meeting,formal,BRICS,economy,trade,general,presencial,rusia
+150,BRICS2014,2,julio,14,2014,Fortaleza,Brasil,4th BRICS Trade Ministers meeting,formal,BRICS,economy,trade,general,presencial,brasil
+151,BRICS2013,2,marzo,26,2013,Durban,Sudáfrica,3rd BRICS Trade Ministers meeting,formal,BRICS,economy,trade,general,presencial,sudafrica
+152,BRICS2012,2,abril,19,2012,Puerto Vallarta,México,BRICS trade ministers meeting – G20,informal,G20,economy,trade,general,presencial,india
+153,BRICS2012,2,marzo,28,2012,Delhi,India,2nd BRICS Trade Ministers meeting,formal,BRICS,economy,trade,general,presencial,india
+154,BRICS2011,2,diciembre,14,2011,Ginebra,Suiza,BRICS trade ministers meeting – WTO,informal,WTO,economy,trade,general,presencial,china
+155,BRICS2011,2,abril,13,2011,Sanya,China,1st BRICS Trade Ministers meeting,formal,BRICS,economy,trade,general,presencial,china
+156,BRICS2010,2,abril,,2010,Rio de Janeiro,Brasil,BRICS trade ministers meeting,formal,BRICS,economy,trade,general,presencial,brasil
+157,BRICS2019,2,octubre,17,2019,Brasilia,Brasil,9th BRICS National Security Advisors meeting,formal,BRICS,security-defense,general,,presencial,brasil
+158,BRICS2018,2,junio,28,2018,Durban,Sudáfrica,8th BRICS National Security Advisors meeting,formal,BRICS,security-defense,general,,presencial,sudafrica
+159,BRICS2017,2,julio,27,2017,Beijing,China,7th BRICS National Security Advisors meeting,formal,BRICS,security-defense,general,,presencial,china
+160,BRICS2016,2,septiembre,15,2016,Delhi,India,6th BRICS National Security Advisors meeting,formal,BRICS,security-defense,general,,presencial,india
+161,BRICS2015,2,mayo,26,2015,Moscú,Rusia,5th BRICS National Security Advisors meeting,formal,BRICS,security-defense,general,,presencial,rusia
+162,BRICS2014,2,,,2014,,,4th BRICS National Security Advisors meeting,formal,BRICS,security-defense,general,,presencial,brasil
+163,BRICS2014,2,,,2014,,,3rd BRICS National Security Advisors meeting,formal,BRICS,security-defense,general,,presencial,brasil
+164,BRICS2013,2,diciembre,6,2013,Cape Town,Sudáfrica,2nd BRICS National Security Advisors meeting,formal,BRICS,security-defense,general,,presencial,sudafrica
+165,BRICS2013,2,enero,11,2013,Delhi,India,1st BRICS National Security Advisors meeting,formal,BRICS,security-defense,general,,presencial,sudafrica
+166,BRICS2012,2,junio,8,2012,San Petersburgo,Rusia,BRICS meeting on IMSS,informal,IMSS,security-defense,general,,presencial,india
+167,BRICS2011,2,abril,11,2011,Sanya,China,BRICS high representatives meeting,formal,BRICS,security-defense,general,,presencial,china
+168,BRICS2010,2,octubre,6,2010,Sochi,Rusia,BRICS high representatives meeting,formal,BRICS,security-defense,general,,presencial,brasil
+169,BRICS2010,2,abril,15,2010,Brasilia,Brasil,BRICS high representatives meeting,formal,BRICS,security-defense,general,,presencial,brasil
+170,BRICS2009,2,mayo,30,2009,Moscú,Rusia,BRICS high representatives meeting,formal,BRICS,security-defense,general,,presencial,rusia
+171,BRICS2019,1,noviembre,14,2019,Brasilia,Brasil,11th BRICS Summit,formal,BRICS,organizational,summit,,presencial,brasil
+172,BRICS2019,1,junio,28,2019,Osaka,Japón,Informal meeting during G20 summit,informal,G20,organizational,general,,presencial,brasil
+173,BRICS2018,1,noviembre,30,2018,Buenos Aires,Argentina,Informal meeting during G20 summit,informal,G20,organizational,general,,presencial,sudafrica
+174,BRICS2018,1,julio,26,2018,Johannesburg,Sudáfrica,10th BRICS Summit,formal,BRICS,organizational,summit,,presencial,sudafrica
+175,BRICS2017,1,septiembre,4,2017,Xiamen,China,9th BRICS Summit,formal,BRICS,organizational,summit,,presencial,china
+176,BRICS2017,1,julio,7,2017,Hamburg,Alemania,Informal meeting during G20 summit,informal,G20,organizational,general,,presencial,china
+177,BRICS2016,1,octubre,16,2016,Goa,India,8th BRICS Summit,formal,BRICS,organizational,summit,,presencial,india
+178,BRICS2016,1,septiembre,4,2016,Hangzhou,China,Informal meeting during G20 summit,informal,G20,organizational,general,,presencial,india
+179,BRICS2015,1,noviembre,15,2015,Antalya,Turquía,Informal meeting during G20 summit,informal,G20,organizational,general,,presencial,rusia
+180,BRICS2015,1,julio,9,2015,Ufa,Rusia,7th BRICS Summit,formal,BRICS,organizational,summit,,presencial,rusia
+181,BRICS2014,1,noviembre,15,2014,Brisbane,Australia,Informal meeting during G20 summit,informal,G20,organizational,general,,presencial,brasil
+182,BRICS2014,1,julio,24,2014,Fortaleza,Brasil,6th BRICS Summit,formal,BRICS,organizational,summit,,presencial,brasil
+183,BRICS2013,1,septiembre,5,2013,San Petersburgo,Rusia,Informal meeting during G20 summit,informal,G20,organizational,general,,presencial,sudafrica
+184,BRICS2013,1,marzo,25,2013,Durban,Sudáfrica,5th BRICS Summit,formal,BRICS,organizational,summit,,presencial,sudafrica
+185,BRICS2012,1,junio,18,2012,San José del Cabo,México,Informal meeting during G20 summit,informal,G20,organizational,general,,presencial,india
+186,BRICS2012,1,marzo,29,2012,Delhi,India,4th BRICS Summit,formal,BRICS,organizational,summit,,presencial,india
+187,BRICS2011,1,noviembre,3,2011,Cannes,Francia,Informal meeting during G20 summit,informal,G20,organizational,general,,presencial,china
+188,BRICS2011,1,abril,14,2011,Sanya,China,3rd BRICS Summit,formal,BRICS,organizational,summit,,presencial,china
+189,BRICS2010,1,abril,15,2010,Brasilia,Brasil,2nd BRICS Summit,formal,BRICS,organizational,summit,,presencial,brasil
+190,BRICS2009,1,junio,16,2009,Yekaterinburg,Rusia,1ST BRICS Summit,formal,BRICS,organizational,summit,,presencial,rusia
+191,BRICS2008,1,julio,9,2008,Hokkaido,Japón,Informal meeting during G20 summit,informal,G8,organizational,general,,presencial,
+192,BRICS2019,3,diciembre,12,2019,Brasilia,Brasil,6th meeting of BRICS Sherpas – sous sherpas,formal,BRICS,organizational,sherpas,,presencial,brasil
+193,BRICS2019,3,diciembre,4,2019,Shanghai,China,2nd meeting of the BRICS working group on research infraestructure and mega-science projects,formal,BRICS,infrastructure,research cooperation,,presencial,brasil
+194,BRICS2019,3,noviembre,26,2019,Campinas,Brasil,3rd BRICS STI working group on biotechnology and biomedicine including human health and neuroscience,formal,BRICS,health,biomedicine,,presencial,brasil
+195,BRICS2019,3,noviembre,13,2019,Brasilia,Brasil,Seminar on the New Development Bank,formal,BRICS,economy,finance,ndb,presencial,brasil
+196,BRICS2019,3,noviembre,12,2019,Rio de Janeiro,Brasil,BRICS Financial forum,formal,BRICS,economy,finance,general,presencial,brasil
+197,BRICS2019,3,noviembre,11,2019,Brasilia,Brasil,BRICS Experts and customs administrators,formal,BRICS,economy,trade,customs,presencial,brasil
+198,BRICS2019,3,noviembre,11,2019,Rio de Janeiro,Brasil,CEOs of BRICS interbank cooperation mechanism,formal,BRICS,economy,finance,bank,presencial,brasil
+199,BRICS2019,3,noviembre,10,2019,Brasilia,Brasil,5th BRICS head of export credit agencies meeting,formal,BRICS,economy,trade,export-credit,presencial,brasil
+200,BRICS2019,3,noviembre,9,2019,Brasilia,Brasil,5th BRICS sherpas-sous sherpas meeting,formal,BRICS,organizational,sherpas,,presencial,brasil
+201,BRICS2019,3,noviembre,12,2019,Brasilia,Brasil,BRICS parliamentary front of the brazilian national congress,formal,BRICS,government,legislative,,presencial,brasil
+202,BRICS2019,3,noviembre,8,2019,Brasilia,Brasil,BRICS senior energy officials meeting,formal,BRICS,energy,general,,presencial,brasil
+203,BRICS2019,3,noviembre,4,2019,Delhi,India,6th BRICS TB research network meeting,formal,BRICS,health,tuberculosis,,presencial,brasil
+204,BRICS2019,3,octubre,30,2019,Hyderabad,India,BRICS TB research network,informal,UCLH,health,tuberculosis,,presencial,brasil
+205,BRICS2019,3,octubre,31,2019,New York,EEUU,BRICS legal advisers,informal,IMF-WB,government,judicial,,presencial,brasil
+206,BRICS2019,3,octubre,28,2019,Rio de Janeiro,Brasil,3rd BRICS seminar on governance,formal,BRICS,government,governance,,presencial,brasil
+207,BRICS2019,3,octubre,24,2019,Brasilia,Brasil,Seminar of high-level authorities and experts of the judiciary,formal,BRICS,government,judicial,,presencial,brasil
+208,BRICS2019,3,octubre,23,2019,Curitiba,Brasil,BRICS senior health officials meeting,formal,BRICS,health,general,,presencial,brasil
+209,BRICS2019,3,octubre,23,2019,Brasilia,Brasil,5th BRICS regulatory agencies of health products meeting,formal,BRICS,health,medicines,,presencial,brasil
+210,BRICS2019,3,octubre,22,2019,Brasilia,Brasil,22nd meeting of the contact group on economic and trade issues,formal,BRICS,economy,general,general,presencial,brasil
+211,BRICS2019,3,octubre,18,2019,Nanjing,China,BRICS forum on smart manufacturing and PartNIR,formal,BRICS,industry,investments,,presencial,brasil
+212,BRICS2019,3,octubre,17,2019,Washington,EEUU,BRICS contingent reserve arrangement government council,informal,IMF-WB,economy,finance,cra,presencial,brasil
+213,BRICS2019,3,octubre,17,2019,Washington,EEUU,BRICS contingent reserve arrangement standing committe,informal,IMF-WB,economy,finance,cra,presencial,brasil
+214,BRICS2019,3,octubre,14,2019,Rio de Janeiro,Brasil,6th BRICS legal forum,formal,BRICS,government,judicial,,presencial,brasil
+215,BRICS2019,3,octubre,16,2019,Belgrado,Serbia,5th BRICS parliamentary forum,formal,BRICS,government,legislative,,presencial,brasil
+216,BRICS2019,3,octubre,10,2019,Curitiba,Brasil,6th BRICS culture senior officials meeting,formal,BRICS,culture,general,,presencial,brasil
+217,BRICS2019,3,octubre,1,2019,Ginebra,Suiza,BRICS heads of intellectual property officies,formal,BRICS,sti,intellectual property,,presencial,brasil
+218,BRICS2019,3,septiembre,29,2019,Rio de Janeiro,Brasil,5th BRICS astronomy working group meeting,formal,BRICS,sti,outer space,,presencial,brasil
+219,BRICS2019,3,septiembre,23,2019,Washington,EEUU,4th BRICS sherpas – sous sherpas meeting,informal,ONU,organizational,sherpas,,presencial,brasil
+220,BRICS2019,3,septiembre,19,2019,Campinas,Brasil,9th BRICS science technology and innovation senior officials meeting,formal,BRICS,sti,general,,presencial,brasil
+221,BRICS2019,3,septiembre,17,2019,Brasilia,Brasil,BRICS network of labour research institutes,formal,BRICS,labour,research cooperation,,presencial,brasil
+222,BRICS2019,3,septiembre,16,2019,Brasilia,Brasil,5th BRICS employment working group meeting,formal,BRICS,labour,general,,presencial,brasil
+223,BRICS2019,3,septiembre,16,2019,Moscú,Rusia,6th BRICS international competition conference,formal,BRICS,economy,trade,competence,presencial,brasil
+224,BRICS2019,3,septiembre,16,2019,Campinas,Brasil,5th BRICS science technology and innovations funding working group meeting,formal,BRICS,sti,general,,presencial,brasil
+225,BRICS2019,3,agosto,29,2019,,,Videoconference on Culture,formal,BRICS,culture,general,,presencial,brasil
+226,BRICS2019,3,agosto,29,2019,Brasilia,Brasil,21st meeting of the CGETI,formal,BRICS,economy,general,general,presencial,brasil
+227,BRICS2019,3,agosto,26,2019,Brasilia,Brasil,BRICS workshop on human milk bank,informal,UNICEF,health,human milk bank,,presencial,brasil
+228,BRICS2019,3,agosto,21,2019,Brasilia,Brasil,Working group meeting on security in the use of information technology and communications,formal,BRICS,sti,ict,,presencial,brasil
+229,BRICS2019,3,agosto,13,2019,Brasilia,Brasil,BRICS working group on ICTs,formal,BRICS,sti,ict,,presencial,brasil
+230,BRICS2019,3,agosto,12,2019,Brasilia,Brasil,Meeting of the council of the BRICS institute for future networks,formal,BRICS,sti,technology,,presencial,brasil
+231,BRICS2019,3,agosto,12,2019,Brasilia,Brasil,Working group on environment,formal,BRICS,environment,general,,presencial,brasil
+232,BRICS2019,3,agosto,1,2019,Moscú,Rusia,3rd meeting of the working group on oceanic and polar science and technology,formal,BRICS,environment,polar and ocean science,,presencial,brasil
+233,BRICS2019,3,agosto,1,2019,Brasilia,Brasil,BRICS working group on counter-terrorism,formal,BRICS,security-defense,terrorism,,presencial,brasil
+234,BRICS2019,3,julio,31,2019,Brasilia,Brasil,2nd BRICS working groups on studying competition on digital markets,informal,CADE,economy,trade,digital-market,presencial,brasil
+235,BRICS2019,3,julio,29,2019,Brasilia,Brasil,Seminar BRICS Strategies for Countering-Terrorism,formal,BRICS,security-defense,terrorism,,presencial,brasil
+236,BRICS2019,3,julio,22,2019,Rio de Janeiro,Brasil,3rd Meeting of BRICS Sherpas/Sous-Sherpas,formal,BRICS,organizational,sherpas,,presencial,brasil
+237,BRICS2019,3,julio,22,2019,Rio de Janeiro,Brasil,BRICS Interbank Cooperation Mechanism – ICM – Technical Group Meeting and Working Group Meetings,formal,BRICS,economy,finance,bank,presencial,brasil
+238,BRICS2019,3,julio,17,2019,Brasilia,Brasil,BRICS Deputy Agriculture Ministers Meeting,formal,BRICS,agriculture,general,,presencial,brasil
+239,BRICS2019,3,julio,16,2019,Curitiba,Brasil,BRICS Customs Specialists,formal,BRICS,economy,trade,customs,presencial,brasil
+240,BRICS2019,3,julio,8,2019,Beijing,China,6th Meeting of BRICS Solid State Lighting Collaboration Working Group,formal,BRICS,sti,technology,,presencial,brasil
+241,BRICS2019,3,julio,4,2019,Brasilia,Brasil,BRICS Deputy Ministers (Special Envoys) on the Middle East and North Africa (MENA),formal,BRICS,foreign,middle east,,presencial,brasil
+242,BRICS2019,3,julio,2,2019,Beijing,China,5th BRICS TB Network meeting,formal,BRICS,health,tuberculosis,,presencial,brasil
+243,BRICS2019,3,junio,26,2019,Osaka,Japón,2nd Meeting of BRICS Sherpas/Sous-Sherpas,informal,G20,organizational,sherpas,,presencial,brasil
+244,BRICS2019,3,junio,25,2019,Ginebra,Suiza,BRICS Employment Working Group (BEWG) Informal Meeting,informal,ILO,labour,general,,presencial,brasil
+245,BRICS2019,3,junio,17,2019,Moscú,Rusia,BRICS Senior Officials Meeting on the Energy Research Cooperation Platform,formal,BRICS,energy,research cooperation,,presencial,brasil
+246,BRICS2019,3,junio,5,2019,París,Francia,Technical Meeting,informal,UNESCO,social,cultural diversity,,presencial,brasil
+247,BRICS2019,3,mayo,28,2019,Brasilia,Brasil,20th Meeting of the Contact Group on Economic and Trade Issues (CGETI),formal,BRICS,economy,general,general,presencial,brasil
+248,BRICS2019,3,mayo,28,2019,Viena,Austria,BRICS Meeting on Asset Recovery,informal,UNCAC,economy,finance,asset,presencial,brasil
+249,BRICS2019,3,mayo,13,2019,Foz do Iguaçu,Brasil,3rd Meeting of BRICS Working Group on High Performance Computing and Information Technology,formal,BRICS,sti,technology,,presencial,brasil
+250,BRICS2019,3,mayo,13,2019,Foz do Iguaçu,Brasil,3rd Meeting of BRICS Science Technology Innovation and Entrepreneurship Partnership (STIEP) Working Group,formal,BRICS,sti,cooperation,,presencial,brasil
+251,BRICS2019,3,abril,25,2019,Moscú,Rusia,BRICS Task Force of PPPs and Infrastructure,formal,BRICS,infrastructure,investments,,presencial,brasil
+252,BRICS2019,3,abril,14,2019,Cape Town,Sudáfrica,BRICS Heads of Intellectual Property Offices (HIPO BRICS),formal,BRICS,sti,intellectual property,,presencial,brasil
+253,BRICS2019,3,abril,11,2019,Washington,EEUU,BRICS Bound Fund Cooperative Committee,formal,BRICS,economy,finance,asset,presencial,brasil
+254,BRICS2019,3,abril,4,2019,New York,EEUU,BRICS Coordination Meeting on the margins of the Commission of Population and Development,formal,BRICS,social,population,,presencial,brasil
+255,BRICS2019,3,abril,1,2019,Cape Town,Sudáfrica,4th Annual Meeting of the NDB Board of Governors,formal,BRICS,economy,finance,ndb,presencial,brasil
+256,BRICS2019,3,marzo,25,2019,Ginebra,Suiza,BRICS Employment Working Group (BEWG) Informal Meeting,informal,ILO,labour,general,,presencial,brasil
+257,BRICS2019,3,marzo,20,2019,Rio de Janeiro,Brasil,BRICS National Statistical Office Technical Meeting,formal,BRICS,government,statistics,,presencial,brasil
+258,BRICS2019,3,marzo,19,2019,Melbourne,Australia,BRICS Task Force of PPPs and Infrastructure,formal,BRICS,infrastructure,investments,,presencial,brasil
+259,BRICS2019,3,marzo,13,2019,Curitiba,Brasil,1st Meeting of BRICS Sherpas/Sous-Sherpas,formal,BRICS,organizational,sherpas,,presencial,brasil
+260,BRICS2019,3,febrero,19,2019,Rio de Janeiro,Brasil,4th BRICS TB Research Meeting,formal,BRICS,health,tuberculosis,,presencial,brasil
+261,BRICS2019,3,febrero,11,2019,San Petersburgo,Rusia,1st Meeting of BRICS Sherpas/Sous-Sherpas,formal,BRICS,organizational,sherpas,,presencial,brasil
+262,BRICS2019,3,enero,31,2019,Singapore,Singapur,BRICS Task Force on PPPs and Infrastructure,formal,BRICS,infrastructure,investments,,presencial,brasil
+263,BRICS2019,3,enero,21,2019,Tokyo,Japón,1st Meeting of BRICS Anti-Corruption Working Group (ACWG),informal,G20,government,corruption,,presencial,brasil
+264,BRICS2019,3,enero,16,2019,Tokyo,Japón,BRICS Deputy Finance Ministers and Deputy Central Bank Governors Meeting,informal,G20,economy,finance,general,presencial,brasil
+265,BRICS2018,3,,,2018,,,BRICS National Statistical Office Meeting,formal,BRICS,government,statistics,,presencial,sudafrica
+266,BRICS2018,3,,,2018,,,7th Meeting of BRICS Sherpas/Sous-Sherpas,formal,BRICS,organizational,sherpas,,presencial,sudafrica
+267,BRICS2018,3,,,2018,,,4th Round of the BRICS Foreign Policy Planning Consultations,formal,BRICS,foreign,policy-planning,,presencial,sudafrica
+268,BRICS2018,3,,,2018,Cape Town,Sudáfrica,2nd BRICS STI Working Group Meeting on Biomed and Biotechnology,formal,BRICS,health,biomedicine,,presencial,sudafrica
+269,BRICS2018,3,,,2018,Durban,Sudáfrica,3rd BRICS SoE Forum on Governance and Reform,formal,BRICS,government,governance,,presencial,sudafrica
+270,BRICS2018,3,,,2018,Pretoria,Sudáfrica,Heads of Competition Authorities,formal,BRICS,economy,trade,competence,presencial,sudafrica
+271,BRICS2018,3,,,2018,,,BRICS Sports Council of Ministers Meeting,formal,BRICS,culture,sport,,presencial,sudafrica
+272,BRICS2018,3,,,2018,Gauteng,Sudáfrica,BRICS Tourism Senior Officials meeting,formal,BRICS,culture,sport,,presencial,sudafrica
+273,BRICS2018,3,diciembre,3,2018,Pilanesberg,Sudáfrica,BRICS Meeting of Officials and Experts on Population Matters,formal,BRICS,social,population,,presencial,sudafrica
+274,BRICS2018,3,diciembre,4,2018,Gauteng,Sudáfrica,BRICS STI Technology Transfer and SMME Forum,formal,BRICS,sti,general,,presencial,sudafrica
+275,BRICS2018,3,diciembre,4,2018,Gauteng,Sudáfrica,BRICS STI Advisory Councils Roundtable,formal,BRICS,sti,general,,presencial,sudafrica
+276,BRICS2018,3,diciembre,4,2018,Gauteng,Sudáfrica,3rd BRICS Water Forum,formal,BRICS,environment,water,,presencial,sudafrica
+277,BRICS2018,3,noviembre,30,2018,Buenos Aires,Argentina,6th Meeting of BRICS Sherpas/Sous-Sherpas,informal,G20,organizational,sherpas,,presencial,sudafrica
+278,BRICS2018,3,noviembre,6,2018,Johannesburg,Sudáfrica,BRICS Space Agencies Forum,formal,BRICS,sti,outer space,,presencial,sudafrica
+279,BRICS2018,3,noviembre,5,2018,Gauteng,Sudáfrica,3rd Meeting of the BRICS Working Group on Geospatial Sciences and its Applications,formal,BRICS,sti,outer space,,presencial,sudafrica
+280,BRICS2018,3,noviembre,5,2018,Gauteng,Sudáfrica,3rd Meeting of the BRICS Working Group on Prevention and Monitoring of Natural Disasters,formal,BRICS,disaster management,general,,presencial,sudafrica
+281,BRICS2018,3,octubre,29,2018,Durban,Sudáfrica,BRICS Astronomy Conference,formal,BRICS,sti,outer space,,presencial,sudafrica
+282,BRICS2018,3,octubre,24,2018,Sao Paulo,Brasil,BRICS Working Groups on the Competition issues,formal,BRICS,economy,trade,competence,presencial,sudafrica
+283,BRICS2018,3,octubre,24,2018,Pretoria,Sudáfrica,BRICS Cultural Senior Officials Meeting,formal,BRICS,culture,general,,presencial,sudafrica
+284,BRICS2018,3,octubre,17,2018,Ginebra,Suiza,4th BRICS Parliamentary Forum,informal,IPU,government,legislative,,presencial,sudafrica
+285,BRICS2018,3,octubre,11,2018,Balí,Indonesia,BRICS BF Working Group Meeting,informal,IMF-WB,economy,finance,asset,presencial,sudafrica
+286,BRICS2018,3,octubre,11,2018,Balí,Indonesia,BRICS CRA Governing Council Meeting,informal,IMF-WB,economy,finance,cra,presencial,sudafrica
+287,BRICS2018,3,septiembre,25,2018,Sochi,Rusia,BRICS Competition authorities,informal,RCWIE,economy,trade,competence,presencial,sudafrica
+288,BRICS2018,3,septiembre,20,2018,New York,EEUU,5th Meeting of BRICS Sherpas/Sous Sherpas,informal,ONU,organizational,sherpas,,presencial,sudafrica
+289,BRICS2018,3,septiembre,13,2018,Durban,Sudáfrica,3rd BRICS Working Group on Cooperation in ICT,formal,BRICS,sti,ict,,presencial,sudafrica
+290,BRICS2018,3,agosto,23,2018,Cape Town,Sudáfrica,5th BRICS Legal Forum,formal,BRICS,government,judicial,,presencial,sudafrica
+291,BRICS2018,3,agosto,22,2018,Port Elizabeth,Sudáfrica,BRICS Conference on Development Finance in Africa,formal,BRICS,social,development,,presencial,sudafrica
+292,BRICS2018,3,agosto,2,2018,Pretoria,Sudáfrica,"BRICS Science, Technology and Innovation Women's Forum",formal,BRICS,sti,women,,presencial,sudafrica
+293,BRICS2018,3,julio,30,2018,Durban,Sudáfrica,2nd Labour & Employment Working Group (EWG) Meeting,formal,BRICS,labour,general,,presencial,sudafrica
+294,BRICS2018,3,julio,25,2018,Cape Town,Sudáfrica,BRICS Financial Forum,formal,BRICS,economy,finance,general,presencial,sudafrica
+295,BRICS2018,3,julio,25,2018,Cape Town,Sudáfrica,Annual Meeting of the BRICS ICM Chairmen,formal,BRICS,economy,finance,bank,presencial,sudafrica
+296,BRICS2018,3,julio,20,2018,Johannesburg,Sudáfrica,4th BRICS Sherpa/Sous-Sherpa Meeting,formal,BRICS,organizational,general,,presencial,sudafrica
+297,BRICS2018,3,julio,19,2018,Buenos Aires,Argentina,BRICS CRA Standing Committee Meeting,formal,BRICS,economy,finance,cra,presencial,sudafrica
+298,BRICS2018,3,julio,19,2018,Buenos Aires,Argentina,BBF Working Group Meeting,formal,BRICS,economy,finance,asset,presencial,sudafrica
+299,BRICS2018,4,julio,19,2018,Elsenberg,Sudáfrica,BRICS Agri-business Roadshow,formal,BRICS,agriculture,business,,presencial,sudafrica
+300,BRICS2018,3,julio,18,2018,Durban,Sudáfrica,Meeting of the BRICS Health Senior Officials,formal,BRICS,health,general,,presencial,sudafrica
+301,BRICS2018,3,julio,9,2018,Pretoria,Sudáfrica,International Conference on Transport Infrastructure,formal,BRICS,infrastructure,transport,,presencial,sudafrica
+302,BRICS2018,3,julio,9,2018,Cape Town,Sudáfrica,Meeting of BRICS Senior Officials on Education,formal,BRICS,education,academia,,presencial,sudafrica
+303,BRICS2018,3,julio,3,2018,Johannesburg,Sudáfrica,2nd BRICS Seminar on Governance,formal,BRICS,government,governance,,presencial,sudafrica
+304,BRICS2018,3,julio,3,2018,Magaliesburg,Sudáfrica,3rd Meeting of Industry Experts,formal,BRICS,industry,general,,presencial,sudafrica
+305,BRICS2018,3,julio,2,2018,Gauteng,Sudáfrica,19th Meeting of the Contact Group on Economic and Trade Issues (CGETI),formal,BRICS,economy,general,general,presencial,sudafrica
+306,BRICS2018,3,julio,2,2018,Durban,Sudáfrica,"8th BRICS Science, Technology and Innovation",formal,BRICS,sti,general,,presencial,sudafrica
+307,BRICS2018,3,julio,,2018,Durban,Sudáfrica,2nd Meeting of the BRICS Labour and Employment Working Group,formal,BRICS,labour,general,,presencial,sudafrica
+308,BRICS2018,3,junio,30,2018,Durban,Sudáfrica,4th BRICS STI Working Group Meeting of Funding Parties,formal,BRICS,sti,general,,presencial,sudafrica
+309,BRICS2018,3,junio,28,2018,Durban,Sudáfrica,3rd BRICS TB Research Network,formal,BRICS,health,tuberculosis,,presencial,sudafrica
+310,BRICS2018,3,junio,28,2018,East London,Sudáfrica,BRICS Friendship Cities and Local Government Cooperation Forum,formal,BRICS,government,local government,,presencial,sudafrica
+311,BRICS2018,3,junio,26,2018,París,Francia,2nd Meeting of the BRICS Anti-Corruption Working Group,formal,BRICS,government,corruption,,presencial,sudafrica
+312,BRICS2018,3,junio,26,2018,Bruselas,Bélgica,3rd Meeting of the Customs Cooperation Committee,informal,WCO,economy,trade,customs,presencial,sudafrica
+313,BRICS2018,3,junio,22,2018,,,Agricultural Field Visits,formal,BRICS,agriculture,general,,presencial,sudafrica
+314,BRICS2018,3,junio,20,2018,Nelspruit,Sudáfrica,8th Meeting of the Agriculture Cooperation Working Group,formal,BRICS,agriculture,general,,presencial,sudafrica
+315,BRICS2018,3,junio,19,2018,Pretoria,Sudáfrica,4th Meeting of Senior Officials/Experts on the Middle East and North Africa (MENA),formal,BRICS,foreign,middle east,,presencial,sudafrica
+316,BRICS2018,3,junio,18,2018,Johannesburg,Sudáfrica,BRICS Head of Revenue Authorities,formal,BRICS,economy,finance,tax,presencial,sudafrica
+317,BRICS2018,3,junio,18,2018,Cape Town,Sudáfrica,Meeting of Experts on Tax Matters,formal,BRICS,economy,finance,tax,presencial,sudafrica
+318,BRICS2018,3,junio,2,2018,Pretoria,Sudáfrica,3rd BRICS Sherpa/Sous-Sherpa Meeting,formal,BRICS,organizational,general,,presencial,sudafrica
+319,BRICS2018,3,mayo,17,2018,Cape Town,Sudáfrica,BRICS Energy Efficiency& Energy Saving Working Group,formal,BRICS,energy,energy efficiency,,presencial,sudafrica
+320,BRICS2018,3,mayo,17,2018,Durban,Sudáfrica,BRICS Senior Officials Environmental Affairs,formal,BRICS,environment,general,,presencial,sudafrica
+321,BRICS2018,3,mayo,16,2018,Gauteng,Sudáfrica,"Meeting of the Quality Infrastructure (Standards, Accreditation and Metrology bodies)",formal,BRICS,infrastructure,general,,presencial,sudafrica
+322,BRICS2018,3,mayo,16,2018,Cape Town,Sudáfrica,Security in the use of ICTs Working Group,formal,BRICS,sti,ict,,presencial,sudafrica
+323,BRICS2018,3,mayo,14,2018,Pretoria,Sudáfrica,BRICS Environmental Affairs Working Group Meeting,formal,BRICS,environment,general,,presencial,sudafrica
+324,BRICS2018,3,mayo,11,2018,East London,Sudáfrica,18th CGETI meeting,formal,BRICS,economy,general,general,presencial,sudafrica
+325,BRICS2015,3,mayo,22,2015,Moscú,Rusia,BRICS deputy foreign ministers on the situation in the middle east and north africa,formal,BRICS,foreign,middle east,,presencial,rusia
+326,BRICS2011,3,noviembre,24,2011,Moscú,Rusia,BRICS vice foreign ministers meeting on the situation in middle east and north africa,formal,BRICS,foreign,middle east,,presencial,china
+327,BRICS2018,3,mayo,10,2018,East London,Sudáfrica,Workshop on Trade in Services Statistics,formal,BRICS,economy,trade,service,presencial,sudafrica
+328,BRICS2018,3,mayo,10,2018,East London,Sudáfrica,"Meeting of Technical Experts in Technical Regulations, Standards, Conformity Assessment, Metrology and Accreditation",formal,BRICS,economy,trade,quality-standarization,presencial,sudafrica
+329,BRICS2018,3,mayo,10,2018,East London,Sudáfrica,2nd Meeting of the BRICS Intellectual Property Rights Cooperation Mechanism,formal,BRICS,sti,intellectual property,,presencial,sudafrica
+330,BRICS2018,3,mayo,10,2018,East London,Sudáfrica,2nd Meeting of the BRICS E-commerce Working Group,formal,BRICS,economy,trade,e-commerce,presencial,sudafrica
+331,BRICS2018,3,mayo,10,2018,East London,Sudáfrica,1st Meeting of the BRICS Trade Promotion Working Group,formal,BRICS,economy,trade,trade-promotion,presencial,sudafrica
+332,BRICS2018,3,mayo,7,2018,Mpumalanga,Sudáfrica,1st Meeting of the BRICS Labour and Employment Working Group,formal,BRICS,labour,general,,presencial,sudafrica
+333,BRICS2018,3,abril,24,2018,Limpopo,Sudáfrica,Second Meeting of the BRICS Sherpas/Sous-Sherpas,formal,BRICS,organizational,sherpas,,presencial,sudafrica
+334,BRICS2018,3,abril,19,2018,Nelspruit,Sudáfrica,Counter-Terrorism Working Group,formal,BRICS,security-defense,terrorism,,presencial,sudafrica
+335,BRICS2018,3,abril,18,2018,Washington,EEUU,BRICS CRA Standing Committee,formal,BRICS,economy,finance,cra,presencial,sudafrica
+336,BRICS2018,3,abril,18,2018,Washington,EEUU,BRICS Bond Fund (BBF) Working Group,formal,BRICS,economy,finance,asset,presencial,sudafrica
+337,BRICS2018,3,abril,18,2018,Durban,Sudáfrica,2nd Meeting of the Customs Cooperation Committee,formal,BRICS,economy,trade,customs,presencial,sudafrica
+338,BRICS2018,3,abril,16,2018,Durban,Sudáfrica,Meeting of Customs Experts,formal,BRICS,economy,trade,customs,presencial,sudafrica
+339,BRICS2018,3,marzo,17,2018,Buenos Aires,Argentina,BRICS Bond Fund (BBF) Working Group,informal,G20,economy,finance,asset,presencial,sudafrica
+340,BRICS2018,3,marzo,13,2018,Pretoria,Sudáfrica,9th Technical National Statistics Offices of the BRICS Offices,formal,BRICS,government,statistics,,presencial,sudafrica
+341,BRICS2018,3,febrero,28,2018,Johannesburg,Sudáfrica,17th CGETI meeting,formal,BRICS,economy,general,general,presencial,sudafrica
+342,BRICS2018,3,febrero,26,2018,Buenos Aires,Argentina,1st Meeting of the BRICS Anti-Corruption Working Group,informal,G20,government,corruption,,presencial,sudafrica
+343,BRICS2018,3,febrero,4,2018,Cape Town,Sudáfrica,1st Meeting of the BRICS Sherpas and Sous-Sherpas,formal,BRICS,organizational,sherpas,,presencial,sudafrica
+344,BRICS2017,3,,,2017,,,Meeting of BRICS Heads of National Statistics Offices,formal,BRICS,government,statistics,,presencial,china
+345,BRICS2017,3,diciembre,6,2017,Beijing,China,BRICS meeting on Ageing,formal,BRICS,social,population,,presencial,china
+346,BRICS2017,3,noviembre,30,2017,Moscú,Rusia,4th BRICS Legal Forum,formal,BRICS,government,judicial,,presencial,china
+347,BRICS2017,3,noviembre,27,2017,Changsha,China,Fifth BRICS Sherpa/Sous-Sherpa Meeting,formal,BRICS,organizational,general,,presencial,china
+348,BRICS2017,3,noviembre,15,2017,Moscú,Rusia,"BRICS Working Group on Biotechnology and Biomedicine, including Human Health and Neuroscience",formal,BRICS,health,biomedicine,,presencial,china
+349,BRICS2017,3,noviembre,8,2017,Brasilia,Brasil,5th BRICS International Competition Conference,formal,BRICS,economy,trade,competence,presencial,china
+350,BRICS2017,3,octubre,31,2017,Nanjing,China,BRICS Export Credit Agencies Technical Workshop,formal,BRICS,economy,trade,export-credit,presencial,china
+351,BRICS2017,3,octubre,26,2017,Yekaterinburg,Rusia,BRICS Working Group on Materials Science and Nanotechnology,formal,BRICS,sti,technology,,presencial,china
+352,BRICS2017,3,octubre,14,2017,San Petersburgo,Rusia,3rd BRICS Parliamentary Forum,formal,BRICS,government,legislative,,presencial,china
+353,BRICS2017,3,octubre,11,2017,San Petersburgo,Rusia,Young Parliamentarians Forum of the BRICS Countries,formal,BRICS,government,youth,,presencial,china
+354,BRICS2017,3,septiembre,21,2017,Pune,India,BRICS Working Group on Astronomy,formal,BRICS,sti,outer space,,presencial,china
+355,BRICS2017,3,septiembre,20,2017,Beijing,China,2nd BRICS Forum on SOE Reform and Governance,formal,BRICS,economy,general,soe,presencial,china
+356,BRICS2017,3,septiembre,,2017,Xiamen,China,BRICS Sherpa/Sous-Sherpa Meetings,formal,BRICS,organizational,general,,presencial,china
+357,BRICS2017,3,agosto,31,2017,Beijing,China,BRICS Financial Forum,formal,BRICS,economy,finance,general,presencial,china
+358,BRICS2017,3,agosto,31,2017,Beijing,China,Annual Meeting of Interbank Cooperation Mechanism,formal,BRICS,economy,finance,bank,presencial,china
+359,BRICS2017,3,agosto,17,2017,Quanzhou,China,BRICS Seminar on Governance,formal,BRICS,government,governance,,presencial,china
+360,BRICS2017,3,agosto,16,2017,Weihai,China,BRICS Anti-Drug Working Group Meeting,formal,BRICS,security-defense,drugs,,presencial,china
+361,BRICS2017,3,agosto,,2017,,Brasil,BRICS Heads of Prosecution Services Meeting,formal,BRICS,government,judicial,,presencial,china
+362,BRICS2017,3,julio,30,2017,Shanghai,China,BRICS Contact Group on Economic and Trade Issues,formal,BRICS,economy,general,general,presencial,china
+363,BRICS2017,3,julio,27,2017,Hangzhou,China,5th BRICS Heads of Revenue Meeting,formal,BRICS,economy,finance,tax,presencial,china
+364,BRICS2017,3,julio,26,2017,Hangzhou,China,BRICS Working Group Meeting on ICT Cooperation,formal,BRICS,sti,ict,,presencial,china
+365,BRICS2017,3,julio,25,2017,Hangzhou,China,BRICS Experts on Tax Matters,formal,BRICS,economy,finance,tax,presencial,china
+366,BRICS2017,3,julio,25,2017,Beijing,China,BRICS Consultation of Experts on Peace-keeping Affairs,formal,BRICS,security-defense,peacekeeping,,presencial,china
+367,BRICS2017,3,julio,25,2017,Chongqing,China,BRICS Employment Working Group Meetings,formal,BRICS,labour,general,,presencial,china
+368,BRICS2017,3,julio,20,2017,Beijing,China,BRICS Foreign Policy Planning Dialogue,formal,BRICS,foreign,policy-planning,,presencial,china
+369,BRICS2017,3,julio,17,2017,Hangzhou,China,"BRICS Senior Officials on Science, Technology & Innovation",formal,BRICS,sti,general,,presencial,china
+370,BRICS2017,3,julio,13,2017,Zhengzhou,China,BRICS Meeting of Drug Regulatory Collaboration,formal,BRICS,health,medicines,,presencial,china
+371,BRICS2017,3,julio,11,2017,Chengdu,China,BRICS Friendship Cities and Local Governments Cooperation Forum,formal,BRICS,government,local government,,presencial,china
+372,BRICS2017,3,julio,5,2017,Tianjin,China,BRICS Health Senior Officials Meeting,formal,BRICS,health,general,,presencial,china
+373,BRICS2017,3,julio,5,2017,Tianjin,China,BRICS Senior Officials on Culture,formal,BRICS,culture,general,,presencial,china
+374,BRICS2017,3,julio,5,2017,Bruselas,Bélgica,BRICS Customs Cooperation Committee,informal,WCO,economy,trade,competence,presencial,china
+375,BRICS2017,3,julio,4,2017,Hamburg,Alemania,BRICS Sherpa/Sous-Sherpa Meetings,informal,G20,organizational,general,,presencial,china
+376,BRICS2017,3,julio,4,2017,Beijing,China,BRICS Senior Officials on Education,formal,BRICS,education,general,,presencial,china
+377,BRICS2017,3,julio,2,2017,Haikou,China,BRICS Joint Committee on Space Cooperation,formal,BRICS,sti,outer space,,presencial,china
+378,BRICS2017,3,junio,28,2017,Pretoria,Sudáfrica,BRICS Supreme Audit Institutions' Technical Cooperation Meeting,formal,BRICS,government,judicial,,presencial,china
+379,BRICS2017,3,junio,28,2017,Beijing,China,Working Group Meeting on Interbank Cooperation Mechanism,formal,BRICS,economy,finance,bank,presencial,china
+380,BRICS2017,3,junio,28,2017,Beijing,China,Technical Group Meeting of BRICS Interbank Cooperation Mechanism,formal,BRICS,economy,finance,bank,presencial,china
+381,BRICS2017,3,junio,22,2017,Tiajin,China,BRICS Senior Officials on Environment,formal,BRICS,environment,general,,presencial,china
+382,BRICS2017,3,junio,19,2017,Hangzhou,China,4th BRICS Working Group on Solid State Lighting,formal,BRICS,sti,technology,,presencial,china
+383,BRICS2017,3,junio,18,2017,Valencia,España,BRICS Heads of Delegation on AML,informal,FATF,security-defense,anti money laundering,,presencial,china
+384,BRICS2017,3,junio,18,2017,Shanghai,China,BRICS Local Currency Bond Fund Working Group,formal,BRICS,economy,finance,asset,presencial,china
+385,BRICS2017,3,junio,15,2017,Nanjing,China,BRICS Working Group Meetings on Agricultural Cooperation,formal,BRICS,agriculture,general,,presencial,china
+386,BRICS2017,3,junio,14,2017,Qingdao,China,BRICS Sherpa/Sous-Sherpa Meetings,formal,BRICS,organizational,general,,presencial,china
+387,BRICS2017,3,junio,12,2017,Hangzhou,China,Meeting of Heads of BRICS Export Credit Agencies,formal,BRICS,economy,trade,export-credit,presencial,china
+388,BRICS2017,3,junio,5,2017,Beijing,China,Working Group Meeting on BRICS Energy Saving and Improvement of Energy Efficiency,formal,BRICS,energy,energy efficiency,,presencial,china
+389,BRICS2017,3,junio,1,2017,Beijing,China,BRICS Working Group on Security in the Use of ICTs,formal,BRICS,sti,ict,,presencial,china
+390,BRICS2017,3,mayo,28,2017,Pretoria,Sudáfrica,"BRICS Science, Technology & Innovation Funding Working Group Meeting",formal,BRICS,sti,general,,presencial,china
+391,BRICS2017,3,mayo,25,2017,Beijing,China,Working Group for the Meeting of BRICS Ministers of Culture,formal,BRICS,culture,general,,presencial,china
+392,BRICS2017,3,mayo,23,2017,Beijing,China,BRICS Contact Group on Economic and Trade Issues,formal,BRICS,economy,general,general,presencial,china
+393,BRICS2017,3,mayo,23,2017,Beijing,China,1st Meeting of BRICS Intellectual Property Rights Mechanism,formal,BRICS,sti,intellectual property,,presencial,china
+394,BRICS2017,3,mayo,18,2017,Beijing,China,BRICS Counter Terrorism Working Group Meeting,formal,BRICS,security-defense,terrorism,,presencial,china
+395,BRICS2017,3,mayo,16,2017,San Petersburgo,Rusia,BRICS Cooperation in the Field of Competition Law,formal,BRICS,economy,trade,competence,presencial,china
+396,BRICS2017,3,mayo,15,2017,Dubna,Rusia,BRICS Working Group on Research Infrastructure and Mega-Science Projects,formal,BRICS,infrastructure,research cooperation,,presencial,china
+397,BRICS2017,3,abril,25,2017,Tianjin,China,BRICS Environmental Working Group Meeting,formal,BRICS,environment,general,,presencial,china
+398,BRICS2017,3,abril,23,2017,Guangzhou,China,BRICS Working Group on ICT and High Performance Computing,formal,BRICS,sti,general,,presencial,china
+399,BRICS2017,3,abril,20,2017,Washington,EEUU,BRICS Local Currency Bond Fund Working Group,informal,IMF-WB,economy,finance,asset,presencial,china
+400,BRICS2017,3,abril,19,2017,Yuxi,China,BRICS Employment Working Group Meetings,formal,BRICS,labour,general,,presencial,china
+401,BRICS2017,3,abril,11,2017,Visakhapatnam,India,Consultation of BRICS Middle East Special Envoys,formal,BRICS,foreign,middle east,,presencial,china
+402,BRICS2017,3,abril,9,2017,Bengaluru,India,"BRICS Working Group on Science, Technology, Innovation and Entrepreneurship Partnership",formal,BRICS,sti,general,,presencial,china
+403,BRICS2017,3,abril,9,2017,Brasilia,Brasil,BRICS Anti-Corruption Working Group Meetings,formal,BRICS,government,corruption,,presencial,china
+404,BRICS2017,3,abril,6,2017,Delhi,India,BRICS Heads of Intellectual Property Offices,formal,BRICS,sti,intellectual property,,presencial,china
+405,BRICS2017,3,abril,1,2017,Delhi,India,Annual Meeting of the Board of Governors of the New Development Bank,formal,BRICS,economy,finance,ndb,presencial,china
+406,BRICS2017,3,marzo,29,2017,Xiamen,China,BRICS Working Group Meeting of Customs,formal,BRICS,economy,trade,general,presencial,china
+407,BRICS2017,3,marzo,27,2017,Shanghai,China,Technical Meeting of BRICS National Statistics Offices,formal,BRICS,government,statistics,,presencial,china
+408,BRICS2017,3,marzo,20,2017,Beijing,China,BRICS Contact Group on Economic and Trade Issues,formal,BRICS,economy,general,general,presencial,china
+409,BRICS2017,3,febrero,23,2017,Nanjing,China,BRICS Sherpa/Sous-Sherpa Meetings,formal,BRICS,organizational,general,,presencial,china
+410,BRICS2017,3,febrero,22,2017,Nagpur,India,BRICS Intellectual Property Coordination Group Meeting,formal,BRICS,sti,intellectual property,,presencial,china
+411,BRICS2017,3,febrero,20,2017,Nagpur,India,BRICS Intellectual Property Examiner Training Seminar,formal,BRICS,sti,intellectual property,,presencial,china
+412,BRICS2017,3,enero,22,2017,Berlín,Alemania,BRICS Anti-Corruption Working Group Meetings,formal,BRICS,government,corruption,,presencial,china
+413,BRICS2016,3,diciembre,,2016,,,"Conference on Foresight and Science, Technology and Innovation Policy of BRICS countries",formal,BRICS,sti,general,,presencial,india
+414,BRICS2016,3,diciembre,,2016,,,"Senior Official level meeting on Energy, Coal and Mines",formal,BRICS,energy,general,,presencial,india
+415,BRICS2016,3,diciembre,,2016,Jodhpur,India,BRICS Sous-Sherpas meeting,formal,BRICS,organizational,sherpas,,presencial,india
+416,BRICS2016,3,diciembre,15,2016,Yekaterinburg,Rusia,Foundation Conference of BRICS Centre for Materials Science and Nanotechnology,formal,BRICS,sti,technology,,presencial,india
+417,BRICS2016,3,diciembre,15,2016,Pune,India,"Workshop on Sustainable Water Development, Conservation and Efficiency",formal,BRICS,environment,water,,presencial,india
+418,BRICS2016,3,diciembre,15,2016,Delhi,India,Senior Officials of Health,formal,BRICS,health,general,,presencial,india
+419,BRICS2016,3,diciembre,8,2016,Delhi,India,4th BRICS Seminar on Population matters,formal,BRICS,social,population,,presencial,india
+420,BRICS2016,3,diciembre,6,2016,Mumbai,India,4th BRICS Heads of Revenue Meeting,formal,BRICS,economy,finance,tax,presencial,india
+421,BRICS2016,3,diciembre,5,2016,Mumbai,India,BRICS Experts on Tax Matters,formal,BRICS,economy,finance,tax,presencial,india
+422,BRICS2016,3,diciembre,1,2016,Delhi,India,2nd Technical Workshop among BRICS ECAs,formal,BRICS,economy,trade,export-credit,presencial,india
+423,BRICS2016,3,noviembre,17,2016,Goa,India,Workshop on Drugs and Medical Devices,formal,BRICS,health,medicines,,presencial,india
+424,BRICS2016,3,noviembre,15,2016,Ahmadabad,India,Workshop on TB/AIDS,formal,BRICS,health,tuberculosis,,presencial,india
+425,BRICS2016,3,noviembre,10,2016,Bengaluru,India,Meetings of BRICS Working Group on Telecommunications,formal,BRICS,communication,telecommunication,,presencial,india
+426,BRICS2016,3,noviembre,3,2016,Cochin,India,BRICS Local Bodies' Conference,formal,BRICS,government,local government,,presencial,india
+427,BRICS2016,3,noviembre,3,2016,Jaipur,India,BRICS Heads of National Statistical Agencies,formal,BRICS,government,statistics,,presencial,india
+428,BRICS2016,3,octubre,23,2016,Ginebra,Suiza,2nd BRICS Parliamentary Forum,informal,IPU,government,legislative,,presencial,india
+429,BRICS2016,3,octubre,17,2016,París,Francia,BRICS Senior Officials for Anti-Corruption,formal,BRICS,government,corruption,,presencial,india
+430,BRICS2016,4,octubre,16,2016,Goa,India,BRICS Business Council interaction with BRICS Leaders,formal,BRICS,economy,trade,business,presencial,india
+431,BRICS2016,3,octubre,15,2016,Goa,India,BRICS Heads of Customs Administrations,formal,BRICS,economy,trade,customs,presencial,india
+432,BRICS2016,3,octubre,15,2016,Goa,India,Heads of BRICS Development Banks with NDB,formal,BRICS,economy,finance,ndb,presencial,india
+433,BRICS2016,3,octubre,15,2016,Goa,India,BRICS Inter-bank Cooperation Mechanism,formal,BRICS,economy,finance,bank,presencial,india
+434,BRICS2016,3,octubre,14,2016,Goa,India,Workshop on Trade Finance,formal,BRICS,economy,trade,general,presencial,india
+435,BRICS2016,3,octubre,14,2016,Goa,India,Working Group Meeting of BRICS Development Banks (on innovation Financing),formal,BRICS,economy,finance,ndb,presencial,india
+436,BRICS2016,3,octubre,14,2016,Goa,India,Working Group Meeting of BRICS Development Banks (on Local Currency Financing),formal,BRICS,economy,finance,ndb,presencial,india
+437,BRICS2016,3,octubre,14,2016,Goa,India,Workshop on Export Credit,formal,BRICS,economy,trade,export-credit,presencial,india
+438,BRICS2016,3,octubre,13,2016,Delhi,India,Heads of Export Credit Agencies (ECAs),formal,BRICS,economy,trade,export-credit,presencial,india
+439,BRICS2016,3,octubre,12,2016,Goa,India,BRICS Sherpas Meeting,formal,BRICS,organizational,sherpas,,presencial,india
+440,BRICS2016,3,octubre,12,2016,Delhi,India,BRICS Contact Group on Economic and Trade Issues (CGETI),formal,BRICS,economy,general,general,presencial,india
+441,BRICS2016,3,octubre,8,2016,Delhi,India,BRICS Sous-Sherpas Meeting,formal,BRICS,organizational,sherpas,,presencial,india
+442,BRICS2016,3,octubre,7,2016,Jaipur,India,"6th Meeting of BRICS Senior Officials of Science, Technology & Innovation",formal,BRICS,sti,general,,presencial,india
+443,BRICS2016,3,octubre,6,2016,Jaipur,India,BRICS STI Funding,formal,BRICS,sti,general,,presencial,india
+444,BRICS2016,3,septiembre,29,2016,Delhi,India,BRICS Senior Officials on Education,formal,BRICS,education,general,,presencial,india
+445,BRICS2016,3,septiembre,22,2016,Delhi,India,BRICS Working Group on Agriculture,formal,BRICS,agriculture,general,,presencial,india
+446,BRICS2016,3,septiembre,22,2016,Delhi,India,Seminar on PPP Best Practices and innovations in Long Term Infrastructure Financing,formal,BRICS,infrastructure,investments,,presencial,india
+447,BRICS2016,3,septiembre,21,2016,Delhi,India,2nd meeting of Experts for BRICS Agriculture Research Platform,formal,BRICS,agriculture,general,,presencial,india
+448,BRICS2016,3,septiembre,19,2016,Mumbai,India,Workshop on Financial Inclusion,formal,BRICS,social,development,,presencial,india
+449,BRICS2016,3,septiembre,14,2016,Goa,India,BRICS Working Group on Environment,formal,BRICS,environment,general,,presencial,india
+450,BRICS2016,3,septiembre,14,2016,Delhi,India,BRICS Working Group on Counter Terrorism,formal,BRICS,security-defense,terrorism,,presencial,india
+451,BRICS2016,3,septiembre,12,2016,Delhi,India,3rd BRICS Legal Forum,formal,BRICS,government,judicial,,presencial,india
+452,BRICS2016,3,septiembre,8,2016,Yekaterinburg,Rusia,2nd Meeting of the BRICS Astronomy Working Group,formal,BRICS,sti,outer space,,presencial,india
+453,BRICS2016,3,septiembre,2,2016,Hangzhou,China,BRICS Sous-Sherpas Meeting,formal,BRICS,organizational,sherpas,,presencial,india
+454,BRICS2016,3,septiembre,1,2016,Khajuraho,India,BRICS Convention of Tourism,formal,BRICS,culture,tourism,,presencial,india
+455,BRICS2016,3,agosto,27,2016,Delhi,India,Workshop on International Arbitration Mechanism,formal,BRICS,government,judicial,,presencial,india
+456,BRICS2016,3,agosto,26,2016,San Petersburgo,Rusia,"2nd Meeting of BRICS Officials within specialized session ""Prevention and Mitigation of Natural Disasters""",formal,BRICS,disaster management,general,,presencial,india
+457,BRICS2016,3,agosto,20,2016,Jaipur,India,BRICS Women Parliamentari ns’ Forum,formal,BRICS,government,legislative,,presencial,india
+458,BRICS2016,3,agosto,20,2016,Delhi,India,BRICS Development Partnership Administrations (DPAs) and Fourm for Indian Development Cooperation (FIDC),formal,BRICS,economy,finance,ndb,presencial,india
+459,BRICS2016,3,agosto,17,2016,Jaipur,India,BRICS Smart Cities Workshop,formal,BRICS,government,local government,,presencial,india
+460,BRICS2016,3,agosto,5,2016,Bhopal,India,BRICS Sherpas and Sous-Sherpas meeting,formal,BRICS,organizational,sherpas,,presencial,india
+461,BRICS2016,3,agosto,1,2016,Bengaluru,India,Workshop on Health Surveillance System and Best Practices,formal,BRICS,health,health surveillance system,,presencial,india
+462,BRICS2016,3,julio,29,2016,Agra,India,BRICS Contact Group on Economic and Trade Issues (CGETI),formal,BRICS,economy,general,general,presencial,india
+463,BRICS2016,3,julio,28,2016,Mumbai,India,Working Group Meeting of BRICS Development Banks,formal,BRICS,economy,finance,general,presencial,india
+464,BRICS2016,3,julio,28,2016,Agra,India,2nd Round Table on MSMEs and Seminar on Services,formal,BRICS,industry,sme,,presencial,india
+465,BRICS2016,3,julio,27,2016,Hyderabad,India,Employment Working Group (EWG) Meeting,formal,BRICS,labour,general,,presencial,india
+466,BRICS2016,3,julio,25,2016,Mumbai,India,Workshop on Skill Development,formal,BRICS,social,development,,presencial,india
+467,BRICS2016,3,julio,25,2016,Patna,India,2nd BRICS Dialogue on Foreign Policy,formal,BRICS,foreign,policy-planning,,presencial,india
+468,BRICS2016,3,julio,20,2016,Shanghai,China,1st Annual Meeting of the Board of Governors of BRICS NDB,formal,BRICS,economy,finance,ndb,presencial,india
+469,BRICS2016,3,julio,14,2016,Secunderabad,India,2nd Meeting of BRICS Railway Experts,formal,BRICS,infrastructure,trains,,presencial,india
+470,BRICS2016,3,julio,11,2016,Bruselas,Bélgica,BRICS Customs Agencies,informal,WCO,economy,trade,customs,presencial,india
+471,BRICS2016,3,julio,8,2016,Delhi,India,2nd Anti-Drug Working Group,formal,BRICS,security-defense,drugs,,presencial,india
+472,BRICS2016,3,julio,4,2016,Visakhapatnam,India,"Meeting of Working Group on Energy Saving and Improvement of Energy Efficiency,",formal,BRICS,energy,energy efficiency,,presencial,india
+473,BRICS2016,3,junio,27,2016,Delhi,India,Experts' Meeting on BRICS Agriculture Research Centre,formal,BRICS,agriculture,general,,presencial,india
+474,BRICS2016,3,junio,24,2016,Beijing,China,Heads of BRICS Supreme Audit Institutions meeting,formal,BRICS,government,audit,,presencial,india
+475,BRICS2016,3,junio,20,2016,Moscú,Rusia,6th Meeting of Heads of Intellectual Property Offices (HIPO),formal,BRICS,sti,intellectual property,,presencial,india
+476,BRICS2016,3,junio,18,2016,Busan,Corea del Sur,7th Informal meeting of BRICS Finance Officials,informal,FATF,economy,finance,general,presencial,india
+477,BRICS2016,3,junio,8,2016,Londres,Gran Bretaña,BRICS Senior Officials for Anti-Corruption,formal,BRICS,government,corruption,,presencial,india
+478,BRICS2016,3,mayo,23,2016,Ginebra,Suiza,Workshop on Access to Medicines and Trade Agreements,informal,OMS,health,medicines,,presencial,india
+479,BRICS2016,3,mayo,19,2016,San Petersburgo,Rusia,BRICS Competition Authorities,formal,BRICS,economy,trade,competence,presencial,india
+480,BRICS2016,3,agosto,29,2016,Jaipur,India,BRICS Sherpas and Sous-Sherpas meeting,formal,BRICS,organizational,sherpas,,presencial,india
+481,BRICS2016,3,agosto,29,2016,Lucknow,India,BRICS Railway Experts’ Meeting,formal,BRICS,infrastructure,trains,,presencial,india
+482,BRICS2016,3,abril,12,2016,Delhi,India,BRICS Contact Group on Economic and Trade Issues (CGETI),formal,BRICS,economy,general,general,presencial,india
+483,BRICS2016,3,abril,11,2016,Delhi,India,BRICS Seminar on NTMs and Services,formal,BRICS,economy,finance,tax,presencial,india
+484,BRICS2016,3,marzo,16,2016,París,Francia,Meeting of BRICS Senior Officials for Anti-Corruption,formal,BRICS,government,corruption,,presencial,india
+485,BRICS2016,3,marzo,10,2016,Udaipur,India,Technical Group Meeting of BRICS Development Banks,formal,BRICS,economy,finance,ndb,presencial,india
+486,BRICS2016,3,marzo,2,2016,Noida,India,BRICS Working Group Meeting on Geospatial Technology and Application,formal,BRICS,sti,outer space,,presencial,india
+487,BRICS2016,3,febrero,26,2016,Shanghai,China,2ndBRICS Contingent Reserve Arrangement Standing Committee Meeting,formal,BRICS,economy,finance,cra,presencial,india
+488,BRICS2016,3,febrero,25,2016,Shanghai,China,BRICS Contingent Reserve Arrangement Working Group Meeting,formal,BRICS,economy,finance,cra,presencial,india
+489,BRICS2016,3,febrero,24,2016,Delhi,India,Technical Level Meeting of BRICS National Statistical Agencies,formal,BRICS,government,statistics,,presencial,india
+490,BRICS2016,3,febrero,16,2016,París,Francia,6th Informal meeting of BRICS Finance Officials,informal,FATF,economy,finance,general,presencial,india
+491,BRICS2015,3,diciembre,17,2015,Moscú,Rusia,Sherpas/Sous-Sherpas Meetings,formal,BRICS,organizational,sherpas,,presencial,rusia
+492,BRICS2015,3,diciembre,11,2015,Moscú,Rusia,BRICS Dialogue on Peacekeeping,formal,BRICS,security-defense,peacekeeping,,presencial,rusia
+493,BRICS2015,3,diciembre,9,2015,Moscú,Rusia,3rd BRICS Seminar of Officials and Experts in Population Matters,formal,BRICS,social,population,,presencial,rusia
+494,BRICS2015,3,diciembre,7,2015,Moscú,Rusia,BRICS Senior Officials Responsible for International Development Assistance meeting,formal,BRICS,economy,finance,international-development-assistance,presencial,rusia
+495,BRICS2015,3,diciembre,2,2015,Moscú,Rusia,BRICS Contact Group on Economic and Trade Issues (CGETI) meeting,formal,BRICS,economy,general,general,presencial,rusia
+496,BRICS2015,3,noviembre,23,2015,Shanghai,China,Meeting of the Board of Directors of the New Development Bank,formal,BRICS,economy,finance,ndb,presencial,rusia
+497,BRICS2015,3,noviembre,19,2015,Moscú,Rusia,BRICS Heads of Revenue Meeting,formal,BRICS,economy,finance,tax,presencial,rusia
+498,BRICS2015,3,noviembre,18,2015,Moscú,Rusia,Meeting of the BRICS Working Group on Labour and Employment,formal,BRICS,labour,general,,presencial,rusia
+499,BRICS2015,3,noviembre,17,2015,Moscú,Rusia,BRICS Education Senior Officials meeting,formal,BRICS,education,general,,presencial,rusia
+500,BRICS2015,3,noviembre,10,2015,Durban,Sudáfrica,4th BRICS International Competition Conference,formal,BRICS,economy,trade,competence,presencial,rusia
+501,BRICS2015,3,noviembre,13,2015,Antalya,Turquía,Sherpas/Sous-Sherpas Meetings,formal,BRICS,organizational,sherpas,,presencial,rusia
+502,BRICS2015,3,noviembre,10,2015,Moscú,Rusia,BRICS Anti-Drug Working Group meeting,formal,BRICS,security-defense,drugs,,presencial,rusia
+503,BRICS2015,3,noviembre,10,2015,Sochi,Rusia,BRICS Heads of Prosecution Services meeting,formal,BRICS,government,judicial,,presencial,rusia
+504,BRICS2015,3,noviembre,2,2015,New York,EEUU,Informal Meeting of Heads of Legal Departments of the BRICS Ministries of Foreign Affairs / International Relations,informal,ILW,government,judicial,,presencial,rusia
+505,BRICS2015,3,noviembre,1,2015,San Petersburgo,Rusia,Meeting of BRICS Senior Officials on Anti-Corruption Cooperation,formal,BRICS,government,corruption,,presencial,rusia
+506,BRICS2015,3,octubre,29,2015,Moscú,Rusia,BRICS Senior Officials meeting on healthcare,formal,BRICS,health,general,,presencial,rusia
+507,BRICS2015,3,octubre,27,2015,Moscú,Rusia,"BRICS Senior Officials on Science, Technology and Innovation",formal,BRICS,sti,general,,presencial,rusia
+508,BRICS2015,3,octubre,21,2015,París,Francia,BRICS Council on AML/CFT,informal,AML/CFT,security-defense,anti money laundering,,presencial,rusia
+509,BRICS2015,3,octubre,15,2015,Shanghai,China,2nd BRICS Legal Forum,formal,BRICS,government,judicial,,presencial,rusia
+510,BRICS2015,3,octubre,8,2015,Sochi,Rusia,Heads of the Migration Authorities of the BRICS Countries,formal,BRICS,social,migration,,presencial,rusia
+511,BRICS2015,3,octubre,7,2015,Moscú,Rusia,BRICS Agricultural Cooperation Working Group meeting,formal,BRICS,agriculture,general,,presencial,rusia
+512,BRICS2015,3,septiembre,27,2015,Sochi,Rusia,BRICS Heads Responsible for National Statistics,formal,BRICS,government,statistics,,presencial,rusia
+513,BRICS2015,3,septiembre,27,2015,New York,EEUU,Sherpas/Sous-Sherpas Meetings,formal,BRICS,organizational,sherpas,,presencial,rusia
+514,BRICS2015,3,septiembre,23,2015,San Petersburgo,Rusia,Twin Cities and Local Governments Meeting,formal,BRICS,government,local government,,presencial,rusia
+515,BRICS2015,3,septiembre,21,2015,Moscú,Rusia,BRICS Heads of Competition Authorities,informal,RCWIE,economy,trade,competence,presencial,rusia
+516,BRICS2015,3,septiembre,17,2015,París,Francia,Working Consultations of Energy Efficiency Experts,informal,IPEEC,energy,energy efficiency,,presencial,rusia
+517,BRICS2015,3,septiembre,15,2015,Seúl,Corea del Sur,BRICS Heads of National Standardization Bodies,formal,BRICS,economy,trade,quality-standarization,presencial,rusia
+518,BRICS2015,3,septiembre,10,2015,Moscú,Rusia,Preparatory Group for the Meeting of the Heads of the Migration Authorities,formal,BRICS,social,migration,,presencial,rusia
+519,BRICS2015,3,septiembre,4,2015,Ankara,Turquía,Meeting of the Governing Council of the Contingent Reserve Arrangement,informal,G20,economy,finance,cra,presencial,rusia
+520,BRICS2015,3,septiembre,4,2015,Ankara,Turquía,Meeting of the Standing Committee of the Contingent Reserve Arrangement,informal,G20,economy,finance,cra,presencial,rusia
+521,BRICS2015,3,agosto,26,2015,Moscú,Rusia,Expert Consultations on Industrial Issues,formal,BRICS,industry,general,,presencial,rusia
+522,BRICS2015,3,agosto,12,2015,Moscú,Rusia,BRICS Agricultural Cooperation Working Group meeting,formal,BRICS,agriculture,general,,presencial,rusia
+523,BRICS2015,3,julio,21,2015,Shanghai,China,Inaugural Meeting of the Board of Directors of the New Development Bank,formal,BRICS,economy,finance,ndb,presencial,rusia
+524,BRICS2015,3,julio,13,2015,Irkutsk,Rusia,BRICS Senior Officials meeting on healthcare,formal,BRICS,health,general,,presencial,rusia
+525,BRICS2015,3,julio,8,2015,Ufa,Rusia,Annual Meeting of the Heads of Banks of the BRICS Interbank Cooperation Mechanism,formal,BRICS,economy,finance,bank,presencial,rusia
+526,BRICS2015,3,julio,7,2015,Moscú,Rusia,Meeting of the Interim Committee of the Contingent Reserve Arrangement,formal,BRICS,economy,finance,cra,presencial,rusia
+527,BRICS2015,3,julio,6,2015,Moscú,Rusia,Meeting of the BRICS Science and Technology Funding Parties,formal,BRICS,sti,general,,presencial,rusia
+528,BRICS2015,3,julio,6,2015,Moscú,Rusia,BRICS Contact Group on Economic and Trade Issues (CGETI) meeting,formal,BRICS,economy,general,general,presencial,rusia
+529,BRICS2015,3,julio,5,2015,Moscú,Rusia,Inaugural Meeting of the Board of Governors of the New Development Bank,formal,BRICS,economy,finance,ndb,presencial,rusia
+530,BRICS2015,2,julio,4,2015,Kazan,Rusia,Meeting of the Youth Affairs Ministers,formal,BRICS,foreign,youth,,presencial,rusia
+531,BRICS2015,3,julio,4,2015,Moscú,Rusia,Sherpas/Sous-Sherpas Meetings,formal,BRICS,organizational,sherpas,,presencial,rusia
+532,BRICS2015,2,julio,1,2015,Moscú,Rusia,BRICS Ministers and Heads of Departments for Youth,formal,BRICS,social,youth,,presencial,rusia
+533,BRICS2015,3,junio,25,2015,Moscú,Rusia,BRICS working group on education meeting,formal,BRICS,education,general,,presencial,rusia
+534,BRICS2015,3,junio,24,2015,Brisbane,Australia,Heads of Delegations of BRICS on the margins of the FATF,informal,FATF,security-defense,anti money laundering,,presencial,rusia
+535,BRICS2015,3,junio,23,2015,Moscú,Rusia,"International Conference ‘Common Threats, Joint Actions: The Response of the BRICS Countries to Dangerous Infectious Diseases’",formal,BRICS,health,infectious diseases,,presencial,rusia
+536,BRICS2015,3,junio,16,2015,Moscú,Rusia,BRICS Working Group on Security in the Use of ICTs,formal,BRICS,sti,ict,,presencial,rusia
+537,BRICS2015,3,junio,11,2015,Bodrum,Turquía,Meeting of BRICS Central Banks Experts for Drafting an Operating Agreement on the BRICS Contingent Reserve Arrangement,informal,G20,economy,finance,cra,presencial,rusia
+538,BRICS2015,3,junio,11,2015,Bruselas,Bélgica,BRICS Heads of Customs Agencies meeting,informal,WCO,economy,trade,customs,presencial,rusia
+539,BRICS2015,3,junio,10,2015,Rio de Janeiro,Brasil,Meeting of the BRICS Heads of Intellectual Property Offices,formal,BRICS,sti,intellectual property,,presencial,rusia
+540,BRICS2015,3,junio,10,2015,San Petersburgo,Rusia,Round Table ‘Urgent Issues of Prevention of HIV Transfer from Mother to Child’,formal,BRICS,health,hiv,,presencial,rusia
+541,BRICS2015,3,junio,8,2015,Moscú,Rusia,1st BRICS Parliamentary Forum,formal,BRICS,government,legislative,,presencial,rusia
+542,BRICS2015,3,junio,4,2015,Moscú,Rusia,Meeting of the BRICS High-level Working Group on the Strategy for BRICS Economic Partnership,formal,BRICS,economy,general,economic-cooperation,presencial,rusia
+543,BRICS2015,3,mayo,26,2015,Moscú,Rusia,Meeting of the BRICS High-level Working Group on the Strategy for BRICS Economic Partnership,formal,BRICS,economy,general,economic-cooperation,presencial,rusia
+544,BRICS2015,3,mayo,26,2015,Merida,México,BRICS High-Level Meeting on Energy Efficiency,informal,,energy,energy efficiency,,presencial,rusia
+545,BRICS2015,3,mayo,25,2015,Ginebra,Suiza,Round Table ‘Fight against Child Oncological Diseases: BRICS’ Experience’,informal,OMS,health,oncological diseases,,presencial,rusia
+546,BRICS2015,3,mayo,24,2015,Merida,México,BRICS Consultations on Energy Efficiency,informal,,energy,energy efficiency,,presencial,rusia
+547,BRICS2015,3,mayo,20,2015,Moscú,Rusia,BRICS Meeting on Security of Outer Space Activities,formal,BRICS,sti,outer space,,presencial,rusia
+548,BRICS2015,3,mayo,15,2015,Moscú,Rusia,BRICS Dialogue on Foreign Policy,formal,BRICS,foreign,policy-planning,,presencial,rusia
+549,BRICS2015,3,abril,28,2015,Sydney,Australia,BRICS Heads of Competition Authorities,informal,ICN,economy,trade,competence,presencial,rusia
+550,BRICS2015,3,abril,23,2015,Moscú,Rusia,Heads of Delegations of BRICS on the margins of the FATF,informal,FATF,security-defense,anti money laundering,,presencial,rusia
+551,BRICS2015,3,abril,22,2015,Moscú,Rusia,BRICS Ministerial Meeting on Combating the Drug Threat,formal,BRICS,security-defense,drugs,,presencial,rusia
+552,BRICS2015,3,abril,21,2015,Moscú,Rusia,Consultations of Experts on Environmental Issues,formal,BRICS,environment,general,,presencial,rusia
+553,BRICS2015,3,abril,20,2015,Moscú,Rusia,BRICS experts meeting on Combating the Drug Threat,formal,BRICS,security-defense,drugs,,presencial,rusia
+554,BRICS2015,3,abril,16,2015,Moscú,Rusia,BRICS High-level Working Group on the Strategy for BRICS Economic Partnership,formal,BRICS,economy,general,economic-cooperation,presencial,rusia
+555,BRICS2015,3,abril,15,2015,Moscú,Rusia,BRICS Contact Group on Economic and Trade Issues (CGETI) meeting,formal,BRICS,economy,general,general,presencial,rusia
+556,BRICS2015,3,abril,15,2015,Washington,EEUU,Official Negotiators on the Creation of the New Development Bank,informal,IMF-WB,economy,finance,ndb,presencial,rusia
+557,BRICS2015,3,abril,14,2015,Washington,EEUU,Working Group on the Creation of the Multilateral Contingent Reserve Arrangement,informal,IMF-WB,economy,finance,cra,presencial,rusia
+558,BRICS2015,3,abril,14,2015,Moscú,Rusia,BRICS Expert Dialogue on e-Commerce,formal,BRICS,economy,trade,e-commerce,presencial,rusia
+559,BRICS2015,3,abril,13,2015,Moscú,Rusia,BRICS Experts on Customs Issues meeting,formal,BRICS,economy,trade,customs,presencial,rusia
+560,BRICS2015,3,marzo,12,2015,Moscú,Rusia,Round Table ‘Creation of Fair Rules of the Game in the Pharmaceutical Markets of the BRICS Countries’,formal,BRICS,health,medicines,,presencial,rusia
+561,BRICS2015,3,febrero,24,2015,París,Francia,Heads of Delegations of BRICS on the margins of the FATF,informal,FATF,security-defense,anti money laundering,,presencial,rusia
+562,BRICS2014,3,diciembre,12,2014,Brasilia,Brasil,BRICS Legal Forum,formal,BRICS,government,judicial,,presencial,brasil
+563,BRICS2014,3,diciembre,,2014,Brasilia,Brasil,Meetings of the High Level Working Group on Strategy of BRICS Economic Partnership,formal,BRICS,economy,general,economic-cooperation,presencial,brasil
+564,BRICS2014,3,noviembre,17,2014,Rio de Janeiro,Brasil,National Statistical Authorities,formal,BRICS,government,statistics,,presencial,brasil
+565,BRICS2014,3,julio,15,2014,Fortaleza,Brasil,BRICS export credit insurance agencies meeting,formal,BRICS,economy,trade,export-credit,presencial,brasil
+566,BRICS2014,3,julio,14,2014,Fortaleza,Brasil,III Annual BRICS Tax Conference “BRICS and International Tax Policy: Latest Developments”,formal,BRICS,economy,finance,tax,presencial,brasil
+567,BRICS2014,3,julio,14,2014,Fortaleza,Brasil,BRICS Multilateral meeting between the national developmetn banks,formal,BRICS,economy,finance,ndb,presencial,brasil
+568,BRICS2014,3,abril,23,2014,Sao Paulo,Brasil,BRICS ICTs officials,informal,GMMFIG,sti,ict,,presencial,brasil
+569,BRICS2014,3,mayo,15,2014,,Rusia,II BRICS Heads of Drug Control Agencies,formal,BRICS,security-defense,drugs,,presencial,brasil
+570,BRICS2014,3,marzo,1,2014,Hazyview,Sudáfrica,BRICS Inaugural Seminar of Officials and Experts on Population Matters,formal,BRICS,social,population,,presencial,brasil
+571,BRICS2014,3,,,2014,,,BRICS Contact Group on Economic and Trade Issues (CGETI),formal,BRICS,economy,general,general,presencial,brasil
+572,BRICS2014,3,,,2014,,,BRICS Sherpas and Sous-sherpas Meeting,formal,BRICS,organizational,sherpas,,presencial,brasil
+573,BRICS2014,3,,,2014,,,Mid-term meeting of BRICS Sherpas and Sous-sherpas,formal,BRICS,organizational,sherpas,,presencial,brasil
+574,BRICS2014,3,,,2014,,,Meeting of Experts of Combating Illicit Trafficking,formal,BRICS,security-defense,cit,,presencial,brasil
+575,BRICS2013,3,noviembre,28,2013,Durban,Sudáfrica,III Friendship Cities in Local Government Cooperation Forum,formal,BRICS,government,local government,,presencial,sudafrica
+576,BRICS2013,3,noviembre,20,2013,Delhi,India,III BRICS International Competition Conference,formal,BRICS,economy,trade,competence,presencial,sudafrica
+577,BRICS2013,3,noviembre,4,2013,Pretoria,Sudáfrica,V Meeting of Heads of the National Statistical Institutions of BRICS,formal,BRICS,government,statistics,,presencial,sudafrica
+578,BRICS2013,3,octubre,16,2013,Johannesburg,Sudáfrica,BRICS Trade Exchange (B2B Trade Fair),formal,BRICS,economy,finance,trade-exchange,presencial,sudafrica
+579,BRICS2013,3,septiembre,23,2013,Beijing,China,Workshop on BRICS System of Agricultural Information,formal,BRICS,agriculture,general,,presencial,sudafrica
+580,BRICS2013,3,septiembre,6,2013,París,Francia,BRICS/UNESCO Education Experts Meeting,informal,UNESCO,education,general,,presencial,sudafrica
+581,BRICS2013,3,agosto,27,2013,Pretoria,Sudáfrica,III BRICS Agriculture Expert Working Group Meeting,formal,BRICS,agriculture,general,,presencial,sudafrica
+582,BRICS2013,3,julio,22,2013,Pretoria,Sudáfrica,Mid-term meeting of sherpas and sub sherpas of BRICS,formal,BRICS,organizational,sherpas,,presencial,sudafrica
+583,BRICS2013,3,julio,3,2013,París,Francia,BRICS preparatory meeting for ministerial- BRICS-UNESCO,informal,UNESCO,education,general,,presencial,sudafrica
+584,BRICS2013,3,junio,6,2013,Beijing,China,Meeting of BRICS leaders of Agricultural Research Institute,formal,BRICS,agriculture,general,,presencial,sudafrica
+585,BRICS2013,3,junio,,2013,Moscú,Rusia,I BRICS Heads of Drug Control Agencies,formal,BRICS,security-defense,drugs,,presencial,sudafrica
+586,BRICS2013,3,abril,18,2013,Brasilia,Brasil,BRICS sports ministers meeting in seminar “BRICS and Sport Mega events–Experiences and Expectations”,formal,BRICS,culture,sport,,presencial,sudafrica
+587,BRICS2013,3,marzo,26,2013,Durban,Sudáfrica,BRICS presidents of development banks meeting,formal,BRICS,economy,finance,general,presencial,sudafrica
+588,BRICS2013,3,marzo,23,2013,Durban,Sudáfrica,BRICS sherpas and sub-sherpas meeting,formal,BRICS,organizational,sherpas,,presencial,sudafrica
+589,BRICS2013,3,febrero,5,2013,Pretoria,Sudáfrica,BRICS Contact Group on Economic and Trade Issues (CGETI),formal,BRICS,economy,general,general,presencial,sudafrica
+590,BRICS2013,3,febrero,4,2013,Johannesburg,Sudáfrica,BRICS national statistics institute authorities meeting,formal,BRICS,government,statistics,,presencial,sudafrica
+591,BRICS2013,3,enero,18,2013,Delhi,India,BRICS heads of revenue departments meeting,formal,BRICS,economy,finance,tax,presencial,sudafrica
+592,BRICS2013,3,enero,,2013,Delhi,India,BRICS competition authorities meeting,formal,BRICS,economy,trade,competence,presencial,sudafrica
+593,BRICS2013,3,enero,11,2013,Mumbai,India,II BRICS Friendship Cities and Local Governments Cooperation Forum,formal,BRICS,government,local government,,presencial,sudafrica
+594,BRICS2012,3,diciembre,6,2012,Delhi,India,BRICS Contact Group on Economic and Trade Issues (CGETI),formal,BRICS,economy,general,general,presencial,india
+595,BRICS2012,3,noviembre,8,2012,Pretoria,Sudáfrica,"2nd BRICS Senior Officials Meeting in the area of Science, Technology, and Innovation",formal,BRICS,sti,general,,presencial,india
+596,BRICS2012,3,octubre,15,2012,Delhi,India,4th Meeting of Heads of National Statistical Offices of BRICS,formal,BRICS,government,statistics,,presencial,india
+597,BRICS2012,3,octubre,2,2012,Ginebra,Suiza,1st BRICS Meeting on Intellectual Property on the margins of the WIPO,informal,WIPO,sti,intellectual property,,presencial,india
+598,BRICS2012,3,agosto,28,2012,Delhi,India,2nd BRICS Agriculture Expert Working Group Meeting,formal,BRICS,agriculture,general,,presencial,india
+599,BRICS2012,3,agosto,27,2012,Delhi,India,Experts Meeting on Agricultural Supply and Food Security,formal,BRICS,agriculture,food security,,presencial,india
+600,BRICS2012,3,agosto,27,2012,Rio de Janeiro,Brasil,First GT Meeting on BRICS Development Bank at the BNDES,formal,BRICS,economy,finance,bank,presencial,india
+601,BRICS2012,3,marzo,28,2012,Delhi,India,BRICS Governors of Development Banks Meeting,formal,BRICS,economy,finance,bank,presencial,india
+602,BRICS2012,3,marzo,7,2012,Delhi,India,II meeting of the BRICS Contact Group on Economic and Trade Issues (CGETI),formal,BRICS,economy,general,general,presencial,india
+603,BRICS2012,3,febrero,25,2012,Delhi,India,BRICS Economic Research Group (ERG),formal,BRICS,economy,general,economic-research,presencial,india
+604,BRICS2012,3,febrero,25,2012,Riyadh,Arabia Saudita,"Parallel Meeting of the BRICS, in the context of III Conference of Presidents of the G20 nations’ parliament",informal,G20,economy,general,general,presencial,india
+605,BRICS2012,3,febrero,16,2012,Kumarakom,India,BRICS Development Bank Technicians Meeting,formal,BRICS,economy,finance,bank,presencial,india
+606,BRICS2012,3,febrero,6,2012,Delhi,India,BRICS National Statistical Authorities,formal,BRICS,government,statistics,,presencial,india
+607,BRICS2011,3,diciembre,13,2011,Ginebra,Suiza,BRICS Working Group Meeting on Access to Medicines on the sidelines of the UNAIDS,informal,UNAIDS,health,medicines,,presencial,china
+608,BRICS2011,3,diciembre,3,2011,Sanya,China,I BRICS Friendship Cities and Local Governments Cooperation Forum,formal,BRICS,government,local government,,presencial,china
+609,BRICS2011,3,diciembre,2,2011,Beijing,China,Meeting to discuss the establishment of the BRICS Contact Group on Economic and Trade Issues (CGETI),formal,BRICS,economy,general,general,presencial,china
+610,BRICS2011,3,octubre,30,2011,Chengdu,China,II BRICS Work Group meeting on agriculture,formal,BRICS,agriculture,general,,presencial,china
+611,BRICS2011,3,septiembre,25,2011,Beijing,China,III BRICS National Statistical Authorities Meeting,formal,BRICS,government,statistics,,presencial,china
+612,BRICS2011,3,septiembre,22,2011,Beijing,China,II BRICS International Competition Conference,formal,BRICS,economy,trade,competence,presencial,china
+613,BRICS2011,3,septiembre,15,2011,Dalian,China,1st meeting of Science and Technology Senior Offiicials,formal,BRICS,sti,general,,presencial,china
+614,BRICS2011,3,agosto,24,2011,Brasilia,Brasil,First Meeting of Representatives of World Health Organization in BRICS nations,formal,BRICS,health,oms,,presencial,china
+615,BRICS2011,3,agosto,6,2011,Beijing,China,1st meeting of the BRICS Agricultural Cooperation Working Group,formal,BRICS,agriculture,general,,presencial,china
+616,BRICS2011,3,junio,17,2011,San Petersburgo,Rusia,BRICS Presidents of Development Banks Meeting on the sidelines of XV International Economic Forum and Memorandum of Understanding,formal,BRICS,economy,finance,bank,presencial,china
+617,BRICS2011,3,mayo,19,2011,Seúl,Corea del Sur,Meeting of the heads of BRICS delegations on the sidelines of the II G20 Parliamentarian Summit,formal,BRICS,economy,general,general,presencial,china
+618,BRICS2011,3,mayo,25,2011,Sanya,China,BRICS Inter-bank Cooperation Mechanism Annual Meeting and Financial,formal,BRICS,economy,finance,bank,presencial,china
+619,BRICS2011,3,mayo,18,2011,Quigdao,China,Mayors of BRICS Cities and Friendship Cities,formal,BRICS,government,local government,,presencial,china
+620,BRICS2011,3,abril,13,2011,Sanya,China,BRICS governors of development banks meeting,formal,BRICS,economy,finance,bank,presencial,china
+621,BRICS2011,3,enero,21,2011,Beijing,China,BRICS National Statistical Authorities,formal,BRICS,government,statistics,,presencial,china
+622,BRICS2010,3,noviembre,30,2010,Rio de Janeiro,Brasil,II BRICs heads of national statistics institutes meeting,formal,BRICS,government,statistics,,presencial,brasil
+623,BRICS2010,3,octubre,12,2010,Londres,Gran Bretaña,BRICs development banks meeting,formal,BRICS,economy,finance,bank,presencial,brasil
+624,BRICS2010,3,abril,13,2010,Rio de Janeiro,Brasil,BRICs development banks meeting,formal,BRICS,economy,finance,bank,presencial,brasil
+625,BRICS2010,3,abril,12,2010,Brasilia,Brasil,BRICs sherpas meeting,formal,BRICS,organizational,sherpas,,presencial,brasil
+626,BRICS2010,3,marzo,12,2010,Brasilia,Brasil,I BRICS Exchange Program for Judges,formal,BRICS,government,judicial,,presencial,brasil
+627,BRICS2010,3,febrero,22,2010,New York,EEUU,I BRICs heads of national statistics institutes meeting on the sidelines of the UN Statistical Committee,informal,ONU,government,statistics,,presencial,brasil
+628,BRICS2010,3,enero,14,2010,México City,México,Finance sherpa ́s meeting on the sidelines of the G20,informal,G20,economy,finance,general,presencial,brasil
+629,BRICS2009,3,septiembre,1,2009,Kazan,Rusia,I BRIC International Competition conference,formal,BRICS,economy,trade,competence,presencial,rusia
+630,BRICS2019,4,noviembre,14,2019,Brasilia,Brasil,BRICS Future Skills Conference,formal,BRICS,sti,skills,,presencial,brasil
+631,BRICS2019,4,noviembre,13,2019,Brasilia,Brasil,7th BRICS Business Council Annual Meeting,formal,BRICS,economy,trade,business,presencial,brasil
+632,BRICS2019,4,noviembre,13,2019,Brasilia,Brasil,BRICS Business Forum,formal,BRICS,economy,trade,business,presencial,brasil
+633,BRICS2019,4,noviembre,12,2019,Brasilia,Brasil,Meetings of the 9 Working Groups of the BRICS Business Council,formal,BRICS,economy,trade,business,presencial,brasil
+634,BRICS2019,4,noviembre,6,2019,Rio de Janeiro,Brasil,BRICS Young Scientists Forum,formal,BRICS,sti,youth,,presencial,brasil
+635,BRICS2019,4,noviembre,6,2019,Rio de Janeiro,Brasil,"Seminar ""10 years of BRICS: a balance and a future""",formal,BRICS,government,general,,presencial,brasil
+636,BRICS2019,4,noviembre,4,2019,Rio de Janeiro,Brasil,2nd BRICS Science Academies Meeting,formal,BRICS,education,academia,,presencial,brasil
+637,BRICS2019,4,octubre,30,2019,Sao Paulo,Brasil,4th Edition of the BRICS Media Forum,formal,BRICS,communication,media,,presencial,brasil
+638,BRICS2019,4,octubre,28,2019,Sao Paulo,Brasil,3rd BRICS Conference at the University of São Paulo,formal,BRICS,education,academia,,presencial,brasil
+639,BRICS2019,4,octubre,17,2019,Brasilia,Brasil,5th Youth Summit,formal,BRICS,social,youth,,presencial,brasil
+640,BRICS2019,4,octubre,12,2019,Rio de Janeiro,Brasil,"5th Cultural Research Expedition ""Great Teachers of BRICS""",formal,BRICS,education,academia,,presencial,brasil
+641,BRICS2019,4,octubre,12,2019,Rio de Janeiro,Brasil,3rd BRICSMATH.COM Online Mathematics Competition for Primary School Students,formal,BRICS,education,schools,,presencial,brasil
+642,BRICS2019,4,octubre,5,2019,Moscú,Rusia,2nd BRICS Youth Energy Agency Summit,formal,BRICS,energy,energy agency,,presencial,brasil
+643,BRICS2019,4,septiembre,30,2019,Niterói,Brasil,Business Forum of the 4th Edition of the BRICS Film Festival,formal,BRICS,culture,movies,,presencial,brasil
+644,BRICS2019,4,septiembre,23,2019,Niterói,Brasil,4th Edition of the BRICS Film Festival,formal,BRICS,culture,movies,,presencial,brasil
+645,BRICS2019,4,septiembre,18,2019,Brasilia,Brasil,8th BRICS Trade Union Forum,formal,BRICS,social,union,,presencial,brasil
+646,BRICS2019,4,septiembre,11,2019,Brasilia,Brasil,BRICS Academic Forum,formal,BRICS,education,academia,,presencial,brasil
+647,BRICS2019,4,septiembre,11,2019,Brasilia,Brasil,BRICS Think-Tank Council (BTTC),formal,BRICS,education,academia,,presencial,brasil
+648,BRICS2019,4,agosto,13,2019,Brasilia,Brasil,Communication Business to Business Meeting (B2B),formal,BRICS,economy,trade,business,presencial,brasil
+649,BRICS2019,4,junio,4,2019,Stavropol,Rusia,"3rd International Festival ""Student Spring of the BRICS and SCO Countries""",formal,BRICS,education,academia,,presencial,brasil
+650,BRICS2019,4,mayo,29,2019,Moscú,Rusia,3rd International BRICS Countries Drama Schools Festival,formal,BRICS,culture,theater,,presencial,brasil
+651,BRICS2019,4,abril,23,2019,Moscú,Rusia,"Annual International Conference on ""Digital Transformation: Focus on IP""",formal,BRICS,sti,technology,,presencial,brasil
+652,BRICS2019,4,abril,3,2019,Johannesburg,Sudáfrica,BRICS Business Council Midterm Meeting,formal,BRICS,economy,trade,business,presencial,brasil
+653,BRICS2019,4,marzo,19,2019,Rio de Janeiro,Brasil,BRICS Military Pentathlon Tournament,formal,BRICS,security-defense,military pentathlon,,presencial,brasil
+654,BRICS2018,4,diciembre,3,2018,Pretoria,Sudáfrica,BRICS Science Academies Dialogue,formal,BRICS,education,academia,,presencial,sudafrica
+655,BRICS2018,4,noviembre,14,2018,Kimberley,Sudáfrica,BRICS Photographic Exhibition,formal,BRICS,culture,photography,,presencial,sudafrica
+656,BRICS2018,4,octubre,22,2018,,Sudáfrica,Alliance of BRICS Libraries meeting,formal,BRICS,culture,libraries,,presencial,sudafrica
+657,BRICS2018,4,octubre,25,2018,Beijing,China,BRICS Alliance of Museums Established,formal,BRICS,culture,museums,,presencial,sudafrica
+658,BRICS2018,4,octubre,,2018,Gauteng,Sudáfrica,2nd BRICS Skills Competition,formal,BRICS,sti,skills,,presencial,sudafrica
+659,BRICS2018,4,septiembre,13,2018,Durban,Sudáfrica,4th Business to Business (B2B) Engagement,formal,BRICS,economy,trade,business,presencial,sudafrica
+660,BRICS2018,4,julio,27,2018,Durban,Sudáfrica,7th BRICS Trade Union Forum,formal,BRICS,social,union,,presencial,sudafrica
+661,BRICS2018,4,julio,25,2018,Johannesburg,Sudáfrica,BRICS Business Forum,formal,BRICS,economy,trade,business,presencial,sudafrica
+662,BRICS2018,4,julio,24,2018,Johannesburg,Sudáfrica,BRICS Business Council Energy Forum,formal,BRICS,energy,business,,presencial,sudafrica
+663,BRICS2018,4,julio,22,2018,Durban,Sudáfrica,3rd BRICS Film Festival 2018,formal,BRICS,culture,movies,,presencial,sudafrica
+664,BRICS2018,4,julio,22,2018,Durban,Sudáfrica,6th BRICS Business Council Annual Meeting,formal,BRICS,economy,trade,business,presencial,sudafrica
+665,BRICS2018,4,julio,20,2018,Cape Town,Sudáfrica,3rd BRICS Media Forum,formal,BRICS,communication,media,,presencial,sudafrica
+666,BRICS2018,4,julio,17,2018,Johannesburg,Sudáfrica,3rd BRICS Games,formal,BRICS,culture,sport,,presencial,sudafrica
+667,BRICS2018,4,julio,16,2018,Bloemfontein,Sudáfrica,4th BRICS Youth Summit,formal,BRICS,social,youth,,presencial,sudafrica
+668,BRICS2018,4,julio,5,2018,Stellenbosch,Sudáfrica,BRICS Network University Conference,formal,BRICS,education,university,,presencial,sudafrica
+669,BRICS2018,4,junio,25,2018,Durban,Sudáfrica,3rd BRICS Young Scientists Forum,formal,BRICS,sti,youth,,presencial,sudafrica
+670,BRICS2018,4,junio,25,2018,Pretoria,Sudáfrica,4th Young Diplomats Forum,formal,BRICS,foreign,youth,,presencial,sudafrica
+671,BRICS2018,4,junio,25,2018,Parktown,Sudáfrica,Civil BRICS,formal,BRICS,social,civil society,,presencial,sudafrica
+672,BRICS2018,4,junio,25,2018,Johannesburg,Sudáfrica,Meeting of Civil Society Organisations (CSOs),formal,BRICS,social,civil society,,presencial,sudafrica
+673,BRICS2018,4,mayo,28,2018,Johannesburg,Sudáfrica,BRICS Academic Forum,formal,BRICS,education,academia,,presencial,sudafrica
+674,BRICS2018,4,mayo,28,2018,Parktown,Sudáfrica,BRICS Think-Tank Council (BTTC),formal,BRICS,education,academia,,presencial,sudafrica
+675,BRICS2018,4,marzo,27,2018,Shanghai,China,BRICS Business Council Midterm Meeting,formal,BRICS,economy,trade,business,presencial,sudafrica
+676,BRICS2017,4,noviembre,1,2017,Moscú,Rusia,"Annual International Academic Conference ""Foresight and STI Policy""",formal,BRICS,education,academia,,presencial,china
+677,BRICS2017,4,septiembre,12,2017,Xiamen,China,BRICS Trade Fair,formal,BRICS,economy,trade,general,presencial,china
+678,BRICS2017,4,septiembre,3,2017,Xiamen,China,BRICS Business Forum,formal,BRICS,economy,trade,business,presencial,china
+679,BRICS2017,4,agosto,31,2017,Shanghai,China,5th BRICS Business Council Annual Meeting,formal,BRICS,economy,trade,business,presencial,china
+680,BRICS2017,4,julio,24,2017,Beijing,China,BRICS Youth Forum,formal,BRICS,social,youth,,presencial,china
+681,BRICS2017,4,julio,24,2017,Beijing,China,6th BRICS Trade Union Forum,formal,BRICS,social,union,,presencial,china
+682,BRICS2017,4,julio,11,2017,Hangzhou,China,BRICS Young Scientist Forum,formal,BRICS,sti,youth,,presencial,china
+683,BRICS2017,4,julio,2,2017,Novosibirsk,Rusia,International Congress of Women of SCO and BRICS Countries,formal,BRICS,social,women,,presencial,china
+684,BRICS2017,4,junio,23,2017,Chengdu,China,BRICS Film Festival,formal,BRICS,culture,movies,,presencial,china
+685,BRICS2017,4,junio,17,2017,Guangzhou,China,BRICS Games,formal,BRICS,culture,sport,,presencial,china
+686,BRICS2017,4,junio,10,2017,Fuzhou,China,"BRICS Political Parties, Think Tanks and Civil Society Organizations Forum",formal,BRICS,social,political parties,,presencial,china
+687,BRICS2017,4,junio,10,2017,Fuzhou,China,9th BRICS Academic Forum,formal,BRICS,education,academia,,presencial,china
+688,BRICS2017,4,junio,10,2017,Fuzhou,China,BRICS Think-Tank Council Meeting,formal,BRICS,education,academia,,presencial,china
+689,BRICS2017,4,junio,6,2017,Beijing,China,BRICS Media Forum,formal,BRICS,communication,media,,presencial,china
+690,BRICS2017,4,junio,1,2017,San Petersburgo,Rusia,"Annual Forum ""BRICS: Boosting Economic Cooperation""",formal,BRICS,economy,general,economic-cooperation,presencial,china
+691,BRICS2017,4,mayo,30,2017,Beijing,China,BRICS Young Diplomats Forum,formal,BRICS,foreign,youth,,presencial,china
+692,BRICS2017,4,mayo,20,2017,Chongqing,China,BRICS Think-Tank Symposiums,formal,BRICS,education,academia,,presencial,china
+693,BRICS2017,4,mayo,15,2017,Guangzhou,China,BRICS Think-Tank Symposiums,formal,BRICS,education,academia,,presencial,china
+694,BRICS2017,4,mayo,14,2017,Moscú,Rusia,BRICS International Festival of Theatre Schools,formal,BRICS,culture,theater,,presencial,china
+695,BRICS2017,4,marzo,31,2017,Delhi,India,BRICS Business Council Midterm Meeting,formal,BRICS,economy,trade,business,presencial,china
+696,BRICS2017,4,marzo,22,2017,Beijing,China,BRICS Think-Tank Symposiums,formal,BRICS,education,academia,,presencial,china
+697,BRICS2016,4,noviembre,18,2016,Chennai,India,BRICS Forum on State Owned Enterprises Reforms and Governance,formal,BRICS,government,state owned enterprises,,presencial,india
+698,BRICS2016,4,noviembre,10,2016,Bengaluru,India,Exhibition and B2B Meetings on ICT,formal,BRICS,sti,ict,,presencial,india
+699,BRICS2016,4,octubre,18,2016,Delhi,India,BRICS Media Forum,formal,BRICS,communication,media,,presencial,india
+700,BRICS2016,4,octubre,15,2016,Goa,India,BRICS Annual Financial Forum,formal,BRICS,economy,finance,general,presencial,india
+701,BRICS2016,4,octubre,14,2016,Delhi,India,BRICS Business Council,formal,BRICS,economy,trade,business,presencial,india
+702,BRICS2016,4,octubre,13,2016,Goa,India,BRICS Economic Forum,formal,BRICS,economy,finance,general,presencial,india
+703,BRICS2016,4,octubre,13,2016,Delhi,India,BRICS Business Forum,formal,BRICS,economy,trade,business,presencial,india
+704,BRICS2016,4,octubre,13,2016,Mumbai,India,Workshop/seminar on Investment Flows,formal,BRICS,economy,finance,investment,presencial,india
+705,BRICS2016,4,octubre,12,2016,Delhi,India,BRICS Trade Fair,formal,BRICS,economy,trade,general,presencial,india
+706,BRICS2016,4,octubre,5,2016,Delhi,India,U-17 Football Tournament,formal,BRICS,culture,sport,,presencial,india
+707,BRICS2016,4,octubre,14,2016,Goa,India,4th BRICS Business Council Annual Meeting,formal,BRICS,economy,trade,business,presencial,india
+708,BRICS2016,4,octubre,3,2016,Delhi,India,BRICS Civil Forum,formal,BRICS,social,civil society,,presencial,india
+709,BRICS2016,4,septiembre,29,2016,Moscú,Rusia,BRICS Water Forum,formal,BRICS,environment,water,,presencial,india
+710,BRICS2016,4,septiembre,27,2016,Mumbai,India,BRICS Network University International Governing Board (IGB),formal,BRICS,education,university,,presencial,india
+711,BRICS2016,4,septiembre,27,2016,Mumbai,India,Seminar on Challenges in Developing Bond Markets of BRICS,formal,BRICS,economy,finance,general,presencial,india
+712,BRICS2016,4,septiembre,26,2016,Bengaluru,India,BRICS Young Scientists' Conclave,formal,BRICS,sti,youth,,presencial,india
+713,BRICS2016,4,septiembre,23,2016,Delhi,India,BRICS Think Tank Council meeting,formal,BRICS,social,think tank,,presencial,india
+714,BRICS2016,4,septiembre,19,2016,Goa,India,8th BRICS Academic Forum,formal,BRICS,education,academia,,presencial,india
+715,BRICS2016,4,septiembre,14,2016,Visakhapatnam,India,3rd BRICS Urbanisation Forum,formal,BRICS,social,urbanism,,presencial,india
+716,BRICS2016,4,septiembre,10,2016,Bengaluru,India,BRICS Wellness Forum,formal,BRICS,social,development,,presencial,india
+717,BRICS2016,4,septiembre,6,2016,Jaipur,India,BRICS Handicraft Artisans Exchange Programme,formal,BRICS,social,handicraft artisans,,presencial,india
+718,BRICS2016,4,septiembre,3,2016,Kolkata,India,BRICS Young Diplomats' Forum,formal,BRICS,foreign,youth,,presencial,india
+719,BRICS2016,4,septiembre,2,2016,Delhi,India,BRICS Film Festival,formal,BRICS,culture,movies,,presencial,india
+720,BRICS2016,4,julio,1,2016,Guwahati,India,BRICS Youth Summit,formal,BRICS,social,youth,,presencial,india
+721,BRICS2016,4,mayo,30,2016,Moscú,Rusia,1st Photonics Conference of BRICS Countries,formal,BRICS,sti,physics,,presencial,india
+722,BRICS2016,4,abril,28,2016,Delhi,India,BRICS Digital Conclave,formal,BRICS,sti,technology,,presencial,india
+723,BRICS2016,4,abril,14,2016,Mumbai,India,"BRICS Friendship Cities Conclave,",formal,BRICS,government,local government,,presencial,india
+724,BRICS2016,4,abril,7,2016,Yekaterinbutg,Rusia,BRICS Network University Forum,formal,BRICS,education,university,,presencial,india
+725,BRICS2016,4,abril,6,2016,Moscú,Rusia,BRICS Business Council Midterm Meeting,formal,BRICS,economy,trade,business,presencial,india
+726,BRICS2016,4,abril,2,2016,Beijing,China,1st meeting of the BRICS Universities League Members,formal,BRICS,education,university,,presencial,india
+727,BRICS2016,4,enero,25,2016,Ufa,Rusia,5th BRICS Trade Union Forum,formal,BRICS,social,union,,presencial,india
+728,BRICS2015,4,diciembre,1,2015,Moscú,Rusia,BRICS Seminar on Single Window for Trade Facilitation,formal,BRICS,economy,trade,general,presencial,rusia
+729,BRICS2015,4,noviembre,11,2015,Moscú,Rusia,International Workshop ‘Effective Regulation of Industrial Safety as an Element of Stability of the National Economy’,formal,BRICS,industry,industrial safety,,presencial,rusia
+730,BRICS2015,4,octubre,28,2015,Moscú,Rusia,BRICS Young Diplomats Forum,formal,BRICS,foreign,youth,,presencial,rusia
+731,BRICS2015,4,octubre,26,2015,Moscú,Rusia,BRICS Global University Summit,formal,BRICS,education,university,,presencial,rusia
+732,BRICS2015,4,octubre,27,2015,Moscú,Rusia,International Conference ‘Approaches of the BRICS Countries towards Common Spaces: Lines and Potential of Cooperation’,formal,BRICS,education,academia,,presencial,rusia
+733,BRICS2015,4,octubre,25,2015,Moscú,Rusia,BRICS Think Tank Council Meetings,formal,BRICS,social,think tank,,presencial,rusia
+734,BRICS2015,4,octubre,8,2015,Moscú,Rusia,Forum of the Heads of the BRICS Countries’ Leading Media Outlets,formal,BRICS,communication,media,,presencial,rusia
+735,BRICS2015,4,septiembre,30,2015,Sevastopol,Rusia,"Forum of Young Scientists ‘Future Science: the Science of the Young’, Round Table ‘Problems of Multilateral Cooperation within BRICS (economic, policy, and humanitarian spheres)’",formal,BRICS,sti,youth,,presencial,rusia
+736,BRICS2015,4,septiembre,24,2015,Rostov del Don,Rusia,BRICS International Forum of Young Scientists and Entrepreneurs,formal,BRICS,sti,youth,,presencial,rusia
+737,BRICS2015,4,septiembre,15,2015,Moscú,Rusia,Founding Conference of the BRICS Network University,formal,BRICS,education,university,,presencial,rusia
+738,BRICS2015,4,septiembre,10,2015,Moscú,Rusia,Global Forum on Implementation of Social Protection Programmes for Food Security and Nutrition: Towards Partnership for Development,formal,BRICS,agriculture,food security,,presencial,rusia
+739,BRICS2015,4,julio,26,2015,Ufa,Rusia,BRICS and SCO Youth Forum,formal,BRICS,social,youth,,presencial,rusia
+740,BRICS2015,4,julio,9,2015,Ufa,Rusia,3rd BRICS Business Council,formal,BRICS,economy,trade,business,presencial,rusia
+741,BRICS2015,4,julio,8,2015,Ufa,Rusia,4th BRICS Trade Union Forum,formal,BRICS,social,union,,presencial,rusia
+742,BRICS2015,4,julio,8,2015,Ufa,Rusia,BRICS Financial Forum,formal,BRICS,economy,finance,general,presencial,rusia
+743,BRICS2015,4,julio,6,2015,Moscú,Rusia,Round table ‘Support and development of BRICS MSMEs’,formal,BRICS,industry,sme,,presencial,rusia
+744,BRICS2015,4,julio,4,2015,Moscú,Rusia,1st BRICS Youth Summit,formal,BRICS,social,youth,,presencial,rusia
+745,BRICS2015,4,julio,1,2015,Moscú,Rusia,BRICS Youth Summit,formal,BRICS,social,youth,,presencial,rusia
+746,BRICS2015,4,junio,29,2015,Moscú,Rusia,BRICS Civil Forum,formal,BRICS,social,civil society,,presencial,rusia
+747,BRICS2015,4,junio,18,2015,San Petersburgo,Rusia,BRICS Business Forum,formal,BRICS,economy,trade,business,presencial,rusia
+748,BRICS2015,4,mayo,25,2015,Moscú,Rusia,Exhibition Companies of the BRICS Countries meeting,formal,BRICS,economy,trade,business,presencial,rusia
+749,BRICS2015,4,mayo,22,2015,Moscú,Rusia,7th BRICS Academic Forum,formal,BRICS,education,academia,,presencial,rusia
+750,BRICS2015,4,mayo,21,2015,San Petersburgo,Rusia,Third International Congress ‘Arterial Hypertension from Korotkov to the Present Day’ and Round Table ‘Contribution of BRICS Countries to the Victory over Arterial Hypertension’,formal,BRICS,health,hypertension,,presencial,rusia
+751,BRICS2015,4,mayo,21,2015,Moscú,Rusia,BRICS Think Tank Council Meetings,formal,BRICS,social,think tank,,presencial,rusia
+752,BRICS2015,4,mayo,14,2015,San Petersburgo,Rusia,International Conference ‘Education and Global Cities: Prospects of BRICS’,formal,BRICS,education,academia,,presencial,rusia
+753,BRICS2015,4,febrero,9,2015,Brasilia,Brasil,BRICS Business Council Midterm meeting,formal,BRICS,economy,trade,business,presencial,rusia
+754,BRICS2014,4,julio,15,2014,Fortaleza,Brasil,2nd BRICS Business Council,formal,BRICS,economy,trade,business,presencial,brasil
+755,BRICS2014,4,julio,15,2014,Fortaleza,Brasil,3rd BRICS Trade Union Forum,formal,BRICS,social,union,,presencial,brasil
+756,BRICS2014,4,julio,15,2014,Fortaleza,Brasil,5th Business Forum,formal,BRICS,economy,trade,business,presencial,brasil
+757,BRICS2014,4,julio,15,2014,Fortaleza,Brasil,4th Financial Forum,formal,BRICS,economy,finance,general,presencial,brasil
+758,BRICS2014,4,mayo,14,2014,Curitiba,Brasil,4th Meeting of the BRICS Cooperatives,formal,BRICS,industry,cooperatives,,presencial,brasil
+759,BRICS2014,4,abril,29,2014,Fortaleza,Brasil,Preparatory meeting for Civil Society: Expectations for the sixth Summit,formal,BRICS,social,civil society,,presencial,brasil
+760,BRICS2014,4,marzo,29,2014,Brasilia,Brasil,BRICS Seminar: Systems of Innovation and Development,formal,BRICS,social,development,,presencial,brasil
+761,BRICS2014,4,marzo,15,2014,Rio de Janeiro,Brasil,6th BRICS Academic Forum,formal,BRICS,education,academia,,presencial,brasil
+762,BRICS2014,4,marzo,,2014,Rio de Janeiro,Brasil,BRICS Think Tank Council (BTTC),formal,BRICS,social,think tank,,presencial,brasil
+763,BRICS2013,4,noviembre,28,2013,Durban,Sudáfrica,II BRICS Urbanization Forum,formal,BRICS,social,urbanism,,presencial,sudafrica
+764,BRICS2013,4,noviembre,11,2013,Stellenbosch,Sudáfrica,Mid-term meeting of the BRICS Think Tank Council (BTTC),formal,BRICS,social,think tank,,presencial,sudafrica
+765,BRICS2013,4,octubre,31,2013,Beijing,China,II Economic and Financial Forum of BRICS,formal,BRICS,economy,finance,general,presencial,sudafrica
+766,BRICS2013,4,octubre,26,2013,Cape Town,Sudáfrica,III BRICS Cooperatives Meeting,formal,BRICS,industry,cooperatives,,presencial,sudafrica
+767,BRICS2013,4,agosto,19,2013,Johannesburg,Sudáfrica,1st meeting of BRICS Business Council,formal,BRICS,economy,trade,business,presencial,sudafrica
+768,BRICS2013,4,marzo,26,2013,Durban,Sudáfrica,4th BRICS Business Forum,formal,BRICS,economy,trade,business,presencial,sudafrica
+769,BRICS2013,4,marzo,24,2013,Durban,Sudáfrica,2nd BRICS Trade Union Forum,formal,BRICS,social,union,,presencial,sudafrica
+770,BRICS2013,4,marzo,10,2013,Durban,Sudáfrica,5th BRICS Academic Forum,formal,BRICS,education,academia,,presencial,sudafrica
+771,BRICS2013,4,marzo,8,2013,Durban,Sudáfrica,Preparatory meeting of BRICS Think Tank,formal,BRICS,social,think tank,,presencial,sudafrica
+772,BRICS2013,4,febrero,1,2013,Delhi,India,I BRICS Urbanization Forum,formal,BRICS,social,urbanism,,presencial,sudafrica
+773,BRICS2012,4,diciembre,11,2012,Moscú,Rusia,1st BRICS Trade Union Forum,formal,BRICS,social,union,,presencial,india
+774,BRICS2012,4,noviembre,21,2012,Delhi,India,BRICS Academic Meeting (“Track II Conference”) to discuss a long-term mechanism strategy organized by Observer Research Foundation (ORF),formal,BRICS,education,academia,,presencial,india
+775,BRICS2012,4,septiembre,26,2012,Chongqing,China,"“2012 BRICS Think-Tanks Forum,” about “Adjustment, Innovation and Cooperation”",formal,BRICS,education,academia,,presencial,india
+776,BRICS2012,4,marzo,28,2012,Delhi,India,3rd Business Forum,formal,BRICS,economy,trade,business,presencial,india
+777,BRICS2012,4,marzo,28,2012,Delhi,India,BRICS Financial Forum,formal,BRICS,economy,finance,general,presencial,india
+778,BRICS2012,4,marzo,7,2012,Delhi,India,4th Academic Forum/Track II,formal,BRICS,education,academia,,presencial,india
+779,BRICS2011,4,junio,14,2011,Beijing,China,II Meeting of BRICS Cooperatives,formal,BRICS,industry,cooperatives,,presencial,china
+780,BRICS2011,4,abril,14,2011,Sanya,China,2nd Business Forum,formal,BRICS,economy,trade,business,presencial,china
+781,BRICS2011,4,marzo,25,2011,Beijing,China,3rd BRIC Academic Forum / Track II,formal,BRICS,education,academia,,presencial,china
+782,BRICS2010,4,abril,16,2010,Brasilia,Brasil,BRICs cooperatives meeting,formal,BRICS,industry,cooperatives,,presencial,brasil
+783,BRICS2010,4,abril,15,2010,Brasilia,Brasil,2nd BRIC Academic Forum: BRIC Think Tank Seminar,formal,BRICS,social,think tank,,presencial,brasil
+784,BRICS2010,4,abril,14,2010,Rio de Janeiro,Brasil,BRIC+IBSA Business Forum,formal,BRICS,economy,trade,business,presencial,brasil
+785,BRICS2010,4,febrero,23,2010,Rio de Janeiro,Brasil,Conference “An Agenda for the BRIC countries” organized by the city council,formal,BRICS,government,local government,,presencial,brasil
+786,BRICS2009,4,mayo,,2009,Delhi,India,1st BRIC Academic Forum,formal,BRICS,education,academia,,presencial,rusia
+787,BRICS2020,1,noviembre,17,2020,,,12th BRICS Summit,formal,BRICS,organizational,summit,,virtual,rusia
+788,BRICS2020,3,febrero,11,2020,,,1st Meeting of BRICS Sherpas/Sous-Sherpas,formal,BRICS,organizational,sherpas,,virtual,rusia
+789,BRICS2020,3,julio,2,2020,,,2nd Meeting of BRICS Sherpas/Sous-Sherpas,formal,BRICS,organizational,sherpas,,virtual,rusia
+790,BRICS2020,3,agosto,31,2020,,,3rd Meeting of BRICS Sherpas/Sous-Sherpas,formal,BRICS,organizational,sherpas,,virtual,rusia
+791,BRICS2020,3,noviembre,5,2020,,,4th Meeting of BRICS Sherpas/Sous-Sherpas,formal,BRICS,organizational,sherpas,,virtual,rusia
+792,BRICS2020,2,abril,28,2020,,,Extraordinary Meeting of BRICS Ministers of Foreign Affairs/International Relations,formal,BRICS,foreign,general,,virtual,rusia
+793,BRICS2020,3,mayo,27,2020,,,Meeting of Heads of BRICS Tax Authorities,formal,BRICS,economy,finance,tax,virtual,rusia
+794,BRICS2020,3,julio,15,2020,,,Meeting of Heads of BRICS Space Agencies,formal,BRICS,sti,outer space,,virtual,rusia
+795,BRICS2020,2,julio,23,2020,,,Meeting of BRICS Ministers of Economy and Foreign Trade,formal,BRICS,economy,general,general,virtual,rusia
+796,BRICS2020,3,julio,23,2020,,,Meeting of BRICS Competition Authorities,formal,BRICS,economy,trade,competence,virtual,rusia
+797,BRICS2020,2,julio,30,2020,,,Meeting of BRICS Ministers of Environment,formal,BRICS,environment,general,,virtual,rusia
+798,BRICS2020,3,agosto,19,2020,,,Meeting of Heads of BRICS National Standardization Bodies,formal,BRICS,economy,trade,quality-standarization,virtual,rusia
+799,BRICS2020,2,agosto,24,2020,,,Meeting of BRICS Ministers of Industry,formal,BRICS,industry,general,,virtual,rusia
+800,BRICS2020,2,agosto,25,2020,,,Meeting of BRICS Sports Ministers,formal,BRICS,culture,sport,,virtual,rusia
+801,BRICS2020,3,agosto,26,2020,,,Meeting of BRICS Heads of Intellectual Property Offices,formal,BRICS,sti,intellectual property,,virtual,rusia
+802,BRICS2020,2,septiembre,4,2020,,,Stand-alone Meeting of BRICS Ministers of Foreign Affairs/International Relations,informal,ONU,foreign,general,,virtual,rusia
+803,BRICS2020,2,septiembre,2,2020,,,Meeting of BRICS Ministers of Culture,formal,BRICS,culture,general,,virtual,rusia
+804,BRICS2020,2,septiembre,17,2020,,,Meeting of BRICS Ministers of Communication,formal,BRICS,communication,general,,virtual,rusia
+805,BRICS2020,2,septiembre,17,2020,,,Meeting of BRICS National Security Advisors,formal,BRICS,security-defense,general,,virtual,rusia
+806,BRICS2020,2,septiembre,23,2020,,,Meeting of BRICS Ministers of Agriculture and Agrarian Development,formal,BRICS,agriculture,general,,virtual,rusia
+807,BRICS2020,2,octubre,9,2020,,,Meeting of BRICS Ministers of Labor and Employment,formal,BRICS,labour,general,,virtual,rusia
+808,BRICS2020,2,octubre,14,2020,,,Meeting of BRICS Ministers of Energy,formal,BRICS,energy,general,,virtual,rusia
+809,BRICS2020,2,octubre,21,2020,,,Meeting of BRICS Ministers of Education,formal,BRICS,education,general,,virtual,rusia
+810,BRICS2020,2,octubre,28,2020,,,Meeting of BRICS Tourism Ministers,formal,BRICS,culture,tourism,,virtual,rusia
+811,BRICS2020,2,noviembre,9,2020,,,Meeting of BRICS Ministers of Finances and Central Bank Governors,formal,BRICS,economy,finance,general,virtual,rusia
+812,BRICS2020,2,noviembre,11,2020,,,Meeting of BRICS Ministers of Health,formal,BRICS,health,general,,virtual,rusia
+813,BRICS2020,2,noviembre,13,2020,,,"Meeting of BRICS Ministers of Science, Technology and Innovation",formal,BRICS,sti,general,,virtual,rusia
+814,BRICS2020,3,febrero,3,2020,Riyadh,Arabia Saudita,1st Meeting of BRICS Anti-Corruption Working Group (ACWG) – on the margins of the G20 Meeting of Anti-Corruption Working Group,informal,G20,government,corruption,,presencial,rusia
+815,BRICS2020,3,febrero,10,2020,Moscú,Rusia,1st Meeting of BRICS STI Steering Committee,formal,BRICS,sti,general,,presencial,rusia
+816,BRICS2020,3,febrero,16,2020,París,Francia,Meeting of BRICS Council on Anti-Money Laundering and Countering the Financing of Terrorism within the Financial Action Task Force (FATF) (BRICS Council on AML/CFT),informal,FATF,security-defense,anti money laundering,,presencial,rusia
+817,BRICS2020,3,febrero,20,2020,Moscú,Rusia,Meeting of BRICS Senior Officials Committee on Energy,formal,BRICS,energy,general,,presencial,rusia
+818,BRICS2020,3,febrero,21,2020,Riyadh,Arabia Saudita,Meeting of BRICS Deputy Ministers of Finances and Central Bank Governors,informal,G20,economy,finance,general,presencial,rusia
+819,BRICS2020,3,febrero,26,2020,Moscú,Rusia,23rd Meeting of the BRICS Contact Group on Economic and Trade Issues (CGETI),formal,BRICS,economy,general,general,presencial,rusia
+820,BRICS2020,3,marzo,13,2020,Moscú,Rusia,Meeting of BRICS Working Group on the Research of Competition Issues of Pharmaceutical Markets,formal,BRICS,health,medicines,,presencial,rusia
+821,BRICS2020,3,marzo,18,2020,Moscú,Rusia,Expert Meeting of BRICS Tourism Authorities,formal,BRICS,culture,tourism,,presencial,rusia
+822,BRICS2020,3,marzo,30,2020,Moscú,Rusia,Expert Meeting of BRICS National Statistical Offices on BRICS Statistical Publication,formal,BRICS,government,statistics,,presencial,rusia
+823,BRICS2020,3,abril,8,2020,Moscú,Rusia,2nd Meeting of BRICS STI Steering Committee,formal,BRICS,sti,general,,presencial,rusia
+824,BRICS2020,3,abril,21,2020,Moscú,Rusia,3rd Meeting of BRICS STI Steering Committee,formal,BRICS,sti,general,,presencial,rusia
+825,BRICS2020,3,abril,29,2020,Moscú,Rusia,24th Meeting of the BRICS Contact Group on Economic and Trade Issues (CGETI),formal,BRICS,economy,general,general,presencial,rusia
+826,BRICS2020,3,mayo,7,2020,,,Meeting of BRICS Health Senior Officials,formal,BRICS,health,general,,virtual,rusia
+827,BRICS2020,3,mayo,14,2020,,,Meeting of BRICS Deputy Ministers of Finances and Central Bank Governors,formal,BRICS,economy,finance,general,virtual,rusia
+828,BRICS2020,3,mayo,22,2020,,,Working Meeting of BRICS Youth Officials,formal,BRICS,social,youth,,virtual,rusia
+829,BRICS2020,3,mayo,25,2020,,,4th Meeting of BRICS STI Steering Committee,formal,BRICS,sti,general,,virtual,rusia
+830,BRICS2020,3,mayo,27,2020,,,Extraordinary Meeting of Heads of International Units of BRICS Competition Authorities,formal,BRICS,economy,trade,competence,virtual,rusia
+831,BRICS2020,3,mayo,27,2020,,,BRICS Expert Meeting on Tax Matters,formal,BRICS,economy,finance,tax,virtual,rusia
+832,BRICS2020,3,junio,11,2020,,,5th Meeting of BRICS STI Steering Committee,formal,BRICS,sti,general,,virtual,rusia
+833,BRICS2020,3,junio,18,2020,,,Meeting of BRICS Tuberculosis (TB) Research Network,formal,BRICS,health,tuberculosis,,virtual,rusia
+834,BRICS2020,3,junio,18,2020,,,Meeting of BRICS Council on Anti-Money Laundering and Countering the Financing of Terrorism (BRICS Council on AML/CFT),formal,BRICS,security-defense,anti money laundering,,virtual,rusia
+835,BRICS2020,3,julio,9,2020,,,6th Meeting of BRICS STI Steering Committee,formal,BRICS,sti,general,,virtual,rusia
+836,BRICS2020,3,julio,13,2020,,,Meeting of Deputy Heads of BRICS Space Agencies,formal,BRICS,sti,outer space,,virtual,rusia
+837,BRICS2020,3,julio,14,2020,,,7th Meeting of BRICS Working Group on Solid State Lighting,formal,BRICS,sti,technology,,virtual,rusia
+838,BRICS2014,3,noviembre,7,2014,Guangzhou,China,1st Meeting of BRICS Solid State Lighting Working Group,formal,BRICS,sti,technology,,presencial,brasil
+839,BRICS2015,3,noviembre,,2015,,China,2nd Meeting of BRICS Solid State Lighting Working Group,formal,BRICS,sti,technology,,presencial,rusia
+840,BRICS2015,3,diciembre,12,2015,Cape Town,Sudáfrica,1st BRICS Astronomy Working Group,formal,BRICS,sti,outer space,,presencial,rusia
+841,BRICS2016,3,noviembre,14,2016,Beijing,China,3rd Meeting of BRICS Working Group on Solid State Lighting,formal,BRICS,sti,technology,,presencial,india
+842,BRICS2018,3,agosto,,2018,,China,5th Meeting of BRICS Working Group on Solid State Lighting,formal,BRICS,sti,technology,,presencial,sudafrica
+843,BRICS2020,3,julio,16,2020,,,25th BRICS Contact Group on Economic and Trade Issues (CGETI),formal,BRICS,economy,general,general,virtual,rusia
+844,BRICS2020,3,julio,16,2020,,,Meeting of BRICS Agricultural Cooperation Working Group,formal,BRICS,agriculture,general,,virtual,rusia
+845,BRICS2020,3,julio,27,2020,,,Meeting of BRICS Senior Officials Committee on Energy and BRICS Working Group on Energy Saving,formal,BRICS,energy,energy efficiency,,virtual,rusia
+846,BRICS2020,3,julio,30,2020,,,Meeting of BRICS Joint Task Force on Disaster Risk Management,formal,BRICS,disaster management,task-force,,virtual,rusia
+847,BRICS2020,3,julio,30,2020,,,Meeting of BRICS Working Group on Environment,formal,BRICS,environment,general,,virtual,rusia
+848,BRICS2020,3,agosto,4,2020,,,Meeting of BRICS Customs Specialists,formal,BRICS,economy,trade,customs,virtual,rusia
+849,BRICS2020,3,agosto,12,2020,,,Meeting of BRICS Anti-Drug Working Group,formal,BRICS,security-defense,drugs,,virtual,rusia
+850,BRICS2020,3,agosto,17,2020,,,Expert Meeting of BRICS Ministries of Industry,formal,BRICS,industry,general,,virtual,rusia
+851,BRICS2020,3,agosto,26,2020,,,Meeting of BRICS Deputy Foreign Ministers/Special Envoys on the Middle East and North Africa (BRICS MENA),formal,BRICS,foreign,middle east,,virtual,rusia
+852,BRICS2020,3,agosto,26,2020,,,BRICS Working Group on Security in the Use of ICTs,formal,BRICS,sti,ict,,virtual,rusia
+853,BRICS2020,3,agosto,31,2020,,,Meeting of BRICS Counter-Terrorism Working Group,formal,BRICS,security-defense,terrorism,,virtual,rusia
+854,BRICS2020,3,septiembre,2,2020,,,BRICS Expert Meeting on Culture,formal,BRICS,culture,general,,virtual,rusia
+855,BRICS2020,3,septiembre,3,2020,,,Meeting of BRICS Deputy Ministers of Finance and Central Bank Governors,formal,BRICS,economy,finance,general,virtual,rusia
+856,BRICS2020,3,septiembre,3,2020,,,Meeting of BRICS CRA Standing Committee,formal,BRICS,economy,finance,cra,virtual,rusia
+857,BRICS2020,3,septiembre,7,2020,,,2nd Meeting of BRICS Anti-Corruption Working Group – on the margins of the G20 Meeting of Anti-Corruption Working Group,informal,G20,government,corruption,,virtual,rusia
+858,BRICS2020,3,septiembre,5,2020,,,iBRICS Network Training Workshop on Science Parks and Incubators,formal,BRICS,industry,incubators,,virtual,rusia
+859,BRICS2020,3,septiembre,15,2020,,,Meeting of BRICS Working Group on ICT Cooperation,formal,BRICS,sti,ict,,virtual,rusia
+860,BRICS2020,3,septiembre,23,2020,,,3rd Meeting of BRICS Working Group on Ocean and Polar Science and Technology,formal,BRICS,environment,polar and ocean science,,virtual,rusia
+861,BRICS2020,3,septiembre,24,2020,,,6th Meeting of BRICS Astronomy Working Group,formal,BRICS,security-defense,outer space,,virtual,rusia
+862,BRICS2020,3,septiembre,29,2020,,,Meeting of Social Communication Officers of the BRICS Foreign Ministers,formal,BRICS,foreign,social communication,,virtual,rusia
+863,BRICS2020,3,octubre,1,2020,,,2nd Meeting of BRICS Working Group on Material Science and Nanotechnology,formal,BRICS,sti,technology,,virtual,rusia
+864,BRICS2020,3,octubre,2,2020,,,Meeting of BRICS Tuberculosis (TB) Research Network,formal,BRICS,health,tuberculosis,,virtual,rusia
+865,BRICS2020,3,octubre,8,2020,,,4th Meeting of BRICS Working Group on Information and Communication Technologies and High-Performance Computing (WG on ICT and HPC),formal,BRICS,sti,ict,,virtual,rusia
+866,BRICS2020,3,octubre,13,2020,,,7th Meeting of BRICS STI Steering Committee,formal,BRICS,sti,general,,virtual,rusia
+867,BRICS2020,3,octubre,13,2020,,,BRICS Energy Senior Officials Meeting,formal,BRICS,energy,general,,virtual,rusia
+868,BRICS2020,3,octubre,14,2020,,,2nd Meeting of BRICS Working Group on New and Renewable Sources of Energy and Energy Efficiency,formal,BRICS,energy,energy efficiency,,virtual,rusia
+869,BRICS2020,3,octubre,13,2020,,,2nd Meeting of BRICS Working Group on Photonics,formal,BRICS,sti,physics,,virtual,rusia
+870,BRICS2020,3,octubre,14,2020,,,Meeting of BRICS Network University (BRICS NU) International Steering Committee,formal,BRICS,education,university,,virtual,rusia
+871,BRICS2020,3,octubre,15,2020,,,"4th Meeting of BRICS Working Group on Science, Technology, Innovation and Entrepreneurship",formal,BRICS,sti,general,,virtual,rusia
+872,BRICS2020,3,octubre,18,2020,,,Meeting of BRICS Council on Anti-Money Laundering and Countering the Financing of Terrorism within the FATF (BRICS Council on AML/CFT) – on the margins of the Financial Action Task Force (FATF) Meeting,informal,FATF,security-defense,anti money laundering,,virtual,rusia
+873,BRICS2020,3,octubre,19,2020,,,3rd Meeting of BRICS Anti-Corruption Working Group,formal,BRICS,government,corruption,,virtual,rusia
+874,BRICS2020,3,octubre,20,2020,,,BRICS Education Senior Officials Meeting,formal,BRICS,education,general,,virtual,rusia
+875,BRICS2020,3,noviembre,5,2020,,,8th Meeting of BRICS STI Steering Committee,formal,BRICS,sti,general,,virtual,rusia
+876,BRICS2020,3,noviembre,5,2020,,,BRICS Working Group for Research of Competition Issues in the Automotive Markets,formal,BRICS,economy,trade,competence,virtual,rusia
+877,BRICS2020,3,noviembre,10,2020,,,"6th Meeting of BRICS Science, Technology and Innovation (STI) Funding Working Group",formal,BRICS,sti,general,,virtual,rusia
+878,BRICS2020,3,noviembre,11,2020,,,"Special Workshop ""Prospects of science and technology in BRICS countries"" in the framework of X International Academic Conference ""Foresight and STI policy""",informal,ISSEK,sti,general,,virtual,rusia
+879,BRICS2020,3,noviembre,12,2020,,,Meeting of BRICS Coordination Committee on Antimonopoly Policy,formal,BRICS,economy,trade,competence,virtual,rusia
+880,BRICS2020,3,noviembre,12,2020,,,"10th Meeting of BRICS Science, Technology and Innovation (STI) Senior Officials",formal,BRICS,sti,general,,virtual,rusia
+881,BRICS2020,4,marzo,5,2020,San Petersburgo,Rusia,BRICS Young Parliamentarians' Forum,formal,BRICS,government,youth,,presencial,rusia
+882,BRICS2020,4,marzo,13,2020,Moscú,Rusia,"Roundtable discussion on ""Consumer protection in the era of e-Commerce in the BRICS countries""",formal,BRICS,economy,trade,e-commerce,presencial,rusia
+883,BRICS2020,4,marzo,19,2020,Moscú,Rusia,"BRICS scientific and practical conference on ""BRICS Economic Partnership Strategy""",formal,BRICS,economy,general,economic-cooperation,presencial,rusia
+884,BRICS2020,4,abril,22,2020,,,Preparatory round of IV BRICSMATH.COM international online math contest,formal,BRICS,education,math,,virtual,rusia
+885,BRICS2020,4,julio,14,2020,,,"Roundtable Discussion ""Support and Development of BRICS Small and Medium Enterprises (SME)""",formal,BRICS,industry,sme,,virtual,rusia
+886,BRICS2020,4,julio,15,2020,,,Meeting of BRICS Think Tanks Council (BTTC),formal,BRICS,social,think tank,,virtual,rusia
+887,BRICS2020,4,julio,20,2020,,,Inaugural meeting of BRICS Women's Business Alliance (BRICS WBA),formal,BRICS,economy,trade,business,virtual,rusia
+888,BRICS2020,4,julio,22,2020,,,Meeting of BRICS Business Council (BRICS BC),formal,BRICS,economy,trade,business,virtual,rusia
+889,BRICS2020,4,julio,21,2020,,,Online Mathematics competition for students from Grades 1-12 BRICSMATH.COM,formal,BRICS,education,math,,virtual,rusia
+890,BRICS2020,4,agosto,25,2020,,,Meeting of Heads of BRICS Supreme Audit Institutions,formal,BRICS,government,audit,,virtual,rusia
+891,BRICS2020,4,septiembre,8,2020,,,BRICS Chief Justices Forum,formal,BRICS,government,judicial,,virtual,rusia
+892,BRICS2020,4,septiembre,9,2020,,,BRICS Urbanization Forum,formal,BRICS,social,urbanism,,virtual,rusia
+893,BRICS2020,4,septiembre,21,2020,,,5th BRICS Young Scientists Forum,formal,BRICS,sti,youth,,virtual,rusia
+894,BRICS2020,4,septiembre,23,2020,,,BRICS Civil Forum,formal,BRICS,social,civil society,,virtual,rusia
+895,BRICS2020,4,octubre,1,2020,,,BRICS Film Festival,formal,BRICS,culture,movies,,virtual,rusia
+896,BRICS2020,4,octubre,5,2020,,,"International Research and Educational Program ""BRICS School""",formal,BRICS,education,schools,,virtual,rusia
+897,BRICS2020,4,octubre,10,2020,,,#TogetherBrighter International Energy Saving Festival,formal,BRICS,energy,energy efficiency,,virtual,rusia
+898,BRICS2020,4,octubre,15,2020,,,Presentation of BRICS Energy Research Cooperation Platform,formal,BRICS,energy,research cooperation,,virtual,rusia
+899,BRICS2020,4,octubre,16,2020,,,BRICS Youth Energy Summit,formal,BRICS,energy,youth,,virtual,rusia
+900,BRICS2020,4,octubre,19,2020,,,BRICS Friendship Cities and Local Government Cooperation Forum,formal,BRICS,government,local government,,virtual,rusia
+901,BRICS2020,4,octubre,21,2020,,,BRICS Young Diplomats Forum,formal,BRICS,foreign,youth,,virtual,rusia
+902,BRICS2020,4,octubre,20,2020,,,BRICS Business Forum (BRICS BF),formal,BRICS,economy,trade,business,virtual,rusia
+903,BRICS2020,4,octubre,20,2020,,,International BRICS Youth Business Incubator,formal,BRICS,industry,incubators,,virtual,rusia
+904,BRICS2020,4,octubre,22,2020,,,Meeting of BRICS Think Tanks Council (BTTC),formal,BRICS,social,think tank,,virtual,rusia
+905,BRICS2020,4,octubre,22,2020,,,BRICS Academic Forum,formal,BRICS,education,academia,,virtual,rusia
+906,BRICS2020,4,octubre,27,2020,,,BRICS Parliamentary Forum,formal,BRICS,government,legislative,,virtual,rusia
+907,BRICS2020,4,octubre,30,2020,,,9th BRICS Trade Union Forum,formal,BRICS,social,union,,virtual,rusia
+908,BRICS2020,4,noviembre,2,2020,,,Meeting of BRICS Women's Business Alliance (BRICS WBA),formal,BRICS,economy,trade,business,virtual,rusia
+909,BRICS2020,4,noviembre,,2020,,,BRICS Cultural Festival,formal,BRICS,culture,general,,virtual,rusia
+910,BRICS2020,4,noviembre,5,2020,,,2nd BRICS International Municipal Forum,formal,BRICS,government,local government,,virtual,rusia
+911,BRICS2020,4,noviembre,10,2020,,,Meeting of BRICS Business Council (BRICS BC),formal,BRICS,economy,trade,business,virtual,rusia
+912,BRICS2020,4,noviembre,9,2020,,,BRICS Future Skills Challenge,formal,BRICS,sti,skills,,virtual,rusia
+913,BRICS2020,4,noviembre,16,2020,,,BRICS Joint Financial Forum/Meeting of CEOs of BRICS Interbank Cooperation Mechanism (ICM),formal,BRICS,economy,finance,bank,virtual,rusia
+914,BRICS2020,3,noviembre,18,2020,,,VII BRICS Legal Forum,formal,BRICS,government,judicial,,virtual,rusia
+915,BRICS2020,3,noviembre,20,2020,,,BRICS Transport Senior Officials Meeting,formal,BRICS,infrastructure,transport,,virtual,rusia
+916,BRICS2020,2,diciembre,3,2020,,,Meeting of BRICS Ministers and Heads of Departments for Youth,formal,BRICS,social,youth,,virtual,rusia
+917,BRICS2020,4,noviembre,29,2020,,,BRICS Youth Summit,formal,BRICS,social,youth,,virtual,rusia
+918,BRICS2020,3,diciembre,8,2020,Moscú,Rusia,5th Meeting of BRICS Sherpas/Sous-Sherpas,formal,BRICS,organizational,sherpas,,presencial,rusia
+919,BRICS2020,3,diciembre,10,2020,,,BRICS Foreign Policy Planning Dialogue,formal,BRICS,foreign,policy-planning,,virtual,rusia
+920,BRICS2020,3,diciembre,16,2020,,,4th Meeting of Heads of BRICS Prosecution Services,formal,BRICS,government,judicial,,virtual,rusia
+921,BRICS2020,3,noviembre,,2020,,,Meeting of Heads of BRICS National Statistics Offices,formal,BRICS,government,statistics,,virtual,rusia
+922,BRICS2020,4,diciembre,,2020,Moscú,Rusia,BRICS International Festival of Theater School,formal,BRICS,culture,theater,,presencial,rusia
+923,BRICS2020,3,diciembre,,2020,,,"Meeting of BRICS Working Group on Biotechnology and Biomedicine, including Human Health and Neuroscience",formal,BRICS,health,biomedicine,,virtual,rusia
+924,BRICS2020,3,diciembre,,2020,,,4th Meeting of BRICS Working Group on Research Infrastructure and Mega-Science Projects,formal,BRICS,infrastructure,research cooperation,,virtual,rusia
+925,BRICS2020,3,noviembre,,2020,,,BRICS Technology Transfer Cooperation Conference and related activities,formal,BRICS,sti,technology,,virtual,rusia
+926,BRICS2020,3,diciembre,,2020,,,3rd Meeting of BRICS Academies of Science,formal,BRICS,education,academia,,virtual,rusia
+927,BRICS2020,3,diciembre,,2020,,,BRICS Seminar on Governance (organized by China),formal,BRICS,government,governance,,virtual,rusia
+928,BRICS2020,4,diciembre,,2020,,,BRICS Forum on People-to-People and Cultural Exchanges 2020 (organized by China),formal,BRICS,social,general,,virtual,rusia
+929,BRICS2021,1,septiembre,9,2021,,,13th BRICS Summit,formal,BRICS,organizational,summit,,virtual,india
+930,BRICS2021,3,febrero,24,2021,,,Meeting of BRICS Sherpas/Sous-Sherpas,formal,BRICS,organizational,sherpas,,virtual,india
+931,BRICS2021,3,mayo,26,2021,,,Meeting of BRICS Sherpas/Sous-Sherpas,formal,BRICS,organizational,sherpas,,virtual,india
+932,BRICS2021,3,septiembre,7,2021,,,Meeting of BRICS Sherpas/Sous-Sherpas,formal,BRICS,organizational,sherpas,,virtual,india
+933,BRICS2021,3,agosto,18,2021,,,Meeting of BRICS Sous-Sherpas,formal,BRICS,organizational,sous-sherpa,,virtual,india
+934,BRICS2021,2,abril,6,2021,,,BRICS Finance Ministers and Central Bank Governors (FMCBG),formal,BRICS,economy,finance,general,virtual,india
+935,BRICS2021,2,agosto,26,2021,,,BRICS Finance Ministers and Central Bank Governors (FMCBG),formal,BRICS,economy,finance,general,virtual,india
+936,BRICS2021,3,abril,30,2021,,,CRA Governing Council,formal,BRICS,economy,finance,cra,virtual,india
+937,BRICS2021,3,mayo,27,2021,,,Heads of BRICS Competition Agencies,formal,BRICS,economy,trade,competence,virtual,india
+938,BRICS2021,2,junio,1,2021,,,BRICS Ministers of Foreign Affairs/International Relations,formal,BRICS,foreign,general,,virtual,india
+939,BRICS2021,3,junio,24,2021,,,BRICS Heads of Anti-Drug Agencies,formal,BRICS,security-defense,drugs,,virtual,india
+940,BRICS2021,2,julio,2,2021,,,BRICS Culture Ministers,formal,BRICS,culture,general,,virtual,india
+941,BRICS2021,2,julio,6,2021,,,BRICS Education Ministers,formal,BRICS,education,general,,virtual,india
+942,BRICS2021,3,julio,8,2021,,,BRICS Heads of Customs Administrations,formal,BRICS,economy,trade,customs,virtual,india
+943,BRICS2021,2,julio,13,2021,,,BRICS Tourism Ministers,formal,BRICS,culture,tourism,,virtual,india
+944,BRICS2021,2,julio,15,2021,,,BRICS Labour and Employment Ministers,formal,BRICS,labour,general,,virtual,india
+945,BRICS2021,2,julio,28,2021,,,BRICS Health Ministers and High-Level Segment on Traditional Medicines,formal,BRICS,health,general,,virtual,india
+946,BRICS2021,2,agosto,18,2021,,,BRICS Industry Ministers,formal,BRICS,industry,general,,virtual,india
+947,BRICS2021,3,agosto,18,2021,,,BRICS Heads of the Space Agencies,formal,BRICS,sti,outer space,,virtual,india
+948,BRICS2021,2,agosto,24,2021,,,BRICS High-Ranking Officials Responsible for Security Matters/National Security Advisors,formal,BRICS,security-defense,general,,virtual,india
+949,BRICS2021,3,agosto,25,2021,,,Heads of Intellectual Property Offices (HIPO),formal,BRICS,sti,intellectual property,,virtual,india
+950,BRICS2021,2,agosto,27,2021,,,7th BRICS Ministers of Environment Meeting,formal,BRICS,environment,general,,virtual,india
+951,BRICS2021,2,agosto,27,2021,,,BRICS Agriculture Ministers,formal,BRICS,agriculture,general,,virtual,india
+952,BRICS2021,3,agosto,31,2021,,,BRICS Ministers/Heads of Agencies Responsible for Youth,formal,BRICS,social,youth,,virtual,india
+953,BRICS2021,2,septiembre,2,2021,,,BRICS Energy Ministers,formal,BRICS,energy,general,,virtual,india
+954,BRICS2021,2,septiembre,3,2021,,,BRICS Trade Ministers,formal,BRICS,economy,trade,general,virtual,india
+955,BRICS2021,3,septiembre,3,2021,,,BRICS Digital Health Summit,formal,BRICS,health,digital health,,virtual,india
+956,BRICS2021,3,enero,15,2021,,,BRICS Contingent Reserve Arrangement (CRA) Technical Group,formal,BRICS,economy,finance,cra,virtual,india
+957,BRICS2021,3,marzo,4,2021,,,BRICS Contingent Reserve Arrangement (CRA) Technical Group,formal,BRICS,economy,finance,cra,virtual,india
+958,BRICS2021,3,mayo,17,2021,,,BRICS Contingent Reserve Arrangement (CRA) Technical Group,formal,BRICS,economy,finance,cra,virtual,india
+959,BRICS2021,3,mayo,27,2021,,,BRICS Contingent Reserve Arrangement (CRA) Technical Group,formal,BRICS,economy,finance,cra,virtual,india
+960,BRICS2021,3,agosto,10,2021,,,BRICS Contingent Reserve Arrangement (CRA) Technical Group,formal,BRICS,economy,finance,cra,virtual,india
+961,BRICS2021,3,enero,20,2021,,,11th BRICS S&T Steering Committee,formal,BRICS,sti,general,,virtual,india
+962,BRICS2021,3,enero,29,2021,,,BRICS Rapid Information Security Channel (BRISC),formal,BRICS,security-defense,ict,,virtual,india
+963,BRICS2021,3,marzo,19,2021,,,BRICS Rapid Information Security Channel (BRISC),formal,BRICS,security-defense,ict,,virtual,india
+964,BRICS2021,3,mayo,21,2021,,,BRICS Rapid Information Security Channel (BRISC),formal,BRICS,security-defense,ict,,virtual,india
+965,BRICS2021,3,julio,15,2021,,,BRICS Rapid Information Security Channel (BRISC),formal,BRICS,security-defense,ict,,virtual,india
+966,BRICS2021,3,febrero,3,2021,,,BRICS Payments Task Force (BPTF),formal,BRICS,economy,finance,tax,virtual,india
+967,BRICS2021,3,mayo,24,2021,,,BRICS Payments Task Force (BPTF),formal,BRICS,economy,finance,tax,virtual,india
+968,BRICS2021,3,febrero,5,2021,,,Meeting of BRICS Contingent Reserve Arrangement (CRA) Research Group,formal,BRICS,economy,finance,cra,virtual,india
+969,BRICS2021,3,marzo,15,2021,,,Meeting of BRICS Contingent Reserve Arrangement (CRA) Research Group,formal,BRICS,economy,finance,cra,virtual,india
+970,BRICS2021,3,mayo,13,2021,,,Meeting of BRICS Contingent Reserve Arrangement (CRA) Research Group,formal,BRICS,economy,finance,cra,virtual,india
+971,BRICS2021,3,febrero,8,2021,,,BRICS Group on Digital Financial Inclusion,formal,BRICS,economy,finance,digital-financial-inclusion,virtual,india
+972,BRICS2021,3,marzo,18,2021,,,BRICS Group on Digital Financial Inclusion,formal,BRICS,economy,finance,digital-financial-inclusion,virtual,india
+973,BRICS2021,3,abril,20,2021,,,BRICS Group on Digital Financial Inclusion,formal,BRICS,economy,finance,digital-financial-inclusion,virtual,india
+974,BRICS2021,3,mayo,25,2021,,,BRICS Group on Digital Financial Inclusion,formal,BRICS,economy,finance,digital-financial-inclusion,virtual,india
+975,BRICS2021,3,febrero,24,2021,,,BRICS Finance and Central Bank Deputies,formal,BRICS,economy,finance,general,virtual,india
+976,BRICS2021,3,julio,27,2021,,,BRICS Finance and Central Bank Deputies,formal,BRICS,economy,finance,general,virtual,india
+977,BRICS2021,3,febrero,24,2021,,,Technical Group Meeting of BRICS National Statistical Offices (NSOs) on Joint Statistical Publication (JSP),formal,BRICS,government,statistics,,virtual,india
+978,BRICS2021,3,febrero,25,2021,,,BRICS Bond Fund Working Group,formal,BRICS,economy,finance,asset,virtual,india
+979,BRICS2021,3,mayo,12,2021,,,BRICS Bond Fund Working Group,formal,BRICS,economy,finance,asset,virtual,india
+980,BRICS2021,3,junio,21,2021,,,BRICS Bond Fund Working Group,formal,BRICS,economy,finance,asset,virtual,india
+981,BRICS2021,3,septiembre,9,2021,,,BRICS Bond Fund Working Group,formal,BRICS,economy,finance,asset,virtual,india
+982,BRICS2021,3,marzo,3,2021,,,BRICS Working Group on Research Infrastructure and Mega-Science projects,formal,BRICS,industry,research cooperation,,virtual,india
+983,BRICS2021,3,marzo,9,2021,,,26th BRICS Contact Group on Economic and Trade Issues (CGETI),formal,BRICS,economy,general,general,virtual,india
+984,BRICS2021,3,julio,12,2021,,,27th BRICS Contact Group on Economic and Trade Issues (CGETI),formal,BRICS,economy,general,general,virtual,india
+985,BRICS2021,3,agosto,31,2021,,,28th BRICS Contact Group on Economic and Trade Issues (CGETI),formal,BRICS,economy,general,general,virtual,india
+986,BRICS2021,3,marzo,10,2021,,,BRICS CRA System of Exchange in Macroeconomic Information (SEMI),formal,BRICS,economy,finance,economic-information,virtual,india
+987,BRICS2021,3,junio,18,2021,,,BRICS CRA System of Exchange in Macroeconomic Information (SEMI),formal,BRICS,economy,finance,economic-information,virtual,india
+988,BRICS2021,3,marzo,16,2021,,,BRICS Customs Experts,formal,BRICS,economy,trade,customs,virtual,india
+989,BRICS2021,3,junio,29,2021,,,BRICS Customs Experts,formal,BRICS,economy,trade,customs,virtual,india
+990,BRICS2021,3,agosto,16,2021,,,BRICS Customs Experts,formal,BRICS,economy,trade,customs,virtual,india
+991,BRICS2021,3,agosto,19,2021,,,BRICS Customs Experts,formal,BRICS,economy,trade,customs,virtual,india
+992,BRICS2021,3,marzo,16,2021,,,BRICS Deans of Diplomatic Academies,formal,BRICS,foreign,academia,,virtual,india
+993,BRICS2021,3,marzo,25,2021,,,BRICS Experts in Traditional Medicines,formal,BRICS,health,traditional-medicine,,virtual,india
+994,BRICS2021,3,marzo,26,2021,,,BRICS Anti-Corruption Working Group (ACWG),formal,BRICS,government,corruption,,virtual,india
+995,BRICS2021,3,julio,2,2021,,,BRICS Anti-Corruption Working Group (ACWG),formal,BRICS,government,corruption,,virtual,india
+996,BRICS2021,3,marzo,30,2021,,,BRICS Contingent Reserve Arrangement (CRA) Standing Committee,formal,BRICS,economy,finance,cra,virtual,india
+997,BRICS2021,3,abril,6,2021,,,Experts on BRICS Terms of Reference,formal,BRICS,organizational,sherpas,,virtual,india
+998,BRICS2021,3,abril,19,2021,,,Experts on BRICS Terms of Reference,formal,BRICS,organizational,sherpas,,virtual,india
+999,BRICS2021,3,julio,20,2021,,,Experts on BRICS Terms of Reference,formal,BRICS,organizational,sherpas,,virtual,india
+1000,BRICS2021,3,abril,9,2021,,,BRICS Task Force on PPP and Infrastructure,formal,BRICS,infrastructure,investments,,virtual,india
+1001,BRICS2021,3,agosto,10,2021,,,BRICS Task Force on PPP and Infrastructure,formal,BRICS,infrastructure,investments,,virtual,india
+1002,BRICS2021,3,abril,13,2021,,,BRICS Officials from Foreign Ministries and Space Agencies,formal,BRICS,foreign,general,,virtual,india
+1003,BRICS2021,3,abril,16,2021,,,BRICS Disaster Management Joint Task Force,formal,BRICS,disaster management,task-force,,virtual,india
+1004,BRICS2021,3,mayo,11,2021,,,BRICS Employment Working Group,formal,BRICS,labour,general,,virtual,india
+1005,BRICS2021,3,julio,8,2021,,,BRICS Employment Working Group,formal,BRICS,labour,general,,virtual,india
+1006,BRICS2021,3,mayo,12,2021,,,BRICS Energy Research Platform - Committee of Senior Energy Officials,formal,BRICS,energy,research cooperation,,virtual,india
+1007,BRICS2021,3,mayo,14,2021,,,BRICS TB Research Network,formal,BRICS,health,tuberculosis,,virtual,india
+1008,BRICS2021,3,mayo,17,2021,,,BRICS Special Envoys for Middle East and North Africa (MENA),formal,BRICS,security-defense,middle east,,virtual,india
+1009,BRICS2021,3,mayo,20,2021,,,BRICS Senior Energy Officials,formal,BRICS,energy,general,,virtual,india
+1010,BRICS2021,3,agosto,11,2021,,,BRICS Senior Energy Officials,formal,BRICS,energy,general,,virtual,india
+1011,BRICS2021,3,junio,22,2021,,,12th BRICS S&T Steering Committee,formal,BRICS,sti,general,,virtual,india
+1012,BRICS2021,3,julio,8,2021,,,12th BRICS S&T Steering Committee,formal,BRICS,sti,general,,virtual,india
+1013,BRICS2021,3,junio,24,2021,,,BRICS S&T Funding Parties,formal,BRICS,sti,investments,,virtual,india
+1014,BRICS2021,3,julio,1,2021,,,BRICS Senior Culture Officials,formal,BRICS,culture,general,,virtual,india
+1015,BRICS2021,3,julio,2,2021,,,BRICS Senior Officials on Education,formal,BRICS,education,general,,virtual,india
+1016,BRICS2021,3,julio,12,2021,,,BRICS Senior Officers of Tourism,formal,BRICS,culture,tourism,,virtual,india
+1017,BRICS2021,3,julio,13,2021,,,Energy Efficiency Working Group,formal,BRICS,energy,energy efficiency,,virtual,india
+1018,BRICS2021,3,julio,23,2021,,,BRICS 'Immunization & COVID-19 Vaccine',formal,BRICS,health,covid,,virtual,india
+1019,BRICS2021,3,julio,26,2021,,,BRICS Expert Group on Agriculture,formal,BRICS,agriculture,general,,virtual,india
+1020,BRICS2021,3,julio,26,2021,,,BRICS Counter Terrorism Working Group - Sub- Working Groups,formal,BRICS,security-defense,terrorism,,virtual,india
+1021,BRICS2021,3,julio,26,2021,,,BRICS Senior Officials on Health/Traditional Medicines,formal,BRICS,health,traditional-medicine,,virtual,india
+1022,BRICS2021,3,julio,27,2021,,,BRICS PartNIR Advisory Group,formal,BRICS,industry,investments,,virtual,india
+1023,BRICS2021,3,agosto,6,2021,,,BRICS PartNIR Advisory Group,formal,BRICS,industry,investments,,virtual,india
+1024,BRICS2021,3,julio,28,2021,,,BRICS Counter Terrorism Working Group,formal,BRICS,security-defense,terrorism,,virtual,india
+1025,BRICS2021,3,agosto,12,2021,,,BRICS Working Group on Security in the use of ICTs,formal,BRICS,security-defense,ict,,virtual,india
+1026,BRICS2021,3,agosto,12,2021,,,BRICS Working Group on Agriculture,formal,BRICS,agriculture,general,,virtual,india
+1027,BRICS2021,3,agosto,25,2021,,,BRICS Working Group on Telecommunication,formal,BRICS,communication,telecommunication,,virtual,india
+1028,BRICS2021,3,agosto,26,2021,,,BRICS Working Group on Environment,formal,BRICS,environment,general,,virtual,india
+1029,BRICS2021,4,marzo,30,2021,,,Meeting of BRICS Network University (BRICS NU) International Thematic Group (ITG),formal,BRICS,education,university,,virtual,india
+1030,BRICS2021,4,abril,13,2021,,,Seminar on Misuse of Internet for Terrorist Purposes and the Role of Digital Forensics in Terrorist Investigation,formal,BRICS,security-defense,ict,,virtual,india
+1031,BRICS2021,4,abril,13,2021,,,Launch of BRICS Academic Process,formal,BRICS,education,academia,,virtual,india
+1032,BRICS2021,4,abril,14,2021,,,BRICS Think Tank Council Meeting,formal,BRICS,social,think tank,,virtual,india
+1033,BRICS2021,4,abril,16,2021,,,BRICS Civil Forum Curtain Raiser,formal,BRICS,social,civil society,,virtual,india
+1034,BRICS2021,4,abril,22,2021,,,Seminar on Energy Storage Technologies,formal,BRICS,energy,technology,,virtual,india
+1035,BRICS2021,4,abril,27,2021,,,BRICS Academic Dialogue on Reformed Multilateralism,formal,BRICS,foreign,international-organizations,,virtual,india
+1036,BRICS2021,4,abril,29,2021,,,Workshop on Energy Efficiency and Clean Energy,formal,BRICS,energy,energy efficiency,,virtual,india
+1037,BRICS2021,4,mayo,11,2021,,,BRICS Academic Dialogue on Global Health,formal,BRICS,health,general,,virtual,india
+1038,BRICS2021,4,mayo,13,2021,,,Seminar on 'Social Infrastructure: Financing and Use of Digital Technologies',formal,BRICS,infrastructure,investments,,virtual,india
+1039,BRICS2021,3,mayo,19,2021,,,BRICS Working Group on Astronomy,formal,BRICS,sti,outer space,,virtual,india
+1040,BRICS2021,4,mayo,20,2021,,,BRICS Meeting of Fintech for Small and Medium Enterprises and Financial Inclusion,formal,BRICS,industry,sme,,virtual,india
+1041,BRICS2021,4,mayo,20,2021,,,BRICS Academic Dialogue on Sustainable Development Goals,formal,BRICS,environment,sustainable-development,,virtual,india
+1042,BRICS2021,3,mayo,25,2021,,,BRICS Working Group on Biotechnology and Biomedicine including Human Health and Neuroscience,formal,BRICS,health,biomedicine,,virtual,india
+1043,BRICS2021,3,mayo,27,2021,,,BRICS Working Group On ICTs and High-Performance Computing,formal,BRICS,sti,ict,,virtual,india
+1044,BRICS2021,4,mayo,28,2021,,,Webinar on Harmonization of Regulation of Standardization of Traditional Medicine products,formal,BRICS,health,traditional-medicine,,virtual,india
+1045,BRICS2021,4,junio,2,2021,,,BRICS Academic Dialogue on Future of Jobs and Work: Towards a women-led growth framework,formal,BRICS,labour,women,,virtual,india
+1046,BRICS2021,4,junio,15,2021,,,BRICS Academic Dialogue on International Security,formal,BRICS,security-defense,international-security,,virtual,india
+1047,BRICS2021,4,junio,16,2021,,,Virtual Conference of BRICS Network Universities,formal,BRICS,education,university,,virtual,india
+1048,BRICS2021,4,junio,22,2021,,,Seminar on Hydrogen Initiative- Green Hydrogen/ Hydrogen Fuel Cell/Green Ammonium/New Electrolysis Technology,formal,BRICS,energy,green-hydrogen,,virtual,india
+1049,BRICS2021,4,junio,24,2021,,,BRICS Academic Dialogue in Digital BRICS: A new framework for cooperation on technology and innovation,formal,BRICS,sti,technology,,virtual,india
+1050,BRICS2021,4,junio,29,2021,,,BRICS Network University International Governing Board,formal,BRICS,education,university,,virtual,india
+1051,BRICS2021,4,junio,30,2021,,,Symposium on 'The role of Traditional Medicine in public health interventions on COVID-19 in BRICS Countries',formal,BRICS,health,covid,,virtual,india
+1052,BRICS2021,4,julio,16,2021,,,BRICS Workshop on Trade in Services Statistics,formal,BRICS,economy,trade,statistics,virtual,india
+1053,BRICS2021,4,agosto,13,2021,,,BRICS Workshop on Trade in Services Statistics,formal,BRICS,economy,trade,statistics,virtual,india
+1054,BRICS2021,4,julio,19,2021,,,BRICS Economic Forum (BRICS Academic Dialogue),formal,BRICS,economy,general,economic-research,virtual,india
+1055,BRICS2021,4,julio,22,2021,,,BRICS MSME Roundtable,formal,BRICS,industry,sme,,virtual,india
+1056,BRICS2021,4,julio,27,2021,,,4th Meeting of the BRICS Working Group on Ocean and Polar Science and technology,formal,BRICS,environment,polar and ocean science,,virtual,india
+1057,BRICS2021,4,julio,28,2021,,,BRICS Civil Forum,formal,BRICS,social,civil society,,virtual,india
+1058,BRICS2021,4,julio,30,2021,,,BRICS Women Innovation Contest,formal,BRICS,sti,women,,virtual,india
+1059,BRICS2021,4,agosto,3,2021,,,Workshop on Digital Forensics for BRICS countries,formal,BRICS,government,judicial,,virtual,india
+1060,BRICS2021,4,agosto,3,2021,,,BRICS Think Tank Council Meeting,formal,BRICS,social,think tank,,virtual,india
+1061,BRICS2021,4,agosto,3,2021,,,BRICS Academic Forum,formal,BRICS,education,academia,,virtual,india
+1062,BRICS2021,4,agosto,5,2021,,,BRICS Smart Cities Workshop,formal,BRICS,government,local government,,virtual,india
+1063,BRICS2021,4,agosto,16,2021,,,BRICS Virtual Trade Fair,formal,BRICS,economy,trade,fair,virtual,india
+1064,BRICS2021,4,agosto,16,2021,,,BRICS Business Forum,formal,BRICS,economy,trade,business,virtual,india
+1065,BRICS2021,4,agosto,25,2021,,,BRICS Think Tank Council,formal,BRICS,social,think tank,,virtual,india
+1066,BRICS2021,4,agosto,26,2021,,,Seminar for BRICS Officials on Anti-Corruption,formal,BRICS,government,corruption,,virtual,india
+1067,BRICS2021,4,agosto,29,2021,,,BRICS Youth Summit,formal,BRICS,social,youth,,virtual,india
+1068,BRICS2021,4,agosto,31,2021,,,BRICS Business Council,formal,BRICS,economy,trade,business,virtual,india
+1069,BRICS2021,4,septiembre,2,2021,,,BRICS Women's Business Alliance,formal,BRICS,economy,trade,business,virtual,india
+1070,BRICS2021,4,septiembre,1,2021,,,BRICS Film Technology Symposium,formal,BRICS,culture,movies,,virtual,india
+1071,BRICS2021,4,septiembre,6,2021,,,Harmonization of Standards: Challenges and Opportunities for World Trade,formal,BRICS,economy,trade,quality-standarization,virtual,india
+1072,BRICS2021,4,septiembre,7,2021,,,BRICS Forum on Partnership on New Industrial Revolution,formal,BRICS,industry,general,,virtual,india
+1073,BRICS2021,4,septiembre,8,2021,,,BRICS Roundtable for Trade and Investment Promotion Agencies,formal,BRICS,economy,trade,promotion-agencies,virtual,india
+1074,BRICS2021,4,septiembre,8,2021,,,Meeting of CEOs of BRICS Interbank Cooperation Mechanism (ICM),formal,BRICS,economy,finance,bank,virtual,india
+1075,BRICS2021,4,septiembre,8,2021,,,BRICS Annual Financial Forum under the BRICS Interbank Cooperation Mechanism,formal,BRICS,economy,finance,bank,virtual,india
+1076,BRICS2021,2,,,2021,,,Meeting of the BRICS Ministers for Disaster Management,formal,BRICS,disaster management,general,,virtual,india
+1077,BRICS2021,2,,,2021,,,Meeting of BRICS Ministers of Telecommunication,formal,BRICS,communication,general,,virtual,india
+1078,BRICS2021,2,,,2021,,,Meeting of BRICS Water Ministers,formal,BRICS,environment,water,,virtual,india
+1079,BRICS2021,2,,,2021,,,Meeting of BRICS Sports Ministers,formal,BRICS,culture,sport,,virtual,india
+1080,BRICS2021,2,,,2021,,,BRICS Science and Technology Ministers,formal,BRICS,sti,general,,virtual,india
+1081,BRICS2021,2,,,2021,,,BRICS Meeting of Tax Heads,formal,BRICS,economy,finance,tax,virtual,india
+1082,BRICS2021,3,,,2021,,,2nd BRICS CRA Governing Council Meeting,formal,BRICS,economy,finance,cra,virtual,india
+1083,BRICS2021,4,,,2021,,,BRICS High-Level Forum on Traditional Medicines,formal,BRICS,health,traditional-medicine,,virtual,india
+1084,BRICS2021,3,,,2021,,,BRICS Heads of National Statistical Offices (NSOs),formal,BRICS,government,statistics,,virtual,india
+1085,BRICS2021,3,,,2021,,,VII BRICS International Competition Conference,formal,BRICS,economy,trade,competence,virtual,india
+1086,BRICS2021,3,,,2021,,,BRICS Parliamentarian Forum,formal,BRICS,government,legislative,,virtual,india
+1087,BRICS2021,3,,,2021,,,4th Meeting of BRICS Sherpas and Sous Sherpas,formal,BRICS,organizational,sherpas,,virtual,india
+1088,BRICS2021,4,,,2021,,,BRICS Young Scientists' Conclave,formal,BRICS,sti,youth,,virtual,india
+1089,BRICS2021,3,,,2021,,,4th Meeting of the Joint Task Force (JTF) on Disaster Management,formal,BRICS,disaster management,task-force,,virtual,india
+1090,BRICS2021,4,,,2021,,,BRICS Meeting of Tax Experts,formal,BRICS,economy,finance,tax,virtual,india
+1091,BRICS2021,3,,,2021,,,BRICS Working Group on STIEP,formal,BRICS,sti,cooperation,,virtual,india
+1092,BRICS2021,3,,,2021,,,Workshop on Capacity Building for BRICS Customs Officials,formal,BRICS,economy,trade,capacity-building,virtual,india
+1093,BRICS2021,3,,,2021,,,Meeting of the BRICS Working Group on Geospatial Technologies and its Application,formal,BRICS,sti,outer space,,virtual,india
+1094,BRICS2021,4,,,2021,,,BRICS International Youth Camp,formal,BRICS,social,youth,,virtual,india
+1095,BRICS2021,3,,,2021,,,BRICS International Municipal Forum,formal,BRICS,government,local government,,virtual,india
+1096,BRICS2021,4,,,2021,,,BRICS Young Diplomats' Forum,formal,BRICS,foreign,youth,,virtual,india
+1097,BRICS2021,3,,,2021,,,Meeting of Working Group on Telecommunication,formal,BRICS,communication,telecommunication,,virtual,india
+1098,BRICS2021,3,,,2021,,,Meeting of the BRICS Working Group on Materials Science and Nanotechnology,formal,BRICS,sti,technology,,virtual,india
+1099,BRICS2021,3,,,2021,,,BRICS Foreign Policy Dialogue,formal,BRICS,foreign,policy-planning,,virtual,india
+1100,BRICS2021,4,,,2021,,,BRICS Urbanisation Forum,formal,BRICS,social,urbanism,,virtual,india
+1101,BRICS2021,3,,,2021,,,Meeting of BRICS STI Funding Working Group,formal,BRICS,sti,investments,,virtual,india
+1102,BRICS2021,4,,,2021,,,BRICS Water Forum,formal,BRICS,environment,water,,virtual,india
+1103,BRICS2021,4,,,2021,,,BRICS Film Festival Curtain Raiser,formal,BRICS,culture,movies,,virtual,india
+1104,BRICS2021,4,,,2021,,,BRICS Film Festival,formal,BRICS,culture,movies,,virtual,india
+1105,BRICS2021,3,,,2021,,,"Meeting of BRICS Senior Officials on Science, Technology, and Innovation",formal,BRICS,sti,general,,virtual,india
+1106,BRICS2021,4,,,2021,,,BRICS Friendship Cities and Local Government Cooperation Forum,formal,BRICS,government,local government,,virtual,india
+1107,BRICS2021,3,,,2021,,,CRA Standing Committee Meetings,formal,BRICS,economy,finance,cra,virtual,india
+1108,BRICS2021,4,,,2021,,,BRICS Fusion Week,formal,BRICS,sti,physics,,virtual,india
+1109,BRICS2021,4,,,2021,,,BRICS Technology Transfer Network Cooperation Conference and related activities,formal,BRICS,sti,technology,,virtual,india
+1110,BRICS2021,4,,,2021,,,BRICS Technology Transfer and Innovation Cooperation Forum,formal,BRICS,sti,technology,,virtual,india
+1111,BRICS2021,4,,,2021,,,BRICS Science Popularizers Forum,formal,BRICS,sti,promotion,,virtual,india
+1112,BRICS2021,4,,,2021,,,BRICS Workshop on Business Incubation,formal,BRICS,industry,incubators,,virtual,india
+1113,BRICS2021,3,,,2021,,,Meeting of the BRICS Working Group on Research Infrastructures and Mega- Science projects,formal,BRICS,infrastructure,research cooperation,,virtual,india
+1114,BRICS2021,4,,,2021,,,BRICS STI Call: Flagship Programme 2021,formal,BRICS,sti,cooperation,,virtual,india
+1115,BRICS2021,4,,,2021,,,BRICS Water Forum (STI event),formal,BRICS,environment,water,,virtual,india
+1116,BRICS2021,4,,,2021,,,BRICS Conference on Technology Foresight and STI Policy,formal,BRICS,sti,general,,virtual,india
+1117,BRICS2021,3,,,2021,,,Joint operation under BRICS Customs Joint Enforcement Network (JEN),formal,BRICS,economy,trade,customs,virtual,india
+1118,BRICS2021,3,,,2021,,,3rd BRICS CRA SEMI Meeting,formal,BRICS,economy,finance,cra,virtual,india
+1119,BRICS2021,3,,,2021,,,4th BRICS CRA SEMI Meeting,formal,BRICS,economy,finance,cra,virtual,india
+1120,BRICS2021,3,,,2021,,,3rd BRICS Payments Task Force (BPTF) Meeting,formal,BRICS,economy,finance,tax,virtual,india
+1121,BRICS2021,3,,,2021,,,4th BRICS Payments Task Force (BPTF) Meeting,formal,BRICS,economy,finance,tax,virtual,india
+1122,BRICS2021,3,,,2021,,,6th BRICS CRA Technical Group Meeting,formal,BRICS,economy,finance,cra,virtual,india
+1123,BRICS2021,3,,,2021,,,7th BRICS CRA Technical Group Meeting,formal,BRICS,economy,finance,cra,virtual,india
+1124,BRICS2021,3,,,2021,,,BRICS Central Banks Workstream Seminar,formal,BRICS,economy,finance,bank,virtual,india
+1125,BRICS2021,3,,,2021,,,BRICS Bond Fund Working Group Meeting,formal,BRICS,economy,finance,asset,virtual,india
+1126,BRICS2022,1,junio,23,2022,Beijing,China,14th BRICS Summit Beijing Declaration,formal,BRICS,organizational,summit,,virtual,china
+1127,BRICS2022,2,,,2022,,,Meeting of Ministers of Foreign Affairs/International Relations,formal,BRICS,foreign,general,,virtual,china
+1128,BRICS2022,2,,,2022,New York,EEUU,Meeting of Ministers of Foreign Affairs/International Relations,informal,ONU,foreign,general,,virtual,china
+1129,BRICS2022,2,,,2022,,,Meeting of National Security Advisers/ High Representatives,formal,BRICS,security-defense,general,,virtual,china
+1130,BRICS2022,3,enero,18,2022,,,1st Sherpas’ Meeting,formal,BRICS,organizational,sherpas,,virtual,china
+1131,BRICS2022,3,abril,12,2022,,,2nd Sherpas’ Meeting,formal,BRICS,organizational,sherpas,,virtual,china
+1132,BRICS2022,3,junio,,2022,,,3rd Sherpas’ Meeting,formal,BRICS,organizational,sherpas,,virtual,china
+1133,BRICS2022,3,octubre,,2022,,,4th Sherpas’ Meeting,formal,BRICS,organizational,sherpas,,no data,china
+1134,BRICS2022,3,diciembre,,2022,,,5th Sherpas’ Meeting,formal,BRICS,organizational,sherpas,,no data,china
+1135,BRICS2022,3,febrero,25,2022,,,1st Finance and Central Bank Deputies Meeting,formal,BRICS,economy,finance,bank,virtual,china
+1136,BRICS2022,3,abril,,2022,,,The Opening Ceremony of the New Development Bank Headquarters Building and Ceremony of New Members Joining the New Development Bank,formal,BRICS,economy,finance,ndb,hybrid,china
+1137,BRICS2022,2,abril,8,2022,,,1st Finance Ministers and Central Bank Governors Meeting,formal,BRICS,economy,finance,general,virtual,china
+1138,BRICS2022,3,,,2022,,,CRA Standing Committee Meeting,formal,BRICS,economy,finance,cra,virtual,china
+1139,BRICS2022,3,abril,,2022,,,High-level Meeting on Climate Change,formal,BRICS,energy,climate-change,,virtual,china
+1140,BRICS2022,2,mayo,10,2022,,,Health Ministers Meeting,formal,BRICS,health,general,,virtual,china
+1141,BRICS2022,2,mayo,20,2022,,,8th Environment Ministers meeting,formal,BRICS,environment,general,,virtual,china
+1142,BRICS2022,2,mayo,23,2022,,,6th Industry Ministers Meeting,formal,BRICS,industry,general,,virtual,china
+1143,BRICS2022,2,mayo,24,2022,,,7th Meeting of Ministers of Culture,formal,BRICS,culture,general,,virtual,china
+1144,BRICS2022,3,mayo,25,2022,,,1st Meeting of Joint Committee on Space Cooperation,formal,BRICS,sti,outer space,,virtual,china
+1145,BRICS2022,2,mayo,26,2022,,,9th Education Ministers Meeting,formal,BRICS,education,general,,virtual,china
+1146,BRICS2022,3,mayo,,2022,,,Meeting of Deputy Ministers/Special Envoys on the Middle East and North Africa,formal,BRICS,security-defense,middle east,,virtual,china
+1147,BRICS2022,3,mayo,30,2022,,,High level Forum on Sustainable development,formal,BRICS,environment,sustainable-development,,hybrid,china
+1148,BRICS2022,2,mayo,,2022,,,12th Meeting of Agriculture meeting,formal,BRICS,agriculture,general,,virtual,china
+1149,BRICS2022,3,junio,,2022,,,Heads of Customs Administrations meeting,formal,BRICS,economy,trade,customs,virtual,china
+1150,BRICS2022,2,junio,9,2022,,,12th Trade Ministers’ Meeting,formal,BRICS,economy,trade,general,virtual,china
+1151,BRICS2022,2,junio,,2022,,,2nd Finance Ministers and Central Bank Governors Meeting,formal,BRICS,economy,finance,general,virtual,china
+1152,BRICS2022,3,junio,,2022,,,CRA Governing Council Meeting,formal,BRICS,economy,finance,cra,virtual,china
+1153,BRICS2022,2,julio,6,2022,,,8th Communications Ministers’ meeting,formal,BRICS,communication,general,,virtual,china
+1154,BRICS2022,3,julio,,2022,,,Anti-Corruption Ministerial meeting,formal,BRICS,government,corruption,,virtual,china
+1155,BRICS2022,2,julio,,2022,,,Labor and Employment Ministers’ meeting,formal,BRICS,labour,general,,hybrid,china
+1156,BRICS2022,3,agosto,,2022,,,Meeting of the Heads of Competition Authorities,formal,BRICS,economy,trade,competence,hybrid,china
+1157,BRICS2022,3,agosto,,2022,,,Working Meeting between Heads of National Standardization Body,formal,BRICS,economy,trade,quality-standarization,hybrid,china
+1158,BRICS2022,2,septiembre,,2022,,,VIII Youth Summit and Meeting of Ministers and Heads of Agencies Responsible for Youth,formal,BRICS,social,youth,,hybrid,china
+1159,BRICS2022,2,septiembre,20,2022,,,Meeting of Ministers of Tourism,formal,BRICS,culture,tourism,,virtual,china
+1160,BRICS2022,2,septiembre,22,2022,,,7th Energy Ministers Meeting,formal,BRICS,energy,general,,virtual,china
+1161,BRICS2022,2,septiembre,23,2022,,,3rd Meeting of Ministers for Disaster Management,formal,BRICS,disaster management,general,,virtual,china
+1162,BRICS2022,3,septiembre,,2022,,,14th Heads of Intellectual Property Offices Meeting,formal,BRICS,sti,intellectual property,,virtual,china
+1163,BRICS2022,2,septiembre,,2022,,,10th STI Ministerial Meeting,formal,BRICS,sti,general,,virtual,china
+1164,BRICS2022,3,octubre,,2022,,,3rd Meeting of the Heads of Supreme Audit Institutions,formal,BRICS,government,audit,,hybrid,china
+1165,BRICS2022,3,octubre,,2022,,,2nd Finance and Central Bank deputies meeting,formal,BRICS,economy,finance,bank,virtual,china
+1166,BRICS2022,3,octubre,,2022,,,14th Meeting of the Heads of National Statistical Offices,formal,BRICS,government,statistics,,virtual,china
+1167,BRICS2022,3,noviembre,,2022,,,Meeting of the Heads of Tax authorities,formal,BRICS,economy,finance,tax,virtual,china
+1168,BRICS2022,2,,,2022,,,Sports Ministers Meeting,formal,BRICS,culture,sport,,virtual,china
+1169,BRICS2022,3,,,2022,,,Drug Regulatory Authorities meeting,formal,BRICS,security-defense,drugs,,hybrid,china
+1170,BRICS2022,3,febrero,11,2022,,,1st CRA Technical Group Meeting,formal,BRICS,economy,finance,cra,virtual,china
+1171,BRICS2022,3,febrero,21,2022,,,1st Working Group Meeting of BRICS Remote Sensing Satellite Constellation,formal,BRICS,sti,outer space,,virtual,china
+1172,BRICS2022,3,febrero,24,2022,,,1st Contact Group on Economic and Trade Issues (CGETI) Meeting,formal,BRICS,economy,general,general,virtual,china
+1173,BRICS2022,3,febrero,24,2022,,,1st BBF Financial Markets Working Group Meeting,formal,BRICS,economy,finance,asset,virtual,china
+1174,BRICS2022,3,marzo,3,2022,,,Customs Experts Meeting,formal,BRICS,economy,trade,customs,virtual,china
+1175,BRICS2022,3,marzo,10,2022,,,1st Meeting of Industry Expert Group,formal,BRICS,industry,general,,virtual,china
+1176,BRICS2022,3,marzo,22,2022,,,Launching Ceremony of BRICS Vaccine Research and Development Centre and Workshop on Vaccine Cooperation,formal,BRICS,health,vaccine,,virtual,china
+1177,BRICS2022,3,marzo,22,2022,,,1st Anti-Corruption Working Group meeting,formal,BRICS,government,corruption,,virtual,china
+1178,BRICS2022,3,,,2022,,,2nd BBF Financial Markets Working Group Meeting,formal,BRICS,economy,finance,asset,virtual,china
+1179,BRICS2022,3,,,2022,,,1st Meeting of Committee of Senior Energy Officials,formal,BRICS,energy,general,,virtual,china
+1180,BRICS2022,3,,,2022,,,Dialogue on Digital Economy,formal,BRICS,economy,general,digital-economy,virtual,china
+1181,BRICS2022,3,abril,,2022,,,Meeting of the Anti-Drug Working group,formal,BRICS,security-defense,drugs,,virtual,china
+1182,BRICS2022,3,abril,1,2022,,,2nd CRA Technical Group Meeting,formal,BRICS,economy,finance,cra,virtual,china
+1183,BRICS2022,3,abril,,2022,,,3rd BBF Financial Markets Working Group Meeting,formal,BRICS,economy,finance,asset,virtual,china
+1184,BRICS2022,3,abril,12,2022,,,2nd CGETI Meeting,formal,BRICS,economy,general,general,virtual,china
+1185,BRICS2022,3,abril,,2022,,,1st Employment Working Group meeting,formal,BRICS,labour,general,,virtual,china
+1186,BRICS2022,3,abril,,2022,,,1st Meeting of Task Force on PPP and Infrastructure,formal,BRICS,infrastructure,investments,,virtual,china
+1187,BRICS2022,3,abril,19,2022,,,7th Counter Terrorism Working Group Plenary and Its Subgroup Meetings,formal,BRICS,security-defense,terrorism,,virtual,china
+1188,BRICS2022,3,abril,26,2022,,,8th Meeting of Working Group on Security in the Use of ICTs,formal,BRICS,security-defense,ict,,virtual,china
+1189,BRICS2022,3,,,2022,,,12th Meeting of the Working Group on agriculture,formal,BRICS,agriculture,general,,virtual,china
+1190,BRICS2022,3,abril,25,2022,,,1st Meeting of Working Group on ICTs Cooperation,formal,BRICS,sti,ict,,virtual,china
+1191,BRICS2022,3,abril,25,2022,,,1st Meeting of BRICS Institute of Future Networks (BIFN) Council,formal,BRICS,sti,ict,,virtual,china
+1192,BRICS2022,3,abril,25,2022,,,1st Meeting of Digital BRICS Task Force,formal,BRICS,sti,ict,,virtual,china
+1193,BRICS2022,4,abril,26,2022,,,Forum on Big Data for Sustainable development,formal,BRICS,environment,sustainable-development,,hybrid,china
+1194,BRICS2022,3,abril,28,2022,,,2nd Meeting of PartNIR Advisory group,formal,BRICS,industry,investments,,virtual,china
+1195,BRICS2022,3,abril,29,2022,,,4th Meeting of Joint Task Force on disaster management,formal,BRICS,disaster management,task-force,,virtual,china
+1196,BRICS2022,3,abril,27,2022,,,BRICS TVET Alliance Conference,formal,BRICS,education,vocational-education,,hybrid,china
+1197,BRICS2022,3,marzo,,2022,,,Preparatory Meeting in DG level for High-Level Meeting on Climate Change,formal,BRICS,environment,climate-change,,virtual,china
+1198,BRICS2022,3,mayo,,2022,,,Foreign Ministry Spokespersons’ consultation,formal,BRICS,foreign,general,,virtual,china
+1199,BRICS2022,3,mayo,,2022,,,3rd CRA Technical Group Meeting,formal,BRICS,economy,finance,cra,virtual,china
+1200,BRICS2022,3,mayo,,2022,,,4th BBF Financial Markets Working Group Meeting,formal,BRICS,economy,finance,asset,virtual,china
+1201,BRICS2022,3,mayo,,2022,,,1st BRICS Payment Task Force (BPTF) Meeting,formal,BRICS,economy,finance,tax,virtual,china
+1202,BRICS2022,3,mayo,,2022,,,2nd Meeting of Task Force on PPP and infraestructure,formal,BRICS,infrastructure,investments,,virtual,china
+1203,BRICS2022,3,mayo,,2022,,,The Senior Officials Meeting of the 9th Education Ministers Meeting,formal,BRICS,education,general,,virtual,china
+1204,BRICS2022,3,mayo,,2022,,,Workshop on Anti-Corruption and Economic Development,formal,BRICS,government,corruption,,virtual,china
+1205,BRICS2022,3,mayo,6,2022,,,Senior Officials Meeting on Health,formal,BRICS,health,general,,virtual,china
+1206,BRICS2022,3,mayo,11,2022,,,Traditional Medicine High-Level forum,formal,BRICS,health,traditional-medicine,,hybrid,china
+1207,BRICS2022,3,mayo,13,2022,,,3rd Meeting of Industry Expert Group,formal,BRICS,industry,general,,virtual,china
+1208,BRICS2022,3,mayo,13,2022,,,3rd Meeting of PartNIR Advisory Group,formal,BRICS,industry,investments,,virtual,china
+1209,BRICS2022,4,mayo,23,2022,,,Forum on Development of Industrial Internet and Digital Manufacturing,formal,BRICS,industry,internet,,hybrid,china
+1210,BRICS2022,3,mayo,24,2022,,,Culture Senior Officials’ Meeting,formal,BRICS,culture,general,,virtual,china
+1211,BRICS2022,3,mayo,,2022,,,Symposium on Rural Development and Poverty Alleviation,formal,BRICS,social,rural-development,,hybrid,china
+1212,BRICS2022,3,mayo,,2022,,,7th Joint Working Group on environment meeting,formal,BRICS,environment,general,,virtual,china
+1213,BRICS2022,3,mayo,,2022,,,3rd CGETI Meeting,formal,BRICS,economy,general,general,virtual,china
+1214,BRICS2022,3,junio,,2022,,,11th TB Research Network Meeting,formal,BRICS,health,tuberculosis,,virtual,china
+1215,BRICS2022,3,junio,2,2022,,,2nd Meeting of Working Group on ICTs Cooperation,formal,BRICS,sti,ict,,virtual,china
+1216,BRICS2022,3,junio,2,2022,,,2nd Meeting of Digital BRICS Task Force,formal,BRICS,sti,ict,,virtual,china
+1217,BRICS2022,3,junio,2,2022,,,2nd Meeting of BIFN Council,formal,BRICS,sti,ict,,virtual,china
+1218,BRICS2022,3,junio,23,2022,,,2nd Meeting of Committee of Senior Energy Officials,formal,BRICS,energy,general,,virtual,china
+1219,BRICS2022,3,junio,23,2022,,,3rd Meeting of Working Group on ICTs Cooperation,formal,BRICS,sti,ict,,virtual,china
+1220,BRICS2022,3,junio,23,2022,,,3rd Meeting of Digital BRICS Task Force,formal,BRICS,sti,ict,,virtual,china
+1221,BRICS2022,3,junio,23,2022,,,3rd Meeting of BIFN Council,formal,BRICS,sti,ict,,virtual,china
+1222,BRICS2022,4,julio,4,2022,,,Forum on Future Networks innovation,formal,BRICS,sti,cooperation,,hybrid,china
+1223,BRICS2022,3,julio,6,2022,,,Digital BRICS Forum meeting,formal,BRICS,sti,technology,,hybrid,china
+1224,BRICS2022,3,julio,,2022,,,2nd Employment Working Group meeting,formal,BRICS,labour,general,,no data,china
+1225,BRICS2022,3,julio,,2022,,,2nd Anti-Corruption Working group meeting,formal,BRICS,government,corruption,,virtual,china
+1226,BRICS2022,3,julio,26,2022,,,Expert Level Workshop on Disaster management,formal,BRICS,disaster management,general,,virtual,china
+1227,BRICS2022,3,julio,27,2022,,,Urban Search and Rescue simulation exercise,formal,BRICS,disaster management,urban-search,,virtual,china
+1228,BRICS2022,3,julio,,2022,,,IP Coordination Group Meeting,formal,BRICS,sti,intellectual property,,virtual,china
+1229,BRICS2022,3,julio,,2022,,,2nd BPTF Meeting,formal,BRICS,economy,finance,tax,virtual,china
+1230,BRICS2022,3,julio,,2022,,,System of Exchange in Macroeconomic Information (SEMI) Meeting,formal,BRICS,economy,finance,economic-information,virtual,china
+1231,BRICS2022,3,agosto,17,2022,,,3rd Meeting of Committee of Senior Energy Officials,formal,BRICS,energy,general,,virtual,china
+1232,BRICS2022,4,septiembre,6,2022,,,Forum on PartNIR,formal,BRICS,industry,investments,,hybrid,china
+1233,BRICS2020,3,agosto,17,2020,,,Meeting of PartNIR Advisory Group,formal,BRICS,industry,investments,,virtual,rusia
+1234,BRICS2022,3,marzo,10,2022,,,1st Meeting of PartNIR Advisory Group,formal,BRICS,industry,investments,,virtual,china
+1235,BRICS2022,3,septiembre,20,2022,,,Tourism Senior Officials’ Meeting,formal,BRICS,culture,tourism,,virtual,china
+1236,BRICS2022,3,septiembre,,2022,,,3rd Anti-Corruption Working Group meeting,formal,BRICS,government,corruption,,virtual,china
+1237,BRICS2022,3,septiembre,,2022,,,4th CRA Technical Group Meeting,formal,BRICS,economy,finance,cra,virtual,china
+1238,BRICS2022,3,septiembre,,2022,,,5th BBF Financial Markets Working Group Meeting,formal,BRICS,economy,finance,asset,virtual,china
+1239,BRICS2022,3,septiembre,,2022,,,3rd BPTF Meeting,formal,BRICS,economy,finance,tax,virtual,china
+1240,BRICS2022,3,octubre,,2022,,,Meeting of Tax Experts,formal,BRICS,economy,finance,tax,virtual,china
+1241,BRICS2022,4,noviembre,,2022,,,Forum on Application of BRICS Remote Sensing Satellite Constellation,formal,BRICS,sti,outer space,,hybrid,china
+1242,BRICS2022,3,noviembre,,2022,,,2nd Working Group Meeting of BRICS Remote Sensing Satellite Constellation,formal,BRICS,sti,outer space,,hybrid,china
+1243,BRICS2022,3,diciembre,,2022,,,5th CRA Technical Group Meeting,formal,BRICS,economy,finance,cra,virtual,china
+1244,BRICS2022,3,diciembre,,2022,,,6th BBF Financial Markets Working Group Meeting,formal,BRICS,economy,finance,asset,virtual,china
+1245,BRICS2022,3,diciembre,,2022,,,7th Foreign Policy Planning dialogue,formal,BRICS,foreign,policy-planning,,presencial,china
+1246,BRICS2022,3,diciembre,,2022,,,12th TB Research Network Meeting,formal,BRICS,health,tuberculosis,,no data,china
+1247,BRICS2022,3,,,2022,New York,EEUU,Informal Meeting of Legal Advisers of Foreign Ministries,informal,ONU,foreign,general,,presencial,china
+1248,BRICS2022,3,,,2022,,,BRICS Rapid Information Security Channel (BRISC) Meeting,formal,BRICS,security-defense,ict,,no data,china
+1249,BRICS2022,3,,,2022,,,CRA Research Meeting,formal,BRICS,economy,finance,cra,virtual,china
+1250,BRICS2022,3,,,2022,,,12th STI Senior Officials’ Meeting,formal,BRICS,sti,general,,no data,china
+1251,BRICS2022,3,,,2022,,,STI Steering Committee Meeting,formal,BRICS,sti,general,,no data,china
+1252,BRICS2022,3,,,2022,,,8th Meeting STI Funding WG,formal,BRICS,sti,investments,,no data,china
+1253,BRICS2022,3,,,2022,,,6th STIEP Working Group Meeting,formal,BRICS,sti,general,,no data,china
+1254,BRICS2022,3,,,2022,,,8th Working Group on Astronomy,formal,BRICS,sti,outer space,,no data,china
+1255,BRICS2022,3,,,2022,,,9th Meeting of the Solid State Lighting (SSL) Sub-Working Group,formal,BRICS,sti,technology,,no data,china
+1256,BRICS2022,3,,,2022,,,4th Meeting of the Working Group on Photonics,formal,BRICS,sti,physics,,no data,china
+1257,BRICS2022,3,,,2022,,,4th Meeting of the Working Group on Research Infrastructures and Mega-Science projects,formal,BRICS,infrastructure,research cooperation,,no data,china
+1258,BRICS2022,3,,,2022,,,Meeting of Working Group on New and Renewable Energy and Energy Efficiency (STI Meeting),formal,BRICS,energy,energy efficiency,,no data,china
+1259,BRICS2022,3,,,2022,,,Working Group Meeting on Biotechnology and Biomedicine,formal,BRICS,health,biomedicine,,no data,china
+1260,BRICS2022,3,,,2022,,,Working Group HPC & ICT,formal,BRICS,sti,ict,,no data,china
+1261,BRICS2022,3,,,2022,,,Materials Science and Nanotechnology Working Group meeting,formal,BRICS,sti,technology,,no data,china
+1262,BRICS2022,3,,,2022,,,Working Group meeting on Ocean and Polar Science,formal,BRICS,environment,polar and ocean science,,no data,china
+1263,BRICS2022,4,abril,,2022,,,Women Business Alliance Annual Meeting,formal,BRICS,economy,trade,business,hybrid,china
+1264,BRICS2022,4,mayo,,2022,,,1st Business Council Meeting,formal,BRICS,economy,trade,business,virtual,china
+1265,BRICS2022,4,,,2022,,,2nd Business Council Meeting,formal,BRICS,economy,trade,business,virtual,china
+1266,BRICS2022,4,mayo,,2022,,,Women Innovation Contest,formal,BRICS,sti,innovation,,hybrid,china
+1267,BRICS2022,4,junio,,2022,,,Business Forum,formal,BRICS,economy,trade,business,hybrid,china
+1268,BRICS2022,4,marzo,,2022,,,1st Think Tanks Council Meeting,formal,BRICS,social,think tank,,virtual,china
+1269,BRICS2022,4,marzo,29,2022,,,Seminar on Strengthening Counter-Terrorism Capacity Building in Developing Countries,formal,BRICS,security-defense,terrorism,,virtual,china
+1270,BRICS2022,4,marzo,,2022,,,Seminar Seires of People’s Forum,formal,BRICS,social,population,,virtual,china
+1271,BRICS2022,4,marzo,,2022,,,BRICS Proceedings,formal,BRICS,organizational,general,,no data,china
+1272,BRICS2022,4,marzo,,2022,,,Industrial Innovation Contest,formal,BRICS,industry,innovation,,hybrid,china
+1273,BRICS2022,4,marzo,,2022,,,TVET Skills Competition,formal,BRICS,education,vocational-education,,hybrid,china
+1274,BRICS2022,4,abril,25,2022,,,1st Think Tanks Symposium,formal,BRICS,social,think tank,,virtual,china
+1275,BRICS2022,4,,,2022,,,Workshop on Customs Enforcement cooperation,formal,BRICS,economy,trade,customs,virtual,china
+1276,BRICS2022,4,abril,19,2022,,,Seminar on Targeted Financial Sanctions Related to Terrorism and Terrorist Financing,formal,BRICS,security-defense,terrorism,,virtual,china
+1277,BRICS2022,4,abril,,2022,,,Workshop on Green Technology,formal,BRICS,energy,energy efficiency,,virtual,china
+1278,BRICS2022,4,abril,,2022,,,BRICS Speech/Essay Contest,formal,BRICS,culture,contest,,virtual,china
+1279,BRICS2022,4,abril,,2022,,,“Buy BRICS” On-line Promotion,formal,BRICS,economy,trade,e-commerce,virtual,china
+1280,BRICS2022,4,abril,,2022,,,Network University Annual meeting,formal,BRICS,education,university,,hybrid,china
+1281,BRICS2022,4,mayo,6,2022,,,2nd Think Tanks Symposium,formal,BRICS,social,think tank,,virtual,china
+1282,BRICS2022,4,,,2022,,,Urbanization Forum,formal,BRICS,social,urbanism,,virtual,china
+1283,BRICS2022,4,mayo,19,2022,,,"Political Parties, Think-tanks and Civil Society Organizations Forum",formal,BRICS,social,political parties,,hybrid,china
+1284,BRICS2022,4,junio,,2022,Shanghai,China,2nd Think Tanks Council Meeting,formal,BRICS,culture,movies,,presencial,china
+1285,BRICS2022,4,junio,,2022,,,Annual Meeting and Financial Forum of Interbank Cooperation Mechanism,formal,BRICS,economy,finance,bank,virtual,china
+1286,BRICS2022,4,julio,8,2022,,,5th Media Forum and 6th Presidium Meeting of the Media Forum,formal,BRICS,communication,media,,hybrid,china
+1287,BRICS2022,4,julio,,2022,,,Network of Labour Research Institute Seminar,formal,BRICS,labour,general,,no data,china
+1288,BRICS2022,4,julio,,2022,,,SAIs Seminar on Sustainable Agriculture and Food Security,formal,BRICS,agriculture,food security,,virtual,china
+1289,BRICS2022,4,julio,,2022,,,3rd Think Tanks Symposium,formal,BRICS,social,think tank,,virtual,china
+1290,BRICS2022,4,septiembre,5,2022,,,Workshop on Customs Strategy and Capacity Building,formal,BRICS,economy,trade,customs,virtual,china
+1291,BRICS2022,4,septiembre,,2022,,,4th Think Tanks Symposium,formal,BRICS,social,think tank,,virtual,china
+1292,BRICS2022,4,septiembre,22,2022,,,Youth Energy Summit,formal,BRICS,energy,youth,,virtual,china
+1293,BRICS2022,4,septiembre,,2022,,,Justices Forum,formal,BRICS,government,judicial,,hybrid,china
+1294,BRICS2022,4,septiembre,,2022,,,forum on BRICS Trade in Services cooperation,formal,BRICS,economy,trade,cooperation,hybrid,china
+1295,BRICS2022,4,septiembre,,2022,,,Forum on Green Investment in BRICS,formal,BRICS,energy,green-investment,,virtual,china
+1296,BRICS2022,4,septiembre,,2022,,,Friendship Cities and Local Governments Cooperation Forum,formal,BRICS,government,local government,,hybrid,china
+1297,BRICS2022,4,octubre,,2022,,,Seminar on Governance,formal,BRICS,government,general,,hybrid,china
+1298,BRICS2022,4,octubre,,2022,,,Forum on People-to-People and Cultural Exchanges,formal,BRICS,culture,general,,hybrid,china
+1299,BRICS2022,4,octubre,,2022,,,IP IT Workshop,formal,BRICS,sti,intellectual property,,virtual,china
+1300,BRICS2022,4,octubre,,2022,Moscú,Rusia,"International Scientific Conference on BRICS Science, Technology and Innovation Cooperation",formal,BRICS,sti,general,,presencial,china
+1301,BRICS2022,4,noviembre,,2022,,,IP Examiners’ Training,formal,BRICS,sti,intellectual property,,virtual,china
+1302,BRICS2022,4,noviembre,,2022,,,Seminar of Officials and Experts in Population Matters,formal,BRICS,social,population,,no data,china
+1303,BRICS2022,4,diciembre,,2022,,,SAIs Seminar on Sustainable Urban Mobility,formal,BRICS,infrastructure,transport,,virtual,china
+1304,BRICS2022,4,,,2022,,,8th Parliamentary Forum,formal,BRICS,government,legislative,,virtual,china
+1305,BRICS2022,4,,,2022,,,2nd International Journalism Training Program,formal,BRICS,communication,media,,hybrid,china
+1306,BRICS2022,4,,,2022,,,BRICS Games,formal,BRICS,culture,sport,,virtual,china
+1307,BRICS2022,4,,,2022,,,Police Training Programme,formal,BRICS,government,police,,virtual,china
+1308,BRICS2022,4,,,2022,,,7th Young Scientist Forum and Young Innovator Prize,formal,BRICS,sti,youth,,no data,china
+1309,BRICS2022,4,,,2022,,,Fusion Week,formal,BRICS,sti,physics,,no data,china
+1310,BRICS2022,4,,,2022,,,Workshop on Business Incubation,formal,BRICS,industry,incubators,,no data,china
+1311,BRICS2022,4,,,2022,,,Technology Transfer Network Cooperation Conference and related activities,formal,BRICS,sti,technology,,no data,china
+1312,BRICS2022,4,,,2022,,,2nd Joint Shooting and Broadcasting of Documentaries,formal,BRICS,culture,movies,,no data,china
+1313,BRICS2022,4,,,2022,Moscú,Rusia,Technology Transfer and Innovation Cooperation Forum,formal,BRICS,sti,technology,,presencial,china
+1314,BRICS2022,4,julio,,2022,,,BRICS Youth Camp,formal,BRICS,social,youth,,no data,china
+1315,BRICS2022,4,septiembre,,2022,,,the 4th BRICS International Municipal Forum in St.Petersburg,formal,BRICS,government,local government,,hybrid,china
+1316,BRICS2022,4,junio,,2022,,,WBA session on the margins of St.Petersburg International Economic Forum,formal,BRICS,economy,trade,business,hybrid,china
+1317,BRICS2022,4,,,2022,,,Start Up Forum Meeting,formal,BRICS,industry,start-up,,no data,china
+1318,BRICS2022,4,,,2022,,,innovation Launchpad as a Microsite (Knowledge Hub),formal,BRICS,sti,innovation,,no data,china
+1319,BRICS2022,4,,,2022,,,3rd Water Forum,formal,BRICS,environment,water,,no data,china
+1320,BRICS2022,4,,,2022,,,Foresight Meeting,formal,BRICS,organizational,general,,no data,china
+1321,BRICS2022,4,,,2022,,,Seminar on Cooperation with the New Development Bank,formal,BRICS,economy,finance,ndb,no data,china
