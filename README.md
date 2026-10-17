@@ -1,6 +1,6 @@
 # Datos y código de la tesis *Cooperando entre emergentes: el BRICS como caso de estudio*
 
-<!-- DOI: se agregará la insignia de Zenodo al publicar la primera versión -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23428803.svg)](https://doi.org/10.5281/zenodo.23428803)
 
 Este repositorio reúne los datos, el código y la documentación de los análisis empíricos de la tesis doctoral de **Mario Guillermo Guerrero** (Doctorado en Ciencia Política, Escuela de Política y Gobierno, Universidad Nacional de San Martín). Permite:
 
@@ -123,11 +123,14 @@ La lista completa está en `docs/metodologia.md`.
 
 Si usás estos datos o este código, citá el repositorio (versión archivada en Zenodo) y la tesis. Los metadatos de citación están en `CITATION.cff`; GitHub los muestra en el botón "Cite this repository".
 
-> Guerrero, M. G. (2026). *Datos y código de la tesis "Cooperando entre emergentes: el BRICS como caso de estudio"* (versión X.Y.Z) [Conjunto de datos y software]. Zenodo. https://doi.org/XX.XXXX/zenodo.XXXXXXX
+> Guerrero, M. G. (2026). *Datos y código de la tesis "Cooperando entre emergentes: el BRICS como caso de estudio"* (versión 1.0.0) [Conjunto de datos y software]. Zenodo. https://doi.org/10.5281/zenodo.23428804
 >
 > Guerrero, M. G. (2024). *Cooperando entre emergentes: el BRICS como caso de estudio* [Tesis de doctorado, Universidad Nacional de San Martín]. https://ri.unsam.edu.ar/handle/123456789/2535
 
-El número de versión y el DOI se completarán al publicar la primera versión.
+Zenodo asigna dos DOI:
+
+- **10.5281/zenodo.23428804** identifica la versión 1.0.0. Conviene citarlo cuando se quiere remitir exactamente a los datos usados.
+- **10.5281/zenodo.23428803** reúne todas las versiones y siempre lleva a la más reciente.
 
 ## Licencias
 

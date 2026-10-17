@@ -25,11 +25,18 @@ authors:
     orcid: "https://orcid.org/0000-0002-2821-6351"
     affiliation: CONICET-UNSL-CERI/UNCUYO
     email: marioguillermo.guerrero@fulbrightmail.org
-# Se completan al publicar la primera versión (Etapa 7):
-# version: 1.0.0
-# date-released: AAAA-MM-DD
-# doi: 10.5281/zenodo.XXXXXXX
-# repository-code: https://github.com/lewismgg1992/brics-tesis-datos
+version: 1.0.0
+date-released: 2026-10-17
+# DOI que reúne todas las versiones (concept DOI). El de la versión 1.0.0 está en identifiers.
+doi: 10.5281/zenodo.23428803
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23428804
+    description: DOI de la versión 1.0.0
+  - type: doi
+    value: 10.5281/zenodo.23428803
+    description: DOI de todas las versiones
+repository-code: "https://github.com/lewismgg1992/brics-tesis-datos"
 # Licencia del depósito (datos y documentación). El código se distribuye bajo
 # MIT (ver LICENSE). CFF interpreta varias licencias como alternativas, y
 # Zenodo admite una sola por depósito; por eso aquí se declara sólo CC BY 4.0.
@@ -61,7 +68,7 @@ preferred-citation:
   languages:
     - es
 references:
-  - type: dataset
+  - type: data
     title: National Material Capabilities (NMC) Data, Version 6.0
     authors:
       - name: Correlates of War Project
@@ -98,7 +105,7 @@ references:
     year: 1987
     start: 115
     end: 132
-  - type: dataset
+  - type: data
     title: United Nations General Assembly Voting Data
     authors:
       - family-names: Voeten

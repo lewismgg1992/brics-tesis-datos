@@ -275,6 +275,20 @@ Se compararon visualmente las 13 figuras de la tesis y las 2 complementarias con
 - El autor actualizó `scripts/`, `tests/` y `run_all.R` y volvió a ejecutar todo. Los 8 CSV procesados y 18 de las 19 figuras son idénticos byte a byte a los de la ejecución anterior. Sólo cambia `GastoMilitar_paises_corregida.png`, que ahora tiene el rótulo de D22.
 - Esa ejecución se incorpora al repositorio: `data/processed/` y `outputs/figuras/regeneradas/`.
 
+## 16/10/2026 — Publicación en GitHub (autorizada por el autor)
+
+- Commit inicial `e936833` subido a https://github.com/lewismgg1992/brics-tesis-datos, en la rama `main` (92 archivos). Se verificó que la página es pública, que el README se muestra y que GitHub reconoce `CITATION.cff` y las licencias.
+- El autor vinculó Zenodo y publicó el release `v1.0.0` (tag sobre `e936833`). El registro de Zenodo se verificó el 16/10/2026 y quedó con fecha 17/10/2026, que es la fecha UTC del release:
+  - autor, ORCID, afiliación y licencia CC BY 4.0, correctos;
+  - archivo `brics-tesis-datos-v1.0.0.zip` de 7,2 MB.
+- **DOI de la versión 1.0.0:** 10.5281/zenodo.23428804.
+- **DOI de todas las versiones:** 10.5281/zenodo.23428803. Se verificó que resuelve al registro anterior.
+- **`CITATION.cff` y README actualizados** con la versión, la fecha, los DOI, la dirección del repositorio y la insignia.
+  - En `references` se corrigió `type: dataset` → `type: data`, el valor válido en CFF 1.2.0.
+  - El archivo se validó contra el esquema oficial, sin errores.
+  - El archivo depositado en Zenodo para la v1.0.0 conserva la versión anterior de `CITATION.cff`. Es lo esperado: el DOI se asigna después de crear el release.
+- **Observación:** Zenodo clasificó el depósito como "Software", porque es el valor por defecto de la integración con GitHub. El autor puede cambiarlo a "Dataset" desde Zenodo sin cambiar el DOI.
+
 ## Pendientes
 
 - **P3 (cerrado por D22).** Unidades del gasto militar (miles de USD corrientes, frente al rótulo "M" y "millones (2021)"): documentar la discrepancia y decidir si la versión corregida de la figura cambia el rótulo.
