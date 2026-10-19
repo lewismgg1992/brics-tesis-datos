@@ -304,6 +304,13 @@ Se compararon visualmente las 13 figuras de la tesis y las 2 complementarias con
 - **Corrección:** `docs/reproducibilidad.md` decía "(27) comprobaciones" en el resultado esperado; ahora dice 28.
 - Los datos y el código no cambian respecto de la versión 1.0.0.
 
+- **Release `v1.1.0` publicado por el autor.** Datos verificados en Zenodo:
+  - DOI 10.5281/zenodo.23461781, fecha 19/10/2026 (UTC);
+  - la descripción incluye el resumen en inglés;
+  - el DOI general 10.5281/zenodo.23428803 ahora resuelve a esta versión.
+  - `CITATION.cff` se actualizó: fecha 2026-10-19 y DOI de la versión 1.1.0 agregado en `identifiers`.
+  - Zenodo volvió a asignar el tipo "Software" a esta versión; el autor debe cambiarlo a "Dataset", como en la 1.0.0.
+
 ## Pendientes
 
 - **P3 (cerrado por D22).** Unidades del gasto militar (miles de USD corrientes, frente al rótulo "M" y "millones (2021)"): documentar la discrepancia y decidir si la versión corregida de la figura cambia el rótulo.

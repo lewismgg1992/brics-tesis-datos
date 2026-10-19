@@ -39,10 +39,13 @@ authors:
     affiliation: CONICET-UNSL-CERI/UNCUYO
     email: marioguillermo.guerrero@fulbrightmail.org
 version: 1.1.0
-date-released: 2026-10-18
+date-released: 2026-10-19
 # DOI que reúne todas las versiones (concept DOI). El de la versión 1.0.0 está en identifiers.
 doi: 10.5281/zenodo.23428803
 identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23461781
+    description: DOI de la versión 1.1.0 / DOI of version 1.1.0
   - type: doi
     value: 10.5281/zenodo.23428804
     description: DOI de la versión 1.0.0 / DOI of version 1.0.0

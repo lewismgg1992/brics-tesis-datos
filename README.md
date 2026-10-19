@@ -132,7 +132,7 @@ Si usás estos datos o este código, citá el repositorio (versión archivada en
 Zenodo asigna dos DOI:
 
 - **10.5281/zenodo.23428803** reúne todas las versiones y siempre lleva a la más reciente.
-- Cada versión tiene además su propio DOI, que figura en Zenodo. Conviene citarlo cuando se quiere remitir exactamente a los archivos usados; por ejemplo, el de la versión 1.0.0 es **10.5281/zenodo.23428804**.
+- Cada versión tiene además su propio DOI, que figura en Zenodo. Conviene citarlo cuando se quiere remitir exactamente a los archivos usados; por ejemplo, el de la versión 1.1.0 es **10.5281/zenodo.23461781** y el de la 1.0.0, **10.5281/zenodo.23428804**. Las dos versiones tienen los mismos datos y código; la 1.1.0 agrega la documentación en inglés.
 
 ## Licencias
 

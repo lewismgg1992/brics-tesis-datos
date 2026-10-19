@@ -128,7 +128,7 @@ If you use these data or this code, please cite the repository (the version arch
 Zenodo assigns two kinds of DOI:
 
 - **10.5281/zenodo.23428803** covers all versions and always resolves to the latest one.
-- Each version also has its own DOI, listed on Zenodo. To refer to the exact files you used, cite that one; for example, version 1.0.0 is **10.5281/zenodo.23428804**.
+- Each version also has its own DOI, listed on Zenodo. To refer to the exact files you used, cite that one; for example, version 1.1.0 is **10.5281/zenodo.23461781** and version 1.0.0 is **10.5281/zenodo.23428804**. Both versions contain the same data and code; 1.1.0 adds the English documentation.
 
 ## Licenses
 
