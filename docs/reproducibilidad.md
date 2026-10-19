@@ -1,5 +1,7 @@
 # Guía de reproducibilidad
 
+**Español** · [English version](en/reproducibility.md)
+
 Instrucciones para regenerar, desde cero, los datos procesados y las figuras del repositorio.
 
 ## Requisitos
@@ -46,7 +48,7 @@ Instrucciones para regenerar, desde cero, los datos procesados y las figuras del
 
 ## Resultado esperado
 
-- La última línea de la consola debe decir: `Todas las comprobaciones (27) se cumplen.`
+- La última línea de la consola debe decir: `Todas las comprobaciones (28) se cumplen.`
 - Datos procesados en `data/processed/` y 19 figuras en `outputs/figuras/regeneradas/`.
 - Mensajes esperables durante la ejecución:
   - "Versión tesis: 221 de 224 celdas reconstruidas exactamente", seguido de 3 celdas de gasto militar que no coinciden. Son los errores de transcripción ya documentados en `docs/decisiones.md`.

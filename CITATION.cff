@@ -19,23 +19,36 @@ abstract: >-
   corregida; y (3) proporciones de votos de los países del BRICS en la
   Asamblea General de la ONU (1946-2019), a partir de los datos de Voeten
   distribuidos en el paquete de R unvotes 0.3.0.
+  English: Data, R code and documentation for the empirical analyses of the
+  doctoral thesis "Cooperando entre emergentes: el BRICS como caso de
+  estudio" (Cooperating among emerging powers: the BRICS as a case study;
+  Universidad Nacional de San Martín, Argentina, 2024). It includes three
+  datasets: (1) an original database of 1,321 BRICS meetings (2006-2022),
+  coded by level, formal/informal type, host organization, thematic area and
+  sub-area, format and pro tempore presidency; (2) military capability
+  indicators (military expenditure and CINC) for the BRICS and G7 countries
+  (1980-2015), from Correlates of War NMC v6.0, in the version published in
+  the thesis and a corrected version; and (3) vote shares of the BRICS
+  countries in the UN General Assembly (1946-2019), from Voeten's data as
+  distributed in the R package unvotes 0.3.0. Documentation is available in
+  Spanish and English.
 authors:
   - family-names: Guerrero
     given-names: Mario Guillermo
     orcid: "https://orcid.org/0000-0002-2821-6351"
     affiliation: CONICET-UNSL-CERI/UNCUYO
     email: marioguillermo.guerrero@fulbrightmail.org
-version: 1.0.0
-date-released: 2026-10-17
+version: 1.1.0
+date-released: 2026-10-18
 # DOI que reúne todas las versiones (concept DOI). El de la versión 1.0.0 está en identifiers.
 doi: 10.5281/zenodo.23428803
 identifiers:
   - type: doi
     value: 10.5281/zenodo.23428804
-    description: DOI de la versión 1.0.0
+    description: DOI de la versión 1.0.0 / DOI of version 1.0.0
   - type: doi
     value: 10.5281/zenodo.23428803
-    description: DOI de todas las versiones
+    description: DOI de todas las versiones / DOI of all versions
 repository-code: "https://github.com/lewismgg1992/brics-tesis-datos"
 # Licencia del depósito (datos y documentación). El código se distribuye bajo
 # MIT (ver LICENSE). CFF interpreta varias licencias como alternativas, y
@@ -52,6 +65,11 @@ keywords:
   - votaciones
   - R
   - reproducibilidad
+  - international cooperation
+  - institutionalization
+  - military capabilities
+  - UN General Assembly voting
+  - reproducibility
 preferred-citation:
   type: thesis
   authors:

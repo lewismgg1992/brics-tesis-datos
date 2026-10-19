@@ -1,5 +1,7 @@
 # Fuentes
 
+**Español** · [English version](en/sources.md)
+
 Fuentes de los datos de cada conjunto, condiciones de acceso y forma de citarlas. Los enlaces se verificaron el 13/10/2026, salvo que se indique otra fecha.
 
 ## 1. Reuniones del BRICS (datos propios del autor)

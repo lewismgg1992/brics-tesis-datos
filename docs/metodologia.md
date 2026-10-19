@@ -1,5 +1,7 @@
 # Metodología
 
+**Español** · [English version](en/methodology.md)
+
 Este documento explica cómo se construyó y procesó cada conjunto de datos. Se basa en tres fuentes, que se indican en cada caso:
 
 - **Tesis:** el Anexo metodológico de la tesis (cap. 9) y sus capítulos 3 y 5.

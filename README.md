@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23428803.svg)](https://doi.org/10.5281/zenodo.23428803)
 
+**Español** · [English version](README.en.md)
+
 Este repositorio reúne los datos, el código y la documentación de los análisis empíricos de la tesis doctoral de **Mario Guillermo Guerrero** (Doctorado en Ciencia Política, Escuela de Política y Gobierno, Universidad Nacional de San Martín). Permite:
 
 - recuperar los datos usados en la tesis;
@@ -15,7 +17,7 @@ Este repositorio reúne los datos, el código y la documentación de los anális
 > 2. Military capability indicators (military expenditure and CINC) for the BRICS and G7 countries (1980–2015), from the Correlates of War National Material Capabilities v6.0.
 > 3. Voting patterns of the BRICS countries in the UN General Assembly (1946–2019), from Voeten's data via the `unvotes` R package.
 >
-> All figures can be regenerated with `run_all.R`. Documentation is in Spanish.
+> All figures can be regenerated with `run_all.R`. **Full English documentation:** [README.en.md](README.en.md) and `docs/en/` (data dictionary, methodology, sources, reproducibility guide).
 
 ## La tesis
 
@@ -42,7 +44,7 @@ Cada archivo y cada figura indica en su nombre a qué versión pertenece. Ver `d
 
 ```text
 brics-tesis-datos/
-├── README.md, CITATION.cff, LICENSE, LICENSE-data
+├── README.md, README.en.md, CITATION.cff, LICENSE, LICENSE-data
 ├── brics-tesis-datos.Rproj      proyecto de RStudio
 ├── run_all.R                    ejecuta todo en orden
 ├── renv.lock                    versiones de R y de los paquetes
@@ -64,7 +66,7 @@ brics-tesis-datos/
 │   ├── tesis/                   figuras tal como se publicaron
 │   └── regeneradas/             figuras producidas por los scripts
 ├── tests/verificar_reproduccion.R   comprobaciones automáticas
-└── docs/                        documentación
+└── docs/                        documentación (versiones en inglés en docs/en/)
 ```
 
 ## Documentación
@@ -123,14 +125,14 @@ La lista completa está en `docs/metodologia.md`.
 
 Si usás estos datos o este código, citá el repositorio (versión archivada en Zenodo) y la tesis. Los metadatos de citación están en `CITATION.cff`; GitHub los muestra en el botón "Cite this repository".
 
-> Guerrero, M. G. (2026). *Datos y código de la tesis "Cooperando entre emergentes: el BRICS como caso de estudio"* (versión 1.0.0) [Conjunto de datos y software]. Zenodo. https://doi.org/10.5281/zenodo.23428804
+> Guerrero, M. G. (2026). *Datos y código de la tesis "Cooperando entre emergentes: el BRICS como caso de estudio"* [Conjunto de datos y software]. Zenodo. https://doi.org/10.5281/zenodo.23428803
 >
 > Guerrero, M. G. (2024). *Cooperando entre emergentes: el BRICS como caso de estudio* [Tesis de doctorado, Universidad Nacional de San Martín]. https://ri.unsam.edu.ar/handle/123456789/2535
 
 Zenodo asigna dos DOI:
 
-- **10.5281/zenodo.23428804** identifica la versión 1.0.0. Conviene citarlo cuando se quiere remitir exactamente a los datos usados.
 - **10.5281/zenodo.23428803** reúne todas las versiones y siempre lleva a la más reciente.
+- Cada versión tiene además su propio DOI, que figura en Zenodo. Conviene citarlo cuando se quiere remitir exactamente a los archivos usados; por ejemplo, el de la versión 1.0.0 es **10.5281/zenodo.23428804**.
 
 ## Licencias
 

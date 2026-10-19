@@ -1,5 +1,7 @@
 # Diccionario de datos
 
+**Español** · [English version](en/data_dictionary.md)
+
 Este documento describe los archivos de datos publicados en el repositorio.
 
 - Los nombres de las variables se conservan tal como estaban en los archivos originales del autor.

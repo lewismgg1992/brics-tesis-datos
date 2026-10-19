@@ -287,7 +287,22 @@ Se compararon visualmente las 13 figuras de la tesis y las 2 complementarias con
   - En `references` se corrigió `type: dataset` → `type: data`, el valor válido en CFF 1.2.0.
   - El archivo se validó contra el esquema oficial, sin errores.
   - El archivo depositado en Zenodo para la v1.0.0 conserva la versión anterior de `CITATION.cff`. Es lo esperado: el DOI se asigna después de crear el release.
-- **Observación:** Zenodo clasificó el depósito como "Software", porque es el valor por defecto de la integración con GitHub. El autor puede cambiarlo a "Dataset" desde Zenodo sin cambiar el DOI.
+- **Observación:** Zenodo clasificó el depósito como "Software", porque es el valor por defecto de la integración con GitHub. El autor puede cambiarlo a "Dataset" desde Zenodo sin cambiar el DOI. **Hecho:** el autor lo cambió a "Dataset". Se verificó el 16/10/2026.
+
+## 18/10/2026 — Versión 1.1.0: documentación en inglés (autor)
+
+- **D30. Traducción al inglés** (aprobada por el autor). Se agregan versiones paralelas en inglés de cinco documentos, y el español sigue siendo el idioma principal:
+  - `README.en.md`;
+  - `docs/en/data_dictionary.md`, `docs/en/methodology.md`, `docs/en/sources.md` y `docs/en/reproducibility.md`.
+- **Lo que no se traduce:**
+  - los valores de los datos, los nombres de variables y archivos y los rótulos de las figuras, para no apartarse de la tesis (el diccionario en inglés explica cada valor);
+  - las tablas fuente, los scripts y los documentos de control (`cambios_tecnicos.md`, `figuras.md` y `decisiones.md`).
+- **Cambios en los archivos existentes:**
+  - `CITATION.cff` tiene ahora un resumen bilingüe, que es el texto que toma Zenodo, más palabras clave en inglés y la versión 1.1.0.
+  - Los documentos en español enlazan a su versión en inglés.
+  - La cita del README remite al DOI de todas las versiones.
+- **Corrección:** `docs/reproducibilidad.md` decía "(27) comprobaciones" en el resultado esperado; ahora dice 28.
+- Los datos y el código no cambian respecto de la versión 1.0.0.
 
 ## Pendientes
 
